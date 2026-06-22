@@ -1,0 +1,209 @@
+# E-Commerce Customer Analytics & Interactive Dashboard
+
+## Business Report
+
+### 1. Project Overview
+
+The **E-Commerce Customer Analytics & Interactive Dashboard** project aims to analyze customer purchasing behavior and transform raw business data into meaningful insights. The project leverages Python, Data Analytics techniques, Machine Learning-based customer segmentation, and interactive dashboarding to support data-driven business decisions.
+
+The dashboard enables stakeholders to monitor business performance, identify customer trends, and optimize marketing and sales strategies.
+
+---
+
+## 2. Project Objectives
+
+The primary objectives of this project are:
+
+* Analyze customer purchasing patterns and behavior.
+* Define and monitor key business performance indicators (KPIs).
+* Perform customer segmentation using machine learning techniques.
+* Visualize business insights through an interactive dashboard.
+* Support strategic decision-making with data-driven recommendations.
+
+---
+
+## 3. Tools and Technologies Used
+
+### Programming Language
+
+* Python
+
+### Libraries
+
+* Pandas
+* NumPy
+* Scikit-Learn
+* Plotly
+* Streamlit
+
+### Development Environment
+
+* Visual Studio Code (VS Code)
+
+### Data Visualization
+
+* Plotly Interactive Charts
+* Streamlit Dashboard
+
+---
+
+## 4. Dataset Description
+
+The dataset contains customer-related information including:
+
+| Column Name     | Description                |
+| --------------- | -------------------------- |
+| Customer_ID     | Unique Customer Identifier |
+| Age             | Customer Age               |
+| Gender          | Customer Gender            |
+| Category        | Product Category           |
+| Purchase_Amount | Amount Spent               |
+| Rating          | Customer Rating            |
+| Order_Count     | Number of Orders           |
+
+The dataset was generated and processed for analytical purposes.
+
+---
+
+## 5. Key Performance Indicators (KPIs)
+
+### Total Revenue
+
+Measures the overall revenue generated from customer purchases.
+
+**Formula:**
+
+Total Revenue = Sum(Purchase Amount)
+
+### Average Order Value (AOV)
+
+Measures the average amount spent per order.
+
+**Formula:**
+
+AOV = Total Revenue / Total Orders
+
+### Total Customers
+
+Represents the number of unique customers in the dataset.
+
+### Category-Wise Revenue
+
+Measures revenue contribution from each product category.
+
+### Customer Segmentation
+
+Groups customers based on purchasing behavior and order frequency.
+
+---
+
+## 6. Exploratory Data Analysis (EDA)
+
+Several exploratory analyses were performed:
+
+* Revenue distribution analysis
+* Customer demographic analysis
+* Product category performance analysis
+* Gender-wise purchasing behavior
+* Purchase amount distribution
+* Customer order frequency analysis
+
+These analyses helped uncover important business patterns and trends.
+
+---
+
+## 7. Customer Segmentation Analysis
+
+Customer segmentation was performed using the **K-Means Clustering Algorithm**.
+
+### Features Used
+
+* Purchase Amount
+* Order Count
+
+### Number of Clusters
+
+* 4 Customer Segments
+
+### Purpose
+
+The segmentation process helps identify:
+
+* High-value customers
+* Medium-value customers
+* Low-value customers
+* Potential loyal customers
+
+### Business Benefits
+
+* Personalized marketing campaigns
+* Better customer retention strategies
+* Improved customer experience
+* Enhanced revenue optimization
+
+---
+
+## 8. Dashboard Development
+
+An interactive dashboard was developed using Streamlit and Plotly.
+
+### Dashboard Features
+
+* KPI Summary Cards
+* Revenue Analysis
+* Customer Distribution Charts
+* Category Performance Analysis
+* Purchase Amount Distribution
+* Interactive Visualizations
+
+### Benefits
+
+* Real-time business monitoring
+* Easy data exploration
+* Improved decision-making
+* Interactive user experience
+
+---
+
+## 9. Key Findings
+
+The analysis revealed several valuable insights:
+
+1. Customer spending behavior varies significantly across categories.
+2. A small group of customers contributes a major portion of total revenue.
+3. Certain product categories generate higher revenue than others.
+4. Customer segmentation can improve targeted marketing efforts.
+5. Interactive dashboards significantly enhance business intelligence capabilities.
+
+---
+
+## 10. Business Recommendations
+
+Based on the analysis, the following recommendations are proposed:
+
+* Focus marketing efforts on high-value customer segments.
+* Improve retention strategies for medium-value customers.
+* Promote high-performing product categories.
+* Develop personalized offers based on customer segments.
+* Continuously monitor KPIs through the dashboard.
+
+---
+
+## 11. Conclusion
+
+This project successfully demonstrates the application of Data Analytics, Machine Learning, and Business Intelligence techniques to solve real-world business problems. Through customer segmentation, KPI analysis, and interactive dashboarding, the project provides actionable insights that can support strategic decision-making and business growth.
+
+The developed dashboard serves as a powerful tool for monitoring business performance and understanding customer behavior in an efficient and user-friendly manner.
+
+---
+
+## Developed By
+
+**Balgopal Khanda**
+B.Tech CSE (Data Science)
+GITA Autonomous College, Bhubaneswar
+
+### Internship Project
+
+**Deep-Dive Analysis & Interactive Dashboarding**
+ApexPlanet Software Pvt. Ltd.

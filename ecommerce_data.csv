@@ -1,0 +1,5001 @@
+Customer_ID,Age,Gender,Category,Purchase_Amount,Rating,Order_Count
+1000,56,Male,Electronics,8011,3.6,9
+1001,46,Female,Electronics,5965,1.9,13
+1002,32,Female,Fashion,8763,1.5,9
+1003,25,Male,Sports,4882,2.7,14
+1004,38,Female,Sports,565,1.7,5
+1005,56,Female,Books,1379,1.4,2
+1006,36,Female,Electronics,8759,2.2,7
+1007,40,Female,Books,9908,4.4,16
+1008,28,Female,Electronics,7722,1.1,11
+1009,28,Female,Fashion,5569,2.2,11
+1010,41,Male,Sports,3739,2.7,12
+1011,53,Male,Sports,1007,3.0,13
+1012,57,Male,Fashion,8204,1.7,8
+1013,41,Male,Books,1625,4.9,16
+1014,20,Male,Books,1385,3.3,1
+1015,39,Female,Home Decor,3341,3.1,13
+1016,19,Male,Electronics,8475,1.0,11
+1017,41,Male,Books,7065,2.9,4
+1018,47,Female,Fashion,6583,4.4,4
+1019,55,Female,Books,5370,1.9,15
+1020,19,Male,Sports,3025,2.4,3
+1021,38,Female,Electronics,9617,1.1,19
+1022,50,Female,Home Decor,4715,4.9,2
+1023,29,Female,Electronics,2438,1.3,6
+1024,39,Female,Sports,3732,4.6,8
+1025,42,Male,Sports,4244,2.3,17
+1026,44,Female,Sports,6721,3.4,5
+1027,59,Male,Sports,3965,3.7,2
+1028,45,Male,Fashion,940,1.6,12
+1029,33,Female,Home Decor,961,2.8,5
+1030,32,Female,Sports,9303,2.3,10
+1031,20,Female,Sports,5913,1.2,9
+1032,54,Male,Books,6255,4.3,8
+1033,24,Female,Home Decor,5512,1.2,1
+1034,38,Female,Electronics,3663,3.6,6
+1035,26,Female,Home Decor,7252,2.3,11
+1036,56,Female,Home Decor,505,1.8,3
+1037,35,Female,Home Decor,5276,3.7,15
+1038,21,Male,Sports,7538,3.3,11
+1039,42,Female,Sports,6914,2.3,5
+1040,31,Female,Fashion,6239,3.1,16
+1041,26,Female,Electronics,4470,2.0,7
+1042,43,Male,Books,3106,4.5,6
+1043,19,Female,Home Decor,598,2.3,9
+1044,37,Male,Electronics,1025,2.0,7
+1045,45,Male,Electronics,6837,4.0,3
+1046,24,Female,Fashion,1680,1.1,11
+1047,25,Female,Books,8567,2.1,12
+1048,52,Female,Home Decor,9830,2.5,11
+1049,31,Male,Books,4991,4.5,2
+1050,34,Male,Fashion,6422,4.8,1
+1051,53,Male,Sports,3571,3.9,2
+1052,57,Male,Electronics,6141,3.0,14
+1053,21,Male,Home Decor,7881,3.6,13
+1054,19,Male,Sports,3292,2.7,5
+1055,23,Female,Fashion,5278,2.2,2
+1056,59,Female,Books,514,4.8,19
+1057,21,Male,Electronics,2915,1.5,17
+1058,46,Female,Home Decor,3185,2.4,11
+1059,35,Female,Sports,9928,4.6,16
+1060,43,Male,Sports,8659,3.9,18
+1061,51,Male,Electronics,8426,1.1,8
+1062,27,Female,Books,4600,1.1,2
+1063,53,Male,Fashion,6874,3.1,17
+1064,31,Male,Books,6504,2.9,11
+1065,48,Female,Books,6021,2.8,14
+1066,32,Male,Books,7655,2.2,16
+1067,25,Female,Electronics,3797,4.9,15
+1068,31,Female,Electronics,3133,2.1,15
+1069,40,Female,Fashion,4390,3.0,3
+1070,57,Female,Books,1291,2.6,7
+1071,38,Female,Electronics,9691,1.7,12
+1072,33,Male,Fashion,651,1.8,3
+1073,35,Male,Fashion,3563,4.7,19
+1074,41,Male,Books,6867,4.4,10
+1075,43,Male,Home Decor,8404,1.8,8
+1076,42,Female,Books,2591,4.5,16
+1077,58,Female,Home Decor,5099,1.8,16
+1078,46,Male,Fashion,7908,3.5,12
+1079,32,Female,Electronics,3477,1.3,5
+1080,18,Male,Sports,1342,4.5,6
+1081,42,Male,Fashion,4293,1.2,6
+1082,24,Male,Electronics,2159,3.2,8
+1083,26,Female,Fashion,9289,4.1,17
+1084,41,Female,Books,5662,1.5,12
+1085,18,Female,Home Decor,6946,2.6,14
+1086,25,Female,Fashion,4770,1.2,2
+1087,41,Male,Electronics,4103,3.7,19
+1088,28,Female,Books,7264,2.2,6
+1089,34,Female,Sports,1716,3.2,18
+1090,25,Female,Books,2791,4.7,4
+1091,52,Male,Home Decor,4311,2.2,5
+1092,52,Male,Books,5493,1.2,6
+1093,50,Female,Sports,5642,3.7,15
+1094,22,Female,Electronics,7362,4.1,6
+1095,59,Female,Fashion,9623,4.8,8
+1096,56,Female,Home Decor,7033,1.6,9
+1097,58,Male,Sports,8026,2.6,6
+1098,45,Female,Home Decor,3478,4.4,2
+1099,24,Female,Books,5847,4.2,16
+1100,26,Female,Home Decor,8433,3.5,1
+1101,25,Male,Sports,5095,2.1,16
+1102,29,Male,Fashion,6711,2.1,1
+1103,51,Female,Fashion,2670,1.5,1
+1104,50,Female,Home Decor,9027,4.7,7
+1105,40,Female,Electronics,9868,1.7,16
+1106,41,Female,Home Decor,3521,3.3,17
+1107,54,Female,Books,9470,3.3,16
+1108,52,Male,Fashion,8336,2.5,16
+1109,57,Male,Fashion,1685,2.4,6
+1110,39,Male,Fashion,3785,3.7,18
+1111,44,Female,Electronics,3947,2.6,3
+1112,52,Male,Electronics,4491,2.0,8
+1113,18,Male,Sports,9630,2.6,4
+1114,52,Male,Home Decor,5399,4.2,4
+1115,54,Female,Home Decor,2435,4.9,17
+1116,31,Female,Books,9325,3.5,5
+1117,20,Male,Fashion,9945,4.1,14
+1118,18,Female,Electronics,9774,3.1,15
+1119,22,Male,Books,1785,3.5,12
+1120,43,Male,Books,9045,5.0,13
+1121,31,Male,Electronics,7979,2.8,18
+1122,56,Male,Home Decor,5755,1.3,14
+1123,44,Female,Fashion,2385,4.8,19
+1124,26,Female,Home Decor,5562,4.2,7
+1125,32,Female,Books,7566,2.6,6
+1126,32,Female,Fashion,3522,4.9,5
+1127,43,Male,Sports,5765,2.4,4
+1128,59,Female,Books,2047,2.5,18
+1129,30,Male,Home Decor,4704,3.4,14
+1130,49,Female,Home Decor,8090,2.1,16
+1131,56,Female,Home Decor,1868,3.8,14
+1132,49,Female,Electronics,2257,1.6,5
+1133,21,Male,Books,5417,1.4,11
+1134,47,Male,Fashion,3984,3.1,12
+1135,54,Male,Home Decor,3552,3.2,18
+1136,40,Male,Home Decor,8882,1.4,4
+1137,56,Female,Electronics,1432,4.9,13
+1138,32,Male,Fashion,4737,3.3,13
+1139,46,Male,Books,7740,1.6,4
+1140,53,Female,Sports,3738,2.2,7
+1141,30,Female,Electronics,1065,4.2,2
+1142,49,Male,Books,5878,3.1,18
+1143,24,Female,Sports,6058,1.8,6
+1144,39,Male,Home Decor,9826,1.4,16
+1145,45,Female,Home Decor,1243,2.7,3
+1146,19,Male,Fashion,9364,2.3,15
+1147,59,Male,Sports,9222,3.6,10
+1148,23,Male,Home Decor,5909,4.7,9
+1149,45,Male,Home Decor,9253,2.0,11
+1150,45,Male,Fashion,6129,4.4,14
+1151,37,Female,Books,6818,4.7,12
+1152,47,Male,Home Decor,801,4.6,7
+1153,28,Male,Electronics,4267,4.8,11
+1154,45,Male,Electronics,4780,4.4,17
+1155,42,Male,Books,8006,3.4,9
+1156,56,Male,Sports,9201,2.6,13
+1157,50,Female,Fashion,7462,3.0,16
+1158,18,Female,Electronics,5929,4.5,3
+1159,44,Male,Electronics,7748,2.2,5
+1160,30,Female,Books,3945,1.6,17
+1161,58,Male,Sports,2703,1.6,1
+1162,20,Female,Sports,3334,4.3,9
+1163,56,Female,Books,9486,4.0,17
+1164,23,Male,Electronics,2979,3.0,13
+1165,25,Female,Fashion,5356,2.1,15
+1166,44,Female,Electronics,934,3.7,8
+1167,26,Male,Sports,2206,1.2,8
+1168,54,Male,Electronics,8760,3.3,2
+1169,50,Female,Fashion,6225,2.6,10
+1170,59,Female,Home Decor,2404,4.9,5
+1171,41,Female,Electronics,7518,3.0,16
+1172,32,Male,Books,4459,3.2,19
+1173,49,Female,Home Decor,7325,3.8,1
+1174,49,Female,Books,6847,2.9,13
+1175,41,Female,Books,6656,1.9,4
+1176,58,Male,Books,3213,3.1,7
+1177,29,Male,Electronics,6694,4.8,1
+1178,56,Male,Sports,7012,2.6,2
+1179,19,Male,Home Decor,7367,3.7,16
+1180,20,Female,Fashion,4227,4.9,14
+1181,54,Male,Sports,4046,4.3,5
+1182,34,Female,Electronics,2803,3.6,14
+1183,19,Female,Books,4181,3.9,17
+1184,19,Female,Fashion,8352,4.7,12
+1185,45,Female,Home Decor,3721,4.8,12
+1186,40,Male,Sports,4874,4.9,3
+1187,54,Male,Sports,1582,3.5,2
+1188,49,Male,Fashion,9137,2.5,15
+1189,50,Male,Electronics,2092,1.5,11
+1190,18,Male,Home Decor,6108,2.5,10
+1191,36,Female,Fashion,6026,4.8,18
+1192,19,Male,Books,5679,4.6,2
+1193,43,Male,Home Decor,6972,3.1,7
+1194,49,Male,Sports,3275,3.1,7
+1195,23,Male,Fashion,2090,2.2,7
+1196,49,Female,Sports,6504,2.8,14
+1197,21,Female,Sports,7730,3.9,2
+1198,28,Female,Sports,2731,2.6,2
+1199,34,Female,Electronics,5618,1.8,15
+1200,55,Female,Sports,6954,3.2,11
+1201,41,Male,Books,8460,1.9,10
+1202,22,Female,Books,2061,4.9,3
+1203,51,Female,Home Decor,4146,2.6,17
+1204,23,Female,Sports,8096,4.6,9
+1205,39,Male,Sports,7740,1.9,15
+1206,28,Male,Fashion,5442,1.8,14
+1207,33,Female,Electronics,3738,3.5,19
+1208,50,Male,Home Decor,2100,4.1,17
+1209,26,Male,Sports,6200,3.3,17
+1210,23,Female,Fashion,6571,1.9,16
+1211,33,Male,Electronics,1209,1.2,8
+1212,46,Male,Home Decor,3471,3.5,7
+1213,20,Male,Home Decor,1293,1.5,12
+1214,37,Female,Sports,3599,2.4,1
+1215,53,Female,Home Decor,6530,3.7,12
+1216,36,Female,Fashion,6265,1.4,6
+1217,43,Male,Home Decor,526,1.5,16
+1218,20,Female,Books,7193,1.2,18
+1219,36,Male,Fashion,5822,5.0,19
+1220,37,Male,Electronics,8776,2.5,3
+1221,49,Male,Electronics,6451,4.6,3
+1222,24,Female,Sports,3601,2.2,5
+1223,58,Female,Sports,7109,4.0,3
+1224,50,Female,Books,9814,1.9,19
+1225,57,Female,Electronics,5809,3.0,5
+1226,56,Male,Electronics,511,4.3,14
+1227,35,Female,Electronics,8270,4.3,16
+1228,57,Male,Electronics,5913,4.2,1
+1229,18,Female,Home Decor,6274,4.3,17
+1230,28,Female,Fashion,679,1.8,11
+1231,45,Female,Fashion,1296,2.9,9
+1232,42,Male,Books,7779,2.9,4
+1233,40,Male,Home Decor,7688,4.6,2
+1234,48,Male,Electronics,7812,2.2,9
+1235,47,Male,Electronics,2524,4.7,5
+1236,59,Male,Sports,8166,2.8,4
+1237,52,Female,Sports,3717,3.7,5
+1238,24,Male,Books,7084,2.1,18
+1239,33,Male,Electronics,9578,2.6,13
+1240,43,Male,Books,5785,3.8,5
+1241,19,Male,Home Decor,7870,3.1,19
+1242,18,Female,Fashion,2019,4.7,3
+1243,29,Male,Electronics,7111,3.9,18
+1244,22,Female,Home Decor,7356,3.3,6
+1245,54,Female,Electronics,2932,4.5,6
+1246,49,Female,Sports,6957,3.7,5
+1247,26,Male,Books,5366,3.6,1
+1248,58,Female,Sports,5554,2.0,8
+1249,52,Male,Fashion,9608,2.6,1
+1250,36,Male,Sports,2570,3.7,6
+1251,33,Male,Electronics,2281,4.6,14
+1252,20,Male,Sports,9030,2.3,11
+1253,37,Male,Electronics,2016,1.9,2
+1254,41,Female,Fashion,5991,3.4,4
+1255,50,Female,Sports,9606,1.3,13
+1256,41,Male,Books,6449,3.9,7
+1257,28,Female,Books,3790,3.8,6
+1258,25,Male,Books,5070,2.4,3
+1259,53,Female,Sports,1879,4.6,9
+1260,55,Female,Sports,8170,3.0,14
+1261,57,Female,Sports,1300,3.6,11
+1262,37,Female,Electronics,9938,1.8,5
+1263,52,Female,Fashion,5767,2.7,14
+1264,42,Male,Books,3995,4.4,19
+1265,52,Male,Electronics,3757,1.9,8
+1266,42,Female,Books,7058,2.6,7
+1267,46,Male,Electronics,1481,2.3,7
+1268,35,Female,Sports,2588,1.6,3
+1269,35,Male,Books,3452,2.2,3
+1270,19,Female,Sports,9703,1.9,18
+1271,52,Female,Books,2626,4.7,13
+1272,33,Female,Home Decor,5312,4.0,1
+1273,58,Male,Electronics,8563,2.3,5
+1274,53,Male,Home Decor,4361,4.1,4
+1275,50,Female,Electronics,6403,1.1,16
+1276,21,Female,Fashion,3091,3.1,15
+1277,50,Male,Books,9857,2.0,18
+1278,31,Male,Fashion,3822,1.5,17
+1279,38,Male,Fashion,6937,4.5,14
+1280,37,Male,Electronics,9301,1.8,14
+1281,25,Male,Home Decor,3361,4.3,19
+1282,24,Female,Sports,2155,2.7,6
+1283,20,Male,Electronics,2255,1.1,13
+1284,34,Female,Sports,8737,3.9,18
+1285,50,Female,Fashion,9951,3.4,15
+1286,29,Male,Sports,6727,2.4,7
+1287,39,Male,Home Decor,5138,2.1,19
+1288,39,Female,Electronics,3067,1.3,17
+1289,47,Male,Home Decor,3623,4.8,9
+1290,55,Female,Home Decor,5664,3.0,11
+1291,55,Male,Electronics,7581,1.3,5
+1292,25,Male,Home Decor,5407,4.5,2
+1293,44,Male,Books,5462,2.1,15
+1294,44,Female,Books,7650,1.8,12
+1295,51,Male,Books,2266,2.1,10
+1296,38,Female,Sports,4049,3.3,10
+1297,47,Male,Home Decor,2809,1.3,11
+1298,50,Female,Electronics,2476,2.9,10
+1299,45,Male,Electronics,7680,4.6,7
+1300,50,Female,Sports,2990,1.8,14
+1301,22,Female,Electronics,9417,2.3,13
+1302,36,Female,Books,4881,2.6,5
+1303,21,Female,Home Decor,6487,3.3,19
+1304,52,Female,Electronics,7925,4.7,10
+1305,34,Female,Electronics,4119,2.6,8
+1306,45,Male,Fashion,6560,1.3,18
+1307,47,Female,Fashion,9189,2.4,1
+1308,46,Female,Fashion,4476,1.8,5
+1309,23,Female,Home Decor,1204,3.6,11
+1310,52,Male,Books,5952,1.1,11
+1311,58,Male,Books,6594,2.2,16
+1312,54,Male,Books,4181,3.2,10
+1313,41,Female,Home Decor,4638,2.1,15
+1314,46,Male,Home Decor,2416,3.2,7
+1315,48,Male,Fashion,8001,1.5,15
+1316,52,Female,Electronics,2345,4.8,16
+1317,50,Female,Sports,5154,2.2,6
+1318,38,Male,Sports,6913,4.7,11
+1319,49,Female,Electronics,8611,2.3,17
+1320,40,Female,Fashion,8490,4.1,15
+1321,50,Female,Electronics,3590,2.0,16
+1322,20,Female,Electronics,1870,3.7,2
+1323,35,Male,Sports,2428,2.3,4
+1324,42,Female,Fashion,2136,3.0,19
+1325,59,Male,Home Decor,6680,3.7,6
+1326,48,Male,Sports,8783,3.4,18
+1327,20,Male,Home Decor,2343,3.3,11
+1328,57,Male,Fashion,8876,1.3,9
+1329,41,Female,Electronics,1331,2.0,3
+1330,49,Female,Books,6038,3.3,2
+1331,39,Female,Books,5815,1.1,18
+1332,40,Male,Fashion,8955,2.0,15
+1333,19,Male,Books,5827,1.9,18
+1334,44,Male,Home Decor,1786,2.0,19
+1335,59,Female,Books,2029,3.1,15
+1336,19,Male,Fashion,7155,3.3,17
+1337,43,Female,Fashion,2377,4.6,18
+1338,34,Female,Home Decor,5931,2.5,18
+1339,57,Female,Books,9889,4.7,11
+1340,50,Female,Books,2978,3.6,18
+1341,26,Male,Electronics,600,4.7,3
+1342,56,Female,Sports,3587,4.3,13
+1343,46,Male,Fashion,6328,3.8,14
+1344,59,Female,Electronics,7925,2.4,4
+1345,43,Male,Fashion,2791,2.0,18
+1346,52,Male,Electronics,5967,1.9,5
+1347,42,Female,Sports,8796,4.8,14
+1348,41,Female,Electronics,1193,4.8,12
+1349,30,Female,Fashion,6286,3.9,7
+1350,24,Male,Books,5906,4.5,12
+1351,53,Female,Fashion,3991,4.7,8
+1352,37,Female,Home Decor,3892,3.0,3
+1353,18,Male,Home Decor,2768,3.5,1
+1354,25,Female,Home Decor,6132,2.7,3
+1355,33,Male,Home Decor,4283,2.7,11
+1356,31,Female,Sports,9581,1.2,18
+1357,29,Male,Books,6473,2.7,7
+1358,40,Male,Books,6469,3.7,9
+1359,32,Female,Fashion,9481,2.7,4
+1360,45,Male,Electronics,5148,4.5,10
+1361,51,Female,Fashion,5439,2.3,18
+1362,19,Female,Fashion,9350,1.5,16
+1363,49,Male,Fashion,8524,4.2,12
+1364,40,Female,Fashion,8357,3.7,19
+1365,39,Male,Books,1518,2.0,3
+1366,42,Male,Electronics,2453,3.1,8
+1367,39,Male,Fashion,9882,2.6,19
+1368,39,Male,Books,4157,4.8,9
+1369,59,Male,Fashion,5346,3.4,19
+1370,23,Male,Home Decor,2796,1.6,17
+1371,32,Male,Fashion,1274,3.0,13
+1372,54,Male,Fashion,3311,4.5,2
+1373,50,Female,Sports,3682,3.7,4
+1374,25,Female,Home Decor,8367,4.4,11
+1375,22,Male,Electronics,4829,2.0,2
+1376,56,Female,Fashion,6667,4.6,4
+1377,21,Female,Electronics,3597,4.0,4
+1378,23,Female,Home Decor,1904,3.9,1
+1379,49,Female,Fashion,5601,2.4,11
+1380,47,Female,Sports,1869,4.6,2
+1381,52,Female,Books,5997,3.6,19
+1382,57,Male,Sports,7165,4.4,8
+1383,33,Female,Sports,2564,2.4,4
+1384,30,Female,Books,3265,1.6,16
+1385,59,Female,Books,3317,2.3,15
+1386,47,Female,Books,8291,2.8,5
+1387,36,Male,Fashion,1216,3.1,5
+1388,34,Male,Electronics,4540,3.0,15
+1389,36,Male,Electronics,2211,3.2,17
+1390,45,Male,Books,9917,4.4,3
+1391,43,Female,Sports,5867,1.7,18
+1392,54,Male,Home Decor,6761,2.3,11
+1393,43,Male,Books,508,4.6,6
+1394,40,Male,Sports,9289,3.2,12
+1395,26,Male,Sports,4618,3.3,17
+1396,29,Female,Fashion,6586,2.9,14
+1397,18,Male,Fashion,6883,3.2,6
+1398,18,Female,Electronics,4167,1.8,10
+1399,51,Male,Electronics,2746,3.2,16
+1400,49,Female,Home Decor,4126,5.0,18
+1401,42,Female,Home Decor,3322,3.3,6
+1402,57,Male,Home Decor,8783,1.2,19
+1403,18,Male,Home Decor,1350,4.2,3
+1404,33,Male,Sports,1607,2.6,12
+1405,56,Male,Sports,799,1.6,16
+1406,22,Female,Electronics,8602,4.5,3
+1407,39,Female,Fashion,5900,1.8,16
+1408,46,Male,Fashion,1582,4.7,4
+1409,20,Male,Books,8667,2.8,13
+1410,29,Female,Sports,3300,4.0,4
+1411,43,Male,Home Decor,4451,3.2,4
+1412,33,Female,Home Decor,9467,2.0,7
+1413,54,Male,Books,7268,3.7,12
+1414,39,Female,Fashion,1952,4.8,2
+1415,46,Female,Home Decor,2181,4.1,16
+1416,31,Female,Fashion,2803,3.4,7
+1417,45,Female,Books,7657,5.0,19
+1418,22,Female,Fashion,2351,2.1,11
+1419,47,Male,Fashion,2397,1.2,1
+1420,22,Female,Fashion,6325,1.1,9
+1421,29,Male,Home Decor,9306,3.8,5
+1422,33,Female,Electronics,744,4.3,17
+1423,43,Female,Sports,9448,3.5,1
+1424,43,Male,Fashion,9515,4.6,17
+1425,38,Male,Fashion,4307,3.8,12
+1426,56,Male,Fashion,3279,2.5,13
+1427,53,Male,Electronics,2346,1.7,11
+1428,50,Female,Books,7521,4.7,13
+1429,47,Male,Home Decor,9932,1.4,13
+1430,54,Female,Electronics,973,3.2,6
+1431,40,Male,Fashion,4631,2.3,6
+1432,27,Male,Electronics,2292,2.1,10
+1433,22,Female,Electronics,2234,3.6,19
+1434,53,Female,Electronics,7715,1.9,3
+1435,51,Male,Books,7729,4.7,7
+1436,48,Female,Sports,5688,2.6,5
+1437,27,Female,Home Decor,5781,3.7,8
+1438,36,Female,Books,6358,3.9,5
+1439,49,Female,Books,1444,3.7,12
+1440,18,Female,Sports,2011,4.6,4
+1441,22,Female,Books,4581,1.9,19
+1442,21,Female,Electronics,6618,1.3,18
+1443,33,Female,Electronics,1358,1.2,3
+1444,41,Male,Fashion,4060,4.5,7
+1445,33,Female,Books,8921,4.9,8
+1446,19,Male,Fashion,8869,2.2,15
+1447,45,Female,Home Decor,3115,3.8,17
+1448,49,Female,Electronics,2113,1.0,19
+1449,44,Female,Home Decor,3340,1.8,4
+1450,37,Female,Sports,2274,3.8,16
+1451,41,Male,Electronics,4371,1.3,13
+1452,29,Male,Home Decor,8773,2.9,12
+1453,52,Female,Sports,1345,3.7,4
+1454,50,Male,Home Decor,9908,4.1,12
+1455,50,Female,Sports,3760,2.8,17
+1456,54,Female,Sports,3645,3.5,9
+1457,29,Male,Electronics,8302,3.2,12
+1458,20,Male,Fashion,2763,1.2,15
+1459,18,Female,Sports,9136,4.0,2
+1460,50,Female,Sports,8655,1.7,9
+1461,57,Male,Electronics,1422,1.1,14
+1462,27,Female,Fashion,7195,2.8,4
+1463,46,Male,Books,4788,4.5,4
+1464,30,Female,Books,6258,1.6,6
+1465,29,Female,Fashion,8631,1.1,5
+1466,48,Male,Home Decor,3130,1.4,17
+1467,19,Male,Electronics,8316,2.5,13
+1468,52,Male,Fashion,9859,3.3,17
+1469,40,Female,Books,8056,1.8,19
+1470,34,Female,Sports,6430,4.2,1
+1471,43,Female,Books,7500,4.0,17
+1472,25,Female,Sports,4012,3.8,3
+1473,46,Male,Electronics,6566,2.9,14
+1474,43,Female,Sports,9587,2.5,12
+1475,27,Female,Fashion,4222,2.5,15
+1476,43,Female,Sports,6148,3.0,6
+1477,51,Male,Home Decor,2560,1.3,2
+1478,58,Female,Fashion,3534,3.7,4
+1479,24,Female,Electronics,2887,2.4,13
+1480,21,Male,Fashion,7508,1.9,13
+1481,28,Female,Home Decor,8531,2.1,17
+1482,46,Female,Electronics,2299,1.7,6
+1483,53,Male,Books,4907,4.6,11
+1484,42,Female,Home Decor,3280,1.7,19
+1485,38,Female,Electronics,1627,4.5,16
+1486,53,Female,Sports,9030,3.3,8
+1487,27,Male,Fashion,7865,4.5,1
+1488,54,Female,Electronics,8111,2.9,10
+1489,26,Female,Fashion,8035,4.7,2
+1490,41,Male,Sports,9864,1.8,19
+1491,52,Male,Electronics,3308,3.2,14
+1492,52,Female,Books,4797,1.5,3
+1493,53,Female,Home Decor,5059,2.8,9
+1494,35,Female,Electronics,948,3.3,8
+1495,56,Female,Sports,5508,3.4,11
+1496,49,Male,Electronics,5393,2.5,15
+1497,41,Female,Fashion,1293,1.3,6
+1498,40,Male,Electronics,936,3.6,2
+1499,49,Male,Books,6512,3.0,1
+1500,54,Female,Electronics,6369,1.5,3
+1501,29,Female,Home Decor,2120,4.7,18
+1502,30,Male,Electronics,4808,4.8,14
+1503,40,Male,Fashion,1448,4.4,17
+1504,42,Female,Electronics,4444,4.4,2
+1505,52,Male,Books,9819,1.4,19
+1506,58,Female,Sports,691,5.0,9
+1507,47,Female,Electronics,1903,2.6,8
+1508,34,Male,Electronics,2490,1.7,10
+1509,37,Male,Home Decor,1604,4.2,9
+1510,42,Female,Books,1048,1.9,8
+1511,39,Male,Sports,6261,3.1,7
+1512,30,Female,Fashion,9262,1.5,6
+1513,36,Female,Electronics,8403,2.9,2
+1514,53,Female,Sports,2284,3.2,9
+1515,29,Male,Fashion,1304,2.8,9
+1516,58,Female,Books,9490,1.3,19
+1517,36,Female,Books,9302,2.9,9
+1518,29,Female,Sports,8017,2.9,2
+1519,26,Female,Fashion,7331,2.0,19
+1520,24,Female,Books,7417,4.7,16
+1521,45,Female,Sports,4738,2.7,14
+1522,31,Female,Books,3760,4.5,1
+1523,48,Female,Books,4867,1.4,13
+1524,36,Female,Books,6151,2.3,2
+1525,33,Female,Home Decor,3871,1.7,14
+1526,22,Female,Fashion,2593,2.6,1
+1527,52,Male,Sports,4501,1.4,15
+1528,29,Female,Sports,7056,2.8,18
+1529,42,Female,Fashion,8310,2.4,9
+1530,38,Female,Fashion,5054,1.9,8
+1531,53,Male,Fashion,3017,3.6,7
+1532,40,Female,Fashion,9197,4.8,9
+1533,33,Male,Electronics,6305,1.8,9
+1534,56,Female,Sports,1596,3.8,11
+1535,59,Female,Electronics,9736,4.0,4
+1536,56,Male,Books,7561,3.0,7
+1537,31,Female,Books,2704,4.6,7
+1538,48,Male,Sports,4402,4.9,4
+1539,22,Male,Books,1852,2.4,12
+1540,52,Female,Fashion,2096,3.6,17
+1541,40,Female,Electronics,9267,3.6,3
+1542,46,Female,Fashion,7480,2.6,9
+1543,28,Female,Books,1179,2.3,5
+1544,35,Male,Electronics,4212,4.7,16
+1545,29,Male,Fashion,9821,4.2,8
+1546,26,Female,Sports,9009,1.5,16
+1547,27,Male,Fashion,5801,1.5,19
+1548,34,Male,Books,6234,4.7,16
+1549,55,Female,Electronics,8481,1.3,18
+1550,24,Male,Sports,6392,3.8,15
+1551,30,Male,Electronics,4196,1.9,18
+1552,57,Female,Sports,7629,1.1,14
+1553,59,Male,Electronics,3496,1.2,16
+1554,26,Female,Books,7737,2.5,5
+1555,44,Male,Sports,7827,1.3,8
+1556,19,Female,Home Decor,7907,3.4,16
+1557,22,Male,Electronics,3042,3.6,1
+1558,46,Male,Electronics,1178,2.5,11
+1559,54,Female,Fashion,5866,4.0,11
+1560,55,Female,Sports,6143,3.0,2
+1561,36,Female,Home Decor,7910,2.7,19
+1562,25,Female,Books,6041,2.6,5
+1563,18,Male,Fashion,1334,2.7,3
+1564,39,Male,Home Decor,6526,4.9,8
+1565,34,Male,Sports,8972,3.7,4
+1566,24,Female,Home Decor,8470,2.3,13
+1567,42,Male,Electronics,7318,3.9,14
+1568,21,Male,Electronics,5528,2.3,1
+1569,53,Female,Fashion,5203,1.5,5
+1570,23,Female,Sports,9938,2.9,7
+1571,48,Male,Sports,2272,4.0,6
+1572,36,Female,Home Decor,2664,2.5,15
+1573,56,Male,Fashion,7611,4.5,15
+1574,44,Male,Sports,8883,2.5,8
+1575,27,Female,Electronics,3335,2.4,2
+1576,43,Male,Home Decor,3165,5.0,14
+1577,36,Female,Books,6613,2.9,16
+1578,56,Female,Electronics,3063,4.2,10
+1579,20,Male,Fashion,8998,4.2,15
+1580,30,Male,Sports,8631,4.7,4
+1581,45,Male,Electronics,9223,1.3,12
+1582,37,Female,Books,3196,2.1,10
+1583,45,Male,Books,5187,4.1,2
+1584,25,Female,Fashion,7821,3.3,4
+1585,58,Female,Electronics,7513,3.2,6
+1586,56,Male,Home Decor,8204,1.7,14
+1587,18,Female,Electronics,6071,2.1,3
+1588,20,Male,Books,7836,3.1,15
+1589,30,Male,Fashion,558,2.1,1
+1590,45,Male,Fashion,1640,1.8,19
+1591,42,Male,Home Decor,3062,1.4,1
+1592,50,Male,Fashion,3352,1.6,13
+1593,55,Male,Fashion,7141,4.1,8
+1594,23,Male,Fashion,1441,3.9,18
+1595,49,Female,Fashion,7041,1.2,3
+1596,38,Male,Fashion,7930,1.8,18
+1597,33,Female,Books,1921,3.2,9
+1598,38,Female,Electronics,6265,2.3,6
+1599,28,Female,Sports,935,4.3,2
+1600,54,Male,Fashion,1339,4.1,4
+1601,53,Female,Sports,4501,4.6,18
+1602,52,Female,Sports,5748,3.3,7
+1603,36,Male,Books,5459,2.4,11
+1604,37,Male,Fashion,2150,3.4,5
+1605,35,Female,Sports,6328,1.4,8
+1606,58,Male,Fashion,9937,1.0,11
+1607,31,Male,Home Decor,2761,1.1,15
+1608,32,Male,Home Decor,9607,2.6,3
+1609,48,Male,Home Decor,6394,1.9,7
+1610,18,Female,Sports,6778,1.6,8
+1611,20,Male,Home Decor,4389,3.5,11
+1612,33,Male,Books,7397,5.0,10
+1613,40,Male,Books,1826,1.7,9
+1614,28,Female,Sports,6401,3.2,15
+1615,29,Female,Fashion,3858,1.5,5
+1616,27,Male,Electronics,2085,4.7,15
+1617,49,Male,Fashion,6145,2.2,4
+1618,33,Female,Fashion,888,4.5,5
+1619,25,Male,Fashion,3291,2.1,15
+1620,55,Male,Fashion,3832,4.2,17
+1621,29,Female,Electronics,1203,1.8,8
+1622,41,Male,Home Decor,6334,2.2,19
+1623,45,Male,Fashion,3320,1.8,9
+1624,25,Female,Books,8553,2.1,10
+1625,45,Female,Sports,5459,4.3,5
+1626,53,Male,Sports,1559,3.6,10
+1627,43,Female,Books,9990,2.6,1
+1628,25,Male,Fashion,1801,4.9,4
+1629,45,Male,Electronics,9365,2.9,5
+1630,45,Male,Home Decor,8196,4.9,7
+1631,54,Female,Sports,4799,1.8,5
+1632,58,Female,Home Decor,6571,4.6,8
+1633,53,Male,Electronics,4612,1.1,17
+1634,44,Male,Sports,8381,3.2,1
+1635,34,Female,Home Decor,9708,2.7,18
+1636,26,Female,Electronics,8901,3.1,12
+1637,50,Female,Home Decor,998,3.2,3
+1638,37,Male,Fashion,9120,2.6,14
+1639,30,Female,Electronics,7745,5.0,16
+1640,45,Female,Home Decor,2605,4.9,18
+1641,46,Male,Fashion,5827,4.8,10
+1642,30,Male,Fashion,6130,4.9,15
+1643,52,Male,Electronics,3706,4.2,10
+1644,23,Female,Books,7637,5.0,1
+1645,35,Male,Sports,3069,4.6,19
+1646,22,Male,Electronics,3128,2.7,2
+1647,42,Male,Fashion,7264,4.1,13
+1648,19,Male,Fashion,1567,4.6,16
+1649,27,Female,Electronics,2006,3.9,8
+1650,47,Male,Books,3513,2.7,3
+1651,22,Female,Sports,7142,1.3,19
+1652,50,Female,Home Decor,4566,4.2,14
+1653,18,Female,Electronics,1447,4.8,11
+1654,35,Male,Sports,4889,2.4,12
+1655,49,Female,Sports,8643,1.6,11
+1656,28,Male,Fashion,1671,2.3,11
+1657,38,Male,Home Decor,6614,3.3,18
+1658,43,Male,Electronics,671,2.3,10
+1659,42,Female,Fashion,6182,3.4,16
+1660,39,Male,Fashion,9835,4.9,8
+1661,44,Male,Books,6356,3.7,6
+1662,30,Male,Sports,6709,2.5,19
+1663,50,Female,Electronics,4077,4.7,13
+1664,51,Female,Electronics,8880,3.3,15
+1665,58,Female,Electronics,4576,1.5,13
+1666,52,Male,Fashion,657,3.0,1
+1667,18,Female,Books,8277,3.6,2
+1668,38,Male,Home Decor,3217,4.4,13
+1669,23,Male,Fashion,8937,4.7,2
+1670,45,Female,Home Decor,3295,2.3,11
+1671,34,Male,Books,7700,1.6,13
+1672,22,Female,Sports,8028,1.3,10
+1673,48,Male,Electronics,2877,4.0,15
+1674,22,Female,Home Decor,9541,4.2,1
+1675,55,Male,Fashion,2310,2.6,14
+1676,20,Male,Home Decor,5690,2.6,10
+1677,40,Male,Sports,5932,4.8,18
+1678,54,Male,Electronics,8395,4.7,11
+1679,54,Male,Home Decor,2626,1.9,7
+1680,27,Female,Sports,7453,4.1,15
+1681,27,Male,Fashion,3530,3.5,3
+1682,36,Female,Books,6823,1.6,2
+1683,34,Female,Fashion,6247,2.4,8
+1684,38,Female,Electronics,6105,1.7,8
+1685,31,Male,Fashion,6391,2.2,11
+1686,26,Male,Fashion,3576,3.5,16
+1687,18,Male,Fashion,2844,2.5,2
+1688,30,Female,Fashion,1119,2.6,5
+1689,21,Male,Electronics,2907,3.2,7
+1690,18,Male,Sports,6760,1.3,13
+1691,57,Female,Home Decor,3504,4.0,2
+1692,49,Female,Books,4414,2.6,3
+1693,51,Female,Home Decor,4096,2.9,9
+1694,45,Female,Home Decor,4539,4.9,10
+1695,48,Female,Books,1804,2.4,13
+1696,25,Female,Electronics,6130,3.6,13
+1697,56,Male,Books,7782,2.6,5
+1698,43,Female,Electronics,3807,4.6,7
+1699,51,Male,Home Decor,1861,4.4,17
+1700,20,Male,Electronics,7165,2.0,15
+1701,29,Male,Sports,4794,3.8,5
+1702,18,Female,Books,2287,1.3,7
+1703,22,Male,Sports,1573,4.9,2
+1704,47,Female,Home Decor,9857,2.4,18
+1705,47,Female,Books,6402,4.3,10
+1706,34,Male,Home Decor,4099,2.3,1
+1707,40,Female,Sports,3555,3.5,14
+1708,32,Male,Home Decor,6976,4.9,19
+1709,54,Male,Books,1159,4.5,16
+1710,38,Female,Books,6820,1.6,19
+1711,31,Male,Home Decor,7013,3.2,6
+1712,19,Male,Books,5142,2.4,12
+1713,28,Male,Books,9821,2.7,3
+1714,56,Female,Home Decor,6873,2.3,7
+1715,55,Male,Sports,4966,2.3,3
+1716,51,Female,Books,6087,3.2,17
+1717,55,Female,Books,2971,1.8,15
+1718,51,Male,Books,9843,3.1,19
+1719,35,Male,Books,6675,2.1,19
+1720,47,Female,Home Decor,8784,2.2,11
+1721,32,Female,Sports,1781,4.0,2
+1722,44,Male,Sports,3677,1.1,7
+1723,51,Male,Electronics,6167,2.5,19
+1724,55,Female,Books,5011,2.6,7
+1725,50,Female,Books,4381,2.9,10
+1726,41,Female,Electronics,2913,3.7,12
+1727,32,Female,Sports,2044,2.5,18
+1728,47,Female,Fashion,5284,1.9,6
+1729,59,Male,Fashion,6261,4.5,8
+1730,34,Female,Sports,8374,4.9,5
+1731,22,Female,Books,7461,1.1,3
+1732,46,Male,Fashion,6126,3.2,2
+1733,21,Male,Home Decor,5014,2.4,6
+1734,27,Female,Home Decor,1645,2.1,7
+1735,34,Female,Electronics,9602,2.3,8
+1736,27,Male,Sports,5950,3.6,4
+1737,34,Female,Sports,2066,1.8,12
+1738,37,Female,Fashion,3505,4.7,12
+1739,41,Male,Books,5007,2.9,17
+1740,22,Female,Sports,4748,2.3,19
+1741,51,Male,Fashion,8783,4.1,9
+1742,23,Male,Fashion,4492,1.1,12
+1743,19,Male,Sports,9022,2.7,17
+1744,30,Male,Fashion,8527,2.4,10
+1745,28,Female,Electronics,6260,2.4,19
+1746,40,Male,Electronics,9646,2.3,11
+1747,33,Female,Sports,8545,1.1,13
+1748,48,Female,Books,3477,1.6,4
+1749,28,Female,Electronics,5847,1.6,15
+1750,33,Female,Electronics,4789,5.0,12
+1751,25,Female,Sports,1029,1.1,10
+1752,21,Male,Home Decor,3392,1.7,7
+1753,57,Male,Fashion,9958,4.9,2
+1754,21,Male,Electronics,7943,3.5,7
+1755,42,Male,Home Decor,5234,2.8,8
+1756,20,Female,Books,3025,1.3,19
+1757,49,Male,Home Decor,4261,3.7,6
+1758,20,Female,Sports,6641,1.6,8
+1759,44,Female,Books,3242,3.7,4
+1760,46,Male,Books,5135,4.9,9
+1761,49,Male,Home Decor,4925,3.1,5
+1762,36,Male,Sports,9161,1.9,6
+1763,38,Male,Electronics,4330,3.5,19
+1764,22,Female,Home Decor,7492,3.1,12
+1765,35,Female,Electronics,1033,3.1,5
+1766,45,Male,Home Decor,5062,2.9,5
+1767,59,Female,Electronics,7620,3.7,18
+1768,39,Female,Home Decor,7063,3.3,6
+1769,38,Female,Books,7789,4.9,9
+1770,23,Male,Fashion,4587,4.3,11
+1771,18,Female,Books,9453,2.1,14
+1772,22,Male,Electronics,9582,3.9,2
+1773,58,Male,Sports,2855,1.9,14
+1774,29,Female,Books,2455,4.1,19
+1775,43,Female,Fashion,3471,1.6,10
+1776,51,Male,Electronics,6039,2.9,5
+1777,31,Female,Books,7993,4.2,4
+1778,43,Female,Home Decor,2172,2.1,7
+1779,44,Male,Sports,3336,4.3,13
+1780,26,Male,Electronics,5427,3.6,10
+1781,43,Male,Books,5439,2.6,10
+1782,39,Male,Electronics,4144,2.7,4
+1783,47,Female,Home Decor,2797,4.7,16
+1784,34,Female,Fashion,4561,1.9,15
+1785,43,Male,Books,3666,3.8,11
+1786,53,Male,Electronics,683,3.8,19
+1787,18,Male,Electronics,9975,4.7,3
+1788,25,Female,Electronics,3346,3.9,15
+1789,52,Male,Fashion,5222,3.3,16
+1790,32,Female,Electronics,1282,4.6,14
+1791,39,Male,Sports,2007,4.3,5
+1792,31,Male,Sports,6355,3.9,17
+1793,43,Male,Electronics,8038,1.1,18
+1794,45,Female,Sports,1176,2.5,19
+1795,40,Female,Books,7750,3.5,1
+1796,31,Female,Sports,8313,3.1,9
+1797,41,Male,Electronics,4590,2.3,14
+1798,19,Female,Home Decor,6223,1.6,11
+1799,43,Female,Books,3186,3.2,2
+1800,31,Male,Fashion,8882,2.1,5
+1801,24,Male,Electronics,9534,1.9,15
+1802,20,Female,Fashion,9026,2.6,12
+1803,40,Female,Home Decor,8189,4.1,14
+1804,35,Female,Fashion,1610,3.0,11
+1805,55,Female,Electronics,1078,1.9,9
+1806,52,Male,Electronics,561,1.5,8
+1807,32,Male,Home Decor,886,3.0,12
+1808,42,Male,Electronics,9861,4.2,3
+1809,54,Female,Home Decor,2700,3.6,15
+1810,45,Female,Home Decor,2183,1.9,8
+1811,27,Male,Electronics,6821,2.7,7
+1812,56,Male,Sports,8556,4.4,17
+1813,34,Female,Home Decor,9178,1.7,12
+1814,56,Female,Electronics,7914,3.1,18
+1815,39,Male,Sports,7143,2.4,18
+1816,43,Male,Home Decor,9232,1.5,15
+1817,42,Male,Sports,6131,1.2,3
+1818,34,Female,Books,8445,3.2,19
+1819,30,Female,Books,8226,1.1,15
+1820,37,Female,Sports,5669,1.4,16
+1821,42,Female,Home Decor,9930,2.4,17
+1822,21,Female,Electronics,9682,1.2,1
+1823,27,Female,Fashion,7287,2.6,11
+1824,20,Male,Electronics,4967,1.5,6
+1825,58,Male,Fashion,5732,2.4,9
+1826,35,Female,Fashion,8630,4.2,16
+1827,53,Male,Home Decor,6696,3.5,6
+1828,39,Female,Sports,4407,2.8,12
+1829,51,Male,Electronics,4788,1.4,19
+1830,25,Female,Sports,7234,3.5,13
+1831,57,Male,Books,1580,1.7,13
+1832,36,Male,Home Decor,6740,1.3,4
+1833,59,Female,Home Decor,697,3.7,9
+1834,58,Female,Books,8314,4.6,14
+1835,54,Male,Electronics,8351,2.8,14
+1836,23,Male,Books,2100,1.2,17
+1837,43,Female,Electronics,7962,4.5,5
+1838,51,Male,Fashion,7366,1.3,19
+1839,23,Female,Home Decor,4192,4.5,2
+1840,54,Female,Electronics,9375,2.6,13
+1841,50,Male,Sports,3583,2.5,11
+1842,39,Female,Sports,4489,3.2,2
+1843,38,Male,Home Decor,832,4.8,1
+1844,23,Male,Books,6606,4.6,3
+1845,23,Female,Books,7833,2.9,12
+1846,21,Male,Electronics,7155,3.8,7
+1847,47,Female,Books,5808,3.3,1
+1848,28,Female,Home Decor,4700,3.8,9
+1849,47,Female,Electronics,3221,4.3,18
+1850,48,Male,Fashion,9498,1.1,6
+1851,41,Female,Books,1564,2.3,9
+1852,26,Male,Books,9580,4.8,8
+1853,20,Female,Electronics,7320,4.8,18
+1854,48,Female,Sports,9012,1.0,15
+1855,57,Female,Books,4457,1.8,1
+1856,54,Male,Home Decor,2882,5.0,14
+1857,53,Male,Books,3731,3.0,18
+1858,41,Female,Fashion,7508,3.3,19
+1859,48,Female,Books,2000,1.7,19
+1860,23,Male,Sports,2068,4.6,10
+1861,19,Male,Books,6392,1.9,6
+1862,37,Male,Electronics,3781,1.8,17
+1863,45,Female,Books,4589,1.9,14
+1864,28,Male,Sports,2365,4.7,13
+1865,21,Female,Electronics,6100,3.8,8
+1866,32,Male,Home Decor,6555,4.1,10
+1867,23,Female,Electronics,504,2.5,9
+1868,47,Female,Fashion,8459,4.6,5
+1869,55,Female,Electronics,1668,4.2,4
+1870,19,Male,Home Decor,2898,4.0,6
+1871,32,Male,Books,3130,4.9,6
+1872,28,Male,Electronics,7108,2.5,13
+1873,25,Female,Electronics,847,3.4,4
+1874,43,Female,Electronics,6361,4.6,8
+1875,22,Male,Electronics,3842,4.2,5
+1876,23,Female,Home Decor,7000,3.3,2
+1877,43,Female,Sports,3074,1.3,9
+1878,21,Female,Sports,4325,3.6,11
+1879,36,Male,Electronics,5093,3.1,11
+1880,37,Female,Home Decor,5772,1.7,7
+1881,50,Male,Home Decor,8744,4.5,14
+1882,37,Male,Electronics,648,2.4,6
+1883,29,Male,Fashion,9194,2.5,4
+1884,18,Male,Electronics,1369,3.7,6
+1885,43,Male,Fashion,4021,3.0,3
+1886,31,Female,Electronics,4371,1.4,6
+1887,55,Male,Fashion,1800,2.5,3
+1888,54,Male,Fashion,8095,1.4,1
+1889,28,Male,Electronics,5333,1.8,18
+1890,53,Female,Fashion,7170,1.0,4
+1891,30,Female,Books,2951,1.7,6
+1892,20,Female,Sports,4885,2.3,17
+1893,50,Female,Home Decor,9030,3.2,18
+1894,23,Male,Fashion,3324,4.7,6
+1895,27,Male,Fashion,7354,3.2,2
+1896,22,Female,Home Decor,6464,3.8,12
+1897,40,Female,Fashion,1486,2.4,12
+1898,27,Female,Home Decor,8671,4.0,4
+1899,19,Female,Electronics,3990,3.5,16
+1900,30,Male,Books,8576,2.8,10
+1901,57,Female,Books,4267,1.8,10
+1902,19,Female,Sports,2506,2.2,7
+1903,37,Female,Fashion,8425,3.5,14
+1904,18,Female,Sports,3607,2.7,7
+1905,54,Female,Electronics,4968,4.6,12
+1906,26,Female,Books,3830,1.9,11
+1907,34,Female,Electronics,9222,1.3,17
+1908,26,Male,Electronics,1423,3.4,11
+1909,28,Male,Fashion,6747,4.5,3
+1910,32,Male,Electronics,8932,2.5,19
+1911,41,Male,Books,2396,3.6,4
+1912,55,Male,Sports,8383,1.9,8
+1913,52,Male,Books,3824,3.2,14
+1914,47,Female,Fashion,1313,4.1,14
+1915,48,Female,Books,5250,4.5,16
+1916,22,Male,Home Decor,8118,1.4,15
+1917,31,Female,Sports,1282,2.4,12
+1918,28,Male,Home Decor,4555,3.6,16
+1919,26,Female,Home Decor,8289,1.1,19
+1920,51,Female,Fashion,8699,3.8,5
+1921,29,Female,Electronics,3639,3.1,12
+1922,52,Female,Home Decor,5507,2.2,5
+1923,52,Female,Books,4551,4.3,10
+1924,18,Female,Electronics,8075,2.2,17
+1925,57,Male,Books,9209,5.0,15
+1926,39,Male,Books,3690,4.3,8
+1927,46,Female,Electronics,6137,3.8,8
+1928,25,Male,Electronics,1078,1.2,8
+1929,28,Female,Books,8638,4.6,10
+1930,58,Male,Fashion,4982,4.2,13
+1931,54,Female,Sports,2365,1.9,16
+1932,31,Male,Sports,5989,2.6,9
+1933,47,Female,Fashion,1876,2.1,16
+1934,52,Male,Electronics,9597,4.9,10
+1935,38,Female,Books,5908,4.4,3
+1936,54,Male,Sports,8663,4.7,14
+1937,22,Female,Books,5558,4.2,13
+1938,36,Female,Fashion,9656,2.8,4
+1939,31,Female,Books,6783,1.8,4
+1940,43,Male,Fashion,2476,1.8,6
+1941,21,Male,Electronics,6943,1.6,19
+1942,42,Male,Fashion,5259,3.2,11
+1943,59,Female,Fashion,8095,4.7,8
+1944,42,Male,Sports,5420,5.0,14
+1945,35,Female,Books,2387,2.1,8
+1946,57,Male,Sports,1491,3.8,14
+1947,25,Male,Home Decor,5728,3.4,7
+1948,56,Male,Fashion,8546,3.0,18
+1949,57,Male,Home Decor,6950,3.7,12
+1950,31,Female,Sports,4104,2.5,14
+1951,49,Male,Books,1583,4.8,15
+1952,55,Male,Sports,9126,3.8,18
+1953,50,Female,Books,520,4.0,12
+1954,40,Female,Books,1599,2.0,10
+1955,32,Male,Electronics,7341,1.7,12
+1956,50,Male,Fashion,3137,2.6,8
+1957,42,Female,Sports,9081,4.1,6
+1958,34,Female,Books,8244,4.8,19
+1959,50,Female,Sports,3913,2.7,1
+1960,19,Male,Sports,7957,4.1,13
+1961,31,Male,Books,1854,2.9,16
+1962,57,Male,Home Decor,6902,2.2,18
+1963,57,Female,Fashion,5021,4.0,12
+1964,56,Female,Fashion,5625,4.2,5
+1965,23,Female,Electronics,505,1.8,13
+1966,23,Male,Electronics,8882,2.2,8
+1967,20,Female,Electronics,8839,3.0,6
+1968,24,Male,Fashion,4853,1.7,3
+1969,25,Female,Home Decor,4050,4.7,4
+1970,59,Male,Fashion,8531,3.4,12
+1971,32,Male,Fashion,4605,1.5,13
+1972,46,Female,Fashion,9802,1.7,2
+1973,50,Male,Fashion,5583,4.8,19
+1974,47,Female,Home Decor,9316,4.0,4
+1975,56,Male,Electronics,2675,3.9,13
+1976,44,Female,Sports,9770,1.3,19
+1977,53,Female,Electronics,9237,4.6,8
+1978,46,Male,Electronics,5724,2.8,8
+1979,55,Female,Sports,1695,3.6,16
+1980,50,Male,Fashion,2569,4.8,11
+1981,54,Female,Home Decor,3858,1.4,18
+1982,44,Female,Home Decor,2938,2.9,4
+1983,50,Female,Electronics,9308,1.2,1
+1984,21,Female,Sports,4744,3.0,1
+1985,39,Male,Books,3843,2.0,14
+1986,19,Female,Fashion,2311,4.6,4
+1987,27,Female,Electronics,671,2.6,11
+1988,22,Male,Home Decor,4642,3.5,18
+1989,27,Male,Sports,1125,4.4,16
+1990,50,Male,Sports,6406,4.9,17
+1991,55,Male,Electronics,8483,3.0,2
+1992,30,Male,Books,4563,2.8,4
+1993,48,Male,Home Decor,9144,1.3,3
+1994,53,Female,Electronics,8642,1.1,15
+1995,41,Male,Books,1253,3.4,2
+1996,32,Female,Sports,7351,1.3,19
+1997,46,Male,Fashion,5604,2.5,9
+1998,25,Female,Home Decor,7843,1.0,10
+1999,22,Female,Home Decor,7426,3.5,19
+2000,46,Female,Books,7327,2.7,5
+2001,21,Male,Electronics,9917,1.5,14
+2002,29,Male,Sports,8859,2.2,10
+2003,19,Male,Books,4185,3.3,16
+2004,44,Male,Fashion,8777,3.6,6
+2005,48,Female,Fashion,2482,2.8,8
+2006,53,Male,Fashion,5444,4.2,2
+2007,53,Female,Books,8392,1.4,18
+2008,43,Female,Sports,8691,1.3,8
+2009,44,Male,Home Decor,9133,1.2,5
+2010,22,Male,Electronics,8962,3.1,17
+2011,37,Male,Home Decor,843,3.8,16
+2012,28,Female,Sports,9898,1.5,5
+2013,27,Male,Home Decor,3581,3.6,17
+2014,57,Female,Books,7137,2.9,4
+2015,55,Male,Fashion,9949,4.9,1
+2016,23,Female,Sports,2791,3.9,6
+2017,25,Male,Sports,2032,3.6,1
+2018,40,Male,Home Decor,4862,3.3,4
+2019,43,Female,Books,2153,5.0,2
+2020,29,Male,Home Decor,5488,4.9,13
+2021,43,Male,Home Decor,6844,3.2,14
+2022,30,Male,Sports,8930,2.8,17
+2023,57,Male,Home Decor,9606,2.8,11
+2024,35,Male,Fashion,1938,2.7,3
+2025,42,Male,Home Decor,3516,3.1,7
+2026,50,Male,Fashion,8666,2.1,10
+2027,57,Female,Sports,6889,4.7,11
+2028,29,Female,Books,6477,3.0,10
+2029,53,Male,Fashion,3579,4.4,8
+2030,21,Male,Books,6795,2.9,5
+2031,22,Male,Books,2758,3.9,2
+2032,54,Female,Fashion,9058,2.3,15
+2033,25,Female,Sports,3491,3.5,16
+2034,59,Male,Electronics,4241,3.0,4
+2035,45,Female,Books,585,2.5,16
+2036,48,Male,Books,2993,4.5,12
+2037,26,Male,Sports,6947,1.5,14
+2038,46,Male,Sports,8823,2.9,12
+2039,31,Male,Home Decor,8088,1.8,16
+2040,57,Female,Sports,1403,4.4,16
+2041,58,Female,Books,5583,2.0,12
+2042,39,Male,Fashion,9913,3.5,2
+2043,28,Female,Electronics,6690,1.7,14
+2044,40,Female,Home Decor,3304,2.6,11
+2045,18,Male,Fashion,1726,4.6,9
+2046,54,Female,Electronics,1784,1.7,7
+2047,38,Male,Electronics,1189,3.7,12
+2048,43,Male,Electronics,5643,1.8,17
+2049,53,Male,Fashion,5282,2.7,9
+2050,40,Male,Home Decor,5381,3.2,6
+2051,18,Female,Home Decor,5007,3.3,12
+2052,57,Male,Electronics,2496,3.4,10
+2053,32,Female,Fashion,4881,3.6,9
+2054,38,Male,Electronics,8180,2.1,12
+2055,26,Male,Sports,9801,2.6,1
+2056,26,Female,Home Decor,929,1.1,2
+2057,27,Male,Books,6200,4.1,19
+2058,43,Female,Electronics,4281,4.3,1
+2059,58,Female,Sports,9294,1.8,16
+2060,52,Male,Home Decor,9131,1.8,16
+2061,42,Male,Fashion,9676,1.2,18
+2062,43,Male,Home Decor,5968,4.9,18
+2063,28,Male,Fashion,5007,4.2,13
+2064,55,Male,Fashion,1027,2.4,12
+2065,19,Male,Electronics,3496,2.9,9
+2066,24,Female,Electronics,3967,2.2,5
+2067,35,Female,Home Decor,1861,3.4,9
+2068,44,Male,Sports,7317,3.9,13
+2069,51,Female,Home Decor,1203,2.8,16
+2070,44,Female,Books,1162,4.5,10
+2071,34,Male,Fashion,9056,3.1,16
+2072,41,Male,Fashion,9614,1.6,14
+2073,42,Female,Electronics,6756,3.5,2
+2074,24,Male,Sports,8867,2.8,19
+2075,23,Female,Electronics,5797,4.7,11
+2076,41,Male,Books,9627,2.6,19
+2077,50,Female,Home Decor,9073,2.6,11
+2078,46,Female,Home Decor,5878,3.6,14
+2079,39,Female,Sports,805,3.1,15
+2080,43,Female,Electronics,5997,2.5,7
+2081,45,Male,Electronics,5197,5.0,15
+2082,38,Male,Books,2890,2.2,8
+2083,24,Female,Home Decor,7722,2.1,4
+2084,34,Female,Electronics,8433,4.5,18
+2085,37,Male,Sports,1965,1.0,14
+2086,58,Male,Home Decor,8352,1.8,18
+2087,37,Female,Books,902,3.4,4
+2088,39,Female,Sports,7440,1.6,2
+2089,45,Female,Fashion,3170,4.9,6
+2090,57,Female,Books,8595,2.9,11
+2091,24,Female,Sports,8868,3.4,1
+2092,18,Male,Electronics,5044,1.6,15
+2093,49,Female,Fashion,9434,2.2,12
+2094,30,Male,Books,6160,3.5,18
+2095,47,Male,Electronics,6574,3.2,5
+2096,40,Male,Fashion,2848,4.1,11
+2097,36,Female,Home Decor,7350,2.1,19
+2098,49,Male,Electronics,4902,3.6,1
+2099,47,Male,Sports,1250,2.2,17
+2100,46,Male,Books,9560,3.3,8
+2101,46,Male,Fashion,4562,3.4,16
+2102,47,Female,Electronics,7934,1.5,11
+2103,33,Female,Home Decor,8905,3.2,19
+2104,57,Male,Books,2117,1.0,11
+2105,36,Male,Books,3030,3.0,15
+2106,35,Female,Electronics,3833,3.8,8
+2107,18,Female,Home Decor,7734,1.3,14
+2108,31,Female,Fashion,6268,4.8,1
+2109,19,Male,Electronics,8207,2.8,10
+2110,45,Female,Fashion,1011,4.8,7
+2111,47,Male,Books,5582,1.4,18
+2112,55,Male,Fashion,7360,4.8,12
+2113,21,Female,Home Decor,752,1.4,2
+2114,18,Male,Sports,4633,2.8,18
+2115,25,Female,Home Decor,9320,4.8,7
+2116,46,Male,Fashion,3976,1.9,12
+2117,56,Female,Electronics,9678,1.1,14
+2118,20,Male,Books,2225,4.2,10
+2119,49,Male,Sports,2593,3.4,9
+2120,27,Female,Electronics,2201,3.1,15
+2121,27,Female,Electronics,8996,1.1,10
+2122,36,Female,Home Decor,6334,3.6,19
+2123,51,Female,Fashion,4840,1.7,19
+2124,50,Male,Home Decor,3307,4.7,12
+2125,40,Female,Fashion,6801,3.7,12
+2126,45,Female,Home Decor,8072,3.8,9
+2127,49,Male,Electronics,1524,1.9,4
+2128,24,Female,Books,3475,4.5,1
+2129,46,Female,Fashion,9198,3.2,16
+2130,25,Male,Sports,5356,4.4,1
+2131,18,Female,Sports,7224,2.1,13
+2132,20,Female,Electronics,9745,4.0,3
+2133,41,Female,Home Decor,3067,3.3,12
+2134,40,Female,Home Decor,5087,1.2,9
+2135,25,Female,Electronics,5422,2.6,4
+2136,54,Female,Sports,5546,1.7,2
+2137,20,Male,Sports,3394,2.4,9
+2138,50,Female,Home Decor,7703,2.5,13
+2139,45,Male,Fashion,7978,2.9,14
+2140,25,Male,Books,5774,3.4,3
+2141,51,Male,Fashion,9792,3.3,18
+2142,52,Male,Sports,4113,1.2,9
+2143,49,Female,Fashion,538,4.0,15
+2144,41,Female,Books,3584,4.8,10
+2145,31,Female,Fashion,6765,2.4,17
+2146,49,Male,Fashion,7098,1.7,13
+2147,33,Female,Fashion,2915,3.2,1
+2148,21,Female,Fashion,1258,3.8,11
+2149,54,Female,Electronics,4842,3.7,5
+2150,38,Male,Sports,7566,3.4,9
+2151,31,Male,Books,3616,1.6,7
+2152,48,Female,Sports,1264,4.3,7
+2153,35,Male,Electronics,4529,2.7,2
+2154,24,Male,Electronics,6945,1.9,19
+2155,27,Female,Electronics,7943,1.3,18
+2156,24,Male,Electronics,1817,2.7,10
+2157,50,Male,Fashion,1200,3.5,5
+2158,40,Female,Sports,8027,3.7,16
+2159,38,Male,Home Decor,4883,4.9,5
+2160,36,Male,Books,2093,1.6,15
+2161,36,Male,Electronics,4645,4.9,16
+2162,53,Male,Sports,9922,3.6,4
+2163,46,Male,Electronics,7207,2.8,14
+2164,35,Male,Electronics,7497,4.6,17
+2165,19,Male,Electronics,7526,3.8,17
+2166,18,Male,Electronics,3112,2.4,16
+2167,22,Female,Electronics,7899,4.5,9
+2168,37,Female,Books,2408,3.7,2
+2169,28,Female,Sports,7454,3.8,11
+2170,59,Female,Electronics,2290,4.6,15
+2171,19,Male,Electronics,8668,2.8,3
+2172,20,Female,Electronics,3428,3.6,16
+2173,40,Female,Electronics,9780,4.0,19
+2174,29,Male,Fashion,8181,2.8,6
+2175,37,Male,Fashion,5751,1.3,14
+2176,22,Male,Home Decor,4627,4.1,5
+2177,54,Male,Electronics,5463,1.2,5
+2178,55,Male,Home Decor,5811,3.9,6
+2179,47,Female,Books,9857,4.6,18
+2180,26,Male,Home Decor,9292,2.4,18
+2181,51,Female,Sports,2525,1.4,19
+2182,52,Female,Fashion,8315,1.9,2
+2183,39,Male,Fashion,1487,3.2,17
+2184,41,Female,Electronics,5810,4.8,1
+2185,34,Female,Electronics,2465,3.0,9
+2186,27,Male,Books,7816,1.5,13
+2187,47,Female,Books,1368,3.5,4
+2188,40,Female,Sports,2563,3.9,5
+2189,49,Female,Electronics,1629,2.6,18
+2190,34,Male,Electronics,4878,3.9,10
+2191,34,Male,Books,5654,2.3,4
+2192,31,Male,Books,6756,4.2,13
+2193,26,Female,Books,6951,2.4,13
+2194,57,Male,Fashion,2434,2.0,17
+2195,19,Female,Home Decor,1576,4.5,8
+2196,42,Male,Home Decor,5700,3.2,4
+2197,56,Female,Electronics,2139,2.1,3
+2198,26,Male,Fashion,6885,4.7,11
+2199,39,Male,Books,8722,3.8,12
+2200,21,Female,Electronics,8496,1.9,9
+2201,43,Male,Fashion,1203,3.5,15
+2202,46,Female,Sports,9560,4.5,13
+2203,51,Male,Fashion,5980,3.8,5
+2204,40,Male,Electronics,8924,2.0,5
+2205,54,Female,Home Decor,8277,3.6,19
+2206,28,Female,Books,5862,3.5,11
+2207,23,Female,Sports,1450,4.3,9
+2208,35,Male,Fashion,8750,1.7,3
+2209,38,Female,Electronics,3318,3.8,18
+2210,59,Male,Electronics,4100,1.1,13
+2211,53,Female,Books,8993,3.8,12
+2212,58,Female,Electronics,8345,4.8,9
+2213,55,Female,Electronics,3444,1.7,10
+2214,51,Female,Books,6755,2.2,13
+2215,34,Female,Sports,8080,3.3,13
+2216,54,Female,Home Decor,9008,3.9,9
+2217,42,Male,Home Decor,5764,2.4,10
+2218,55,Female,Fashion,8018,3.7,19
+2219,29,Male,Sports,8622,4.6,6
+2220,40,Female,Fashion,1678,3.9,7
+2221,59,Female,Home Decor,4355,3.8,15
+2222,39,Female,Books,9023,2.5,19
+2223,38,Male,Electronics,6537,4.6,14
+2224,44,Male,Home Decor,1027,2.1,16
+2225,48,Female,Sports,2559,1.8,14
+2226,23,Male,Home Decor,9790,2.5,2
+2227,44,Female,Sports,711,3.6,9
+2228,57,Female,Sports,2214,4.4,3
+2229,51,Male,Sports,3188,1.5,6
+2230,29,Male,Fashion,3766,4.3,5
+2231,24,Male,Books,5649,4.3,14
+2232,27,Male,Home Decor,9724,3.3,15
+2233,34,Female,Books,1832,4.0,18
+2234,43,Male,Electronics,7320,1.7,17
+2235,38,Male,Home Decor,6391,1.7,9
+2236,45,Female,Books,5186,4.5,19
+2237,19,Male,Books,4591,3.0,9
+2238,18,Male,Electronics,943,2.0,16
+2239,53,Male,Sports,1426,3.8,6
+2240,43,Male,Home Decor,6746,4.6,8
+2241,46,Female,Home Decor,1122,3.5,3
+2242,38,Female,Electronics,3537,2.4,5
+2243,28,Male,Sports,733,2.9,7
+2244,57,Male,Home Decor,3191,4.0,1
+2245,28,Female,Home Decor,7902,1.3,4
+2246,53,Male,Home Decor,886,1.9,16
+2247,56,Male,Sports,2134,2.9,14
+2248,57,Male,Electronics,8610,3.4,1
+2249,52,Male,Home Decor,4633,2.4,4
+2250,51,Male,Books,9876,2.2,10
+2251,41,Male,Sports,6081,1.2,11
+2252,39,Male,Fashion,2467,1.1,7
+2253,22,Male,Electronics,6068,2.1,4
+2254,50,Male,Books,7784,3.1,1
+2255,53,Female,Home Decor,8932,3.2,1
+2256,37,Female,Fashion,5645,3.0,17
+2257,36,Female,Electronics,6267,2.6,10
+2258,52,Male,Sports,9253,2.0,5
+2259,34,Male,Fashion,2499,2.6,7
+2260,51,Female,Fashion,5401,1.6,8
+2261,26,Male,Books,3279,1.5,2
+2262,43,Female,Electronics,6692,2.2,9
+2263,19,Male,Books,2177,5.0,4
+2264,26,Female,Books,4677,2.3,12
+2265,26,Female,Home Decor,7711,4.7,11
+2266,57,Female,Sports,8373,2.6,5
+2267,34,Male,Fashion,4341,2.8,12
+2268,18,Female,Electronics,7598,4.2,4
+2269,42,Male,Sports,6916,1.4,13
+2270,57,Male,Sports,5385,1.7,1
+2271,59,Male,Electronics,1094,4.9,18
+2272,42,Male,Sports,3112,3.0,4
+2273,56,Male,Home Decor,6859,1.2,4
+2274,52,Male,Sports,1996,1.2,8
+2275,20,Male,Home Decor,4055,4.6,6
+2276,54,Female,Fashion,5361,4.5,4
+2277,47,Female,Fashion,5266,2.8,4
+2278,55,Female,Books,3858,1.7,11
+2279,51,Male,Home Decor,1414,4.3,9
+2280,29,Male,Fashion,2344,2.3,14
+2281,36,Male,Sports,2495,2.7,4
+2282,54,Male,Electronics,8125,3.7,13
+2283,34,Female,Electronics,594,2.4,6
+2284,27,Male,Home Decor,9184,3.5,13
+2285,29,Female,Books,3569,4.5,3
+2286,33,Male,Sports,649,4.2,7
+2287,41,Female,Home Decor,1546,2.5,1
+2288,36,Male,Electronics,3303,2.2,11
+2289,25,Female,Home Decor,5834,2.1,2
+2290,48,Male,Sports,9090,2.4,5
+2291,38,Female,Fashion,4976,3.0,14
+2292,34,Male,Sports,7776,2.7,13
+2293,40,Female,Fashion,1051,1.5,16
+2294,54,Female,Fashion,8986,1.7,15
+2295,33,Male,Fashion,1643,2.4,3
+2296,23,Female,Home Decor,955,3.2,6
+2297,25,Male,Electronics,8860,3.4,9
+2298,42,Male,Home Decor,2446,2.9,3
+2299,35,Male,Electronics,6615,4.0,13
+2300,42,Female,Sports,7810,3.9,13
+2301,29,Female,Books,6680,2.7,7
+2302,32,Male,Sports,6317,1.5,5
+2303,43,Male,Home Decor,5880,3.1,8
+2304,58,Female,Home Decor,6874,2.5,8
+2305,43,Female,Electronics,8945,1.6,7
+2306,49,Female,Home Decor,8570,4.9,19
+2307,27,Male,Fashion,1820,2.5,7
+2308,33,Male,Home Decor,7623,3.5,4
+2309,24,Male,Electronics,6653,3.0,10
+2310,34,Male,Electronics,7089,1.6,13
+2311,40,Male,Fashion,4107,1.2,4
+2312,43,Female,Electronics,900,3.5,19
+2313,38,Male,Books,6542,2.0,10
+2314,39,Female,Sports,862,2.0,7
+2315,24,Female,Home Decor,4351,4.8,5
+2316,31,Male,Books,3912,2.8,3
+2317,32,Female,Home Decor,584,1.1,2
+2318,24,Male,Books,2324,2.4,11
+2319,26,Female,Home Decor,8999,3.3,10
+2320,25,Male,Fashion,9322,2.3,13
+2321,40,Male,Electronics,5275,1.1,7
+2322,46,Female,Electronics,8368,2.8,10
+2323,35,Male,Fashion,8119,1.4,4
+2324,48,Female,Books,7918,3.5,16
+2325,47,Male,Sports,2871,3.5,6
+2326,56,Male,Books,7568,1.2,9
+2327,52,Male,Electronics,3800,2.2,13
+2328,35,Female,Sports,6321,2.7,7
+2329,59,Female,Home Decor,8303,3.2,18
+2330,56,Male,Sports,7964,2.2,14
+2331,34,Female,Books,1226,2.2,5
+2332,31,Male,Fashion,7621,4.9,13
+2333,48,Female,Home Decor,4812,1.2,8
+2334,41,Female,Books,8500,5.0,15
+2335,52,Male,Home Decor,9961,1.2,19
+2336,51,Male,Sports,5043,2.2,9
+2337,20,Male,Electronics,8514,3.0,6
+2338,54,Male,Books,818,1.6,14
+2339,57,Male,Fashion,3975,1.5,10
+2340,43,Female,Sports,5653,2.0,9
+2341,40,Female,Books,4634,4.9,17
+2342,56,Male,Fashion,2102,2.5,13
+2343,32,Male,Books,2756,3.3,17
+2344,21,Male,Sports,9521,3.8,19
+2345,46,Female,Books,9547,4.0,13
+2346,39,Male,Home Decor,7819,3.8,9
+2347,42,Male,Sports,8032,2.3,1
+2348,30,Female,Books,7866,1.4,1
+2349,35,Female,Electronics,3148,2.1,5
+2350,50,Female,Books,7403,1.8,8
+2351,33,Female,Home Decor,2358,1.5,18
+2352,59,Male,Fashion,1602,1.1,4
+2353,19,Female,Fashion,2981,4.7,1
+2354,52,Female,Fashion,2320,4.7,15
+2355,59,Male,Electronics,3658,1.2,4
+2356,51,Male,Home Decor,4184,1.7,9
+2357,47,Male,Sports,7911,1.6,10
+2358,30,Female,Fashion,9947,2.1,15
+2359,30,Male,Home Decor,4151,1.8,3
+2360,35,Female,Books,8207,4.8,2
+2361,49,Female,Electronics,8961,1.3,5
+2362,49,Female,Home Decor,8607,1.8,1
+2363,52,Male,Home Decor,7381,1.3,11
+2364,56,Female,Sports,6720,4.9,12
+2365,46,Male,Home Decor,5330,4.7,3
+2366,46,Male,Sports,5479,3.9,16
+2367,33,Male,Electronics,7834,2.7,14
+2368,27,Female,Electronics,4275,1.8,12
+2369,47,Female,Books,9804,1.9,16
+2370,42,Female,Sports,1148,2.8,8
+2371,56,Male,Sports,9871,4.1,17
+2372,37,Female,Fashion,516,2.1,17
+2373,22,Female,Fashion,8808,2.2,7
+2374,18,Female,Books,6976,3.4,15
+2375,47,Female,Electronics,6442,2.0,9
+2376,20,Female,Fashion,2045,3.3,4
+2377,31,Male,Home Decor,3193,2.5,8
+2378,47,Male,Electronics,8099,1.1,10
+2379,21,Male,Home Decor,4589,2.6,15
+2380,35,Male,Sports,6759,4.7,18
+2381,54,Female,Electronics,5558,2.2,14
+2382,42,Male,Books,9968,2.3,5
+2383,18,Female,Sports,3740,1.3,9
+2384,32,Male,Sports,5442,3.5,13
+2385,26,Male,Home Decor,4288,4.4,19
+2386,32,Male,Sports,7453,2.4,11
+2387,41,Female,Fashion,871,2.0,12
+2388,21,Female,Electronics,7520,4.8,3
+2389,29,Male,Fashion,7620,4.0,2
+2390,54,Female,Home Decor,6202,3.3,15
+2391,54,Male,Home Decor,8847,2.2,5
+2392,23,Male,Electronics,3161,1.9,7
+2393,56,Male,Sports,7680,3.9,4
+2394,41,Female,Books,7151,3.1,5
+2395,28,Male,Home Decor,9156,3.1,16
+2396,30,Male,Electronics,5378,1.3,15
+2397,51,Male,Books,4815,3.0,16
+2398,42,Female,Sports,6658,4.3,4
+2399,24,Male,Home Decor,8808,4.8,6
+2400,21,Female,Electronics,6974,1.4,18
+2401,25,Male,Electronics,1874,3.5,3
+2402,37,Female,Electronics,7893,3.3,5
+2403,46,Male,Home Decor,4903,4.6,2
+2404,27,Male,Books,4046,4.0,16
+2405,51,Female,Electronics,4477,4.9,6
+2406,43,Female,Sports,9888,4.8,15
+2407,58,Male,Electronics,3911,1.9,18
+2408,20,Female,Books,9488,3.9,6
+2409,23,Male,Home Decor,4392,3.1,13
+2410,22,Male,Electronics,7824,1.9,13
+2411,22,Male,Electronics,8842,1.8,1
+2412,40,Female,Sports,3749,1.3,16
+2413,26,Male,Sports,611,4.2,4
+2414,52,Female,Electronics,1182,2.3,17
+2415,37,Male,Electronics,1661,4.4,18
+2416,59,Female,Sports,7900,3.4,16
+2417,52,Female,Books,2879,3.7,1
+2418,35,Male,Fashion,5926,2.2,6
+2419,34,Female,Fashion,8852,2.8,11
+2420,41,Male,Electronics,1925,2.6,6
+2421,20,Male,Sports,4161,1.9,17
+2422,49,Male,Home Decor,8969,4.3,4
+2423,52,Male,Home Decor,7540,3.5,14
+2424,55,Male,Fashion,5092,1.1,14
+2425,30,Female,Books,8030,4.3,8
+2426,42,Male,Fashion,3607,1.4,2
+2427,26,Female,Electronics,802,2.6,5
+2428,21,Female,Books,5033,3.3,4
+2429,31,Male,Home Decor,3273,1.0,10
+2430,54,Female,Sports,7699,3.6,3
+2431,51,Male,Sports,4781,3.6,16
+2432,28,Female,Electronics,5268,3.6,10
+2433,58,Female,Fashion,1500,1.7,15
+2434,20,Female,Electronics,2218,2.0,4
+2435,45,Male,Sports,7669,2.0,1
+2436,46,Female,Home Decor,7861,4.8,15
+2437,26,Male,Sports,4330,1.3,10
+2438,20,Female,Books,7654,2.7,18
+2439,42,Female,Sports,5520,4.5,16
+2440,51,Female,Sports,3382,4.1,9
+2441,29,Female,Books,1498,4.3,19
+2442,59,Male,Fashion,784,4.9,17
+2443,26,Male,Sports,9112,2.5,10
+2444,32,Female,Electronics,2660,2.2,19
+2445,57,Female,Sports,3565,1.1,8
+2446,42,Male,Electronics,1994,1.6,19
+2447,22,Male,Books,5123,3.2,5
+2448,28,Male,Sports,3043,1.6,2
+2449,51,Male,Books,5300,3.9,15
+2450,41,Female,Books,9413,1.1,17
+2451,32,Female,Fashion,1901,2.0,10
+2452,55,Male,Sports,945,3.8,2
+2453,25,Male,Electronics,5022,2.0,9
+2454,22,Male,Electronics,4267,3.9,2
+2455,43,Male,Sports,3051,5.0,18
+2456,35,Male,Fashion,6146,4.2,12
+2457,23,Male,Fashion,4388,2.4,15
+2458,54,Female,Fashion,5316,4.6,6
+2459,30,Female,Electronics,3231,1.2,18
+2460,45,Female,Books,8199,3.9,13
+2461,22,Male,Fashion,3129,1.1,4
+2462,30,Male,Electronics,8187,1.7,12
+2463,34,Male,Electronics,1557,5.0,9
+2464,57,Female,Books,7334,2.4,2
+2465,49,Male,Sports,9449,4.3,16
+2466,46,Male,Sports,2295,2.5,1
+2467,20,Female,Fashion,5349,4.4,4
+2468,57,Male,Fashion,8715,4.9,15
+2469,51,Female,Books,9931,2.7,1
+2470,57,Female,Fashion,4650,3.2,15
+2471,44,Male,Books,9996,3.5,3
+2472,30,Female,Electronics,7447,4.7,13
+2473,50,Male,Fashion,6970,2.0,18
+2474,23,Female,Electronics,7679,3.4,13
+2475,41,Male,Home Decor,4212,2.3,10
+2476,36,Female,Books,5958,1.9,7
+2477,33,Male,Home Decor,5815,1.3,8
+2478,57,Female,Fashion,5881,3.5,1
+2479,45,Female,Electronics,9997,4.5,18
+2480,50,Female,Fashion,3674,2.4,12
+2481,58,Male,Home Decor,6887,3.2,18
+2482,30,Male,Fashion,9473,3.6,12
+2483,42,Female,Sports,7267,2.7,9
+2484,59,Male,Home Decor,1066,4.6,2
+2485,53,Female,Fashion,5122,2.5,14
+2486,44,Male,Electronics,4632,1.5,4
+2487,55,Female,Fashion,9330,1.6,15
+2488,24,Male,Electronics,7495,4.6,17
+2489,22,Female,Sports,4667,5.0,19
+2490,48,Female,Fashion,3170,2.2,6
+2491,40,Female,Sports,9864,1.6,9
+2492,59,Female,Home Decor,8796,2.9,17
+2493,27,Male,Electronics,2182,3.8,15
+2494,49,Female,Home Decor,9554,3.4,5
+2495,47,Male,Electronics,8990,4.8,18
+2496,56,Male,Sports,1270,4.3,4
+2497,48,Female,Books,4354,4.5,2
+2498,35,Male,Fashion,3618,3.2,19
+2499,53,Male,Sports,2632,2.3,5
+2500,19,Male,Electronics,7725,3.8,4
+2501,31,Female,Electronics,1490,2.8,5
+2502,30,Male,Electronics,1210,2.2,19
+2503,46,Male,Electronics,4804,1.6,13
+2504,29,Female,Fashion,5867,3.1,16
+2505,56,Female,Home Decor,538,3.4,12
+2506,19,Male,Books,1775,3.3,9
+2507,49,Female,Fashion,7569,1.5,16
+2508,30,Male,Electronics,5357,3.3,14
+2509,44,Male,Fashion,1936,1.7,1
+2510,58,Male,Sports,2599,3.7,4
+2511,34,Female,Electronics,9065,2.7,9
+2512,57,Male,Books,8193,4.4,19
+2513,48,Female,Electronics,4751,4.1,14
+2514,51,Female,Books,4525,3.9,12
+2515,41,Male,Books,9805,3.8,4
+2516,52,Female,Home Decor,6712,3.2,7
+2517,23,Female,Home Decor,3734,1.2,17
+2518,36,Female,Fashion,9957,3.6,1
+2519,47,Female,Fashion,8162,2.9,14
+2520,24,Female,Books,8050,2.9,15
+2521,27,Male,Electronics,3623,2.5,12
+2522,58,Female,Sports,1153,4.7,12
+2523,49,Male,Sports,4658,2.0,6
+2524,51,Male,Electronics,9200,2.3,13
+2525,45,Male,Electronics,6043,4.9,16
+2526,32,Male,Home Decor,2697,4.2,14
+2527,47,Male,Sports,4411,1.1,7
+2528,54,Male,Books,5735,4.6,16
+2529,46,Female,Fashion,5299,1.9,9
+2530,39,Female,Home Decor,9207,3.8,14
+2531,21,Female,Sports,5860,3.2,7
+2532,37,Male,Electronics,8721,3.1,12
+2533,49,Female,Sports,825,3.9,3
+2534,53,Female,Books,4266,1.8,14
+2535,21,Female,Home Decor,4611,1.6,19
+2536,44,Male,Electronics,8802,3.6,11
+2537,34,Female,Books,7515,2.2,5
+2538,29,Male,Fashion,7356,4.9,13
+2539,39,Female,Home Decor,606,2.8,10
+2540,34,Male,Books,2926,1.4,7
+2541,27,Male,Books,4878,3.7,17
+2542,18,Male,Electronics,4864,2.2,16
+2543,39,Female,Fashion,3031,1.6,8
+2544,43,Female,Books,7310,2.7,17
+2545,35,Male,Home Decor,5816,4.9,13
+2546,31,Female,Books,5862,2.6,11
+2547,46,Male,Sports,5193,2.4,18
+2548,29,Male,Home Decor,9490,2.8,5
+2549,53,Female,Home Decor,5768,1.0,6
+2550,52,Female,Books,2511,1.5,14
+2551,29,Female,Electronics,925,4.4,12
+2552,24,Male,Home Decor,3544,4.9,4
+2553,46,Male,Sports,6729,1.6,7
+2554,28,Female,Electronics,1739,3.1,11
+2555,50,Male,Electronics,7066,4.9,2
+2556,23,Female,Electronics,3891,1.6,4
+2557,32,Male,Home Decor,4713,1.7,7
+2558,49,Female,Electronics,4497,4.7,1
+2559,28,Female,Books,3506,3.8,15
+2560,40,Male,Electronics,7525,1.6,8
+2561,43,Female,Sports,3539,2.6,5
+2562,51,Female,Fashion,7058,1.2,14
+2563,51,Male,Sports,9290,2.7,18
+2564,46,Female,Home Decor,1684,4.1,3
+2565,21,Male,Electronics,3084,3.2,2
+2566,34,Female,Electronics,8602,3.6,16
+2567,52,Male,Books,7616,2.3,14
+2568,30,Female,Electronics,4883,1.6,16
+2569,58,Female,Sports,4436,1.1,11
+2570,56,Female,Home Decor,2199,4.3,17
+2571,32,Female,Fashion,5007,3.5,3
+2572,46,Male,Electronics,635,1.9,5
+2573,46,Male,Fashion,2525,2.7,3
+2574,28,Male,Electronics,4035,4.2,15
+2575,49,Male,Home Decor,5354,3.2,5
+2576,19,Male,Sports,5867,2.2,3
+2577,31,Male,Home Decor,3390,2.1,6
+2578,37,Male,Fashion,3257,1.9,14
+2579,39,Female,Electronics,4273,4.3,2
+2580,28,Female,Fashion,9072,3.3,18
+2581,44,Female,Sports,7152,3.8,6
+2582,20,Female,Home Decor,2028,4.4,5
+2583,34,Male,Fashion,5071,4.9,14
+2584,45,Male,Fashion,5549,2.0,17
+2585,46,Male,Sports,1348,1.7,11
+2586,38,Female,Electronics,4627,2.8,1
+2587,33,Male,Fashion,7851,1.1,10
+2588,54,Female,Sports,6366,4.2,9
+2589,37,Male,Electronics,6369,4.5,12
+2590,23,Male,Electronics,2621,3.7,1
+2591,36,Male,Home Decor,5181,2.1,18
+2592,22,Male,Sports,972,1.5,12
+2593,20,Female,Electronics,2287,2.5,2
+2594,18,Female,Home Decor,613,4.3,1
+2595,55,Male,Books,6973,2.4,1
+2596,32,Female,Sports,9030,1.1,1
+2597,51,Male,Books,2785,2.1,12
+2598,52,Male,Electronics,1696,5.0,7
+2599,42,Male,Sports,578,3.7,4
+2600,41,Male,Home Decor,5059,4.6,4
+2601,29,Female,Electronics,6517,4.1,15
+2602,35,Male,Sports,3152,3.2,1
+2603,32,Male,Sports,4818,1.6,6
+2604,33,Female,Books,5885,2.4,14
+2605,44,Male,Electronics,9948,3.3,14
+2606,25,Female,Home Decor,7554,4.5,10
+2607,42,Male,Home Decor,1327,2.1,7
+2608,34,Male,Electronics,5423,1.5,12
+2609,46,Male,Electronics,3885,3.2,19
+2610,25,Male,Fashion,6556,1.7,9
+2611,32,Male,Books,2465,3.4,3
+2612,44,Male,Electronics,2927,2.1,4
+2613,24,Female,Electronics,3341,1.9,13
+2614,20,Male,Fashion,9305,2.6,10
+2615,46,Female,Fashion,9254,3.4,14
+2616,41,Female,Sports,7063,3.2,6
+2617,20,Male,Home Decor,6340,2.0,8
+2618,37,Female,Books,8310,4.6,19
+2619,32,Male,Sports,6564,1.4,10
+2620,42,Female,Electronics,7644,1.2,5
+2621,47,Male,Fashion,4852,3.4,5
+2622,31,Female,Home Decor,684,1.5,5
+2623,24,Female,Sports,6309,3.0,9
+2624,34,Male,Home Decor,4565,4.8,9
+2625,37,Female,Fashion,7681,3.8,15
+2626,53,Male,Sports,8937,3.5,9
+2627,26,Male,Sports,8004,3.3,14
+2628,55,Male,Home Decor,7926,1.7,6
+2629,39,Male,Fashion,9557,2.7,8
+2630,19,Male,Electronics,2587,2.4,2
+2631,41,Female,Sports,1100,4.8,5
+2632,25,Female,Electronics,8304,2.0,17
+2633,28,Female,Fashion,6037,2.9,10
+2634,30,Male,Sports,3533,4.8,14
+2635,34,Female,Sports,2556,4.2,18
+2636,25,Female,Electronics,9224,4.9,1
+2637,38,Female,Books,5584,3.4,2
+2638,35,Female,Electronics,2542,2.3,4
+2639,47,Female,Electronics,8460,4.3,13
+2640,35,Male,Books,857,2.2,16
+2641,48,Male,Fashion,877,1.7,5
+2642,55,Female,Fashion,4988,3.8,10
+2643,49,Male,Sports,5297,3.6,17
+2644,28,Male,Home Decor,3807,4.5,11
+2645,42,Female,Home Decor,3096,4.8,5
+2646,50,Female,Sports,1283,4.4,15
+2647,55,Male,Home Decor,6424,1.2,4
+2648,58,Female,Electronics,2879,3.7,7
+2649,25,Male,Electronics,8331,4.1,10
+2650,28,Male,Books,9674,4.9,4
+2651,39,Female,Books,9734,2.5,5
+2652,41,Male,Sports,5767,1.7,5
+2653,58,Male,Sports,8138,4.4,11
+2654,34,Male,Sports,3038,2.3,19
+2655,29,Female,Electronics,1361,3.4,5
+2656,49,Female,Home Decor,2376,2.6,8
+2657,32,Female,Sports,4026,2.6,7
+2658,33,Female,Sports,2122,3.9,8
+2659,39,Male,Electronics,6018,2.4,13
+2660,45,Female,Electronics,3157,3.8,5
+2661,37,Female,Electronics,2432,1.1,18
+2662,50,Female,Home Decor,9199,2.3,9
+2663,27,Female,Sports,3978,2.3,2
+2664,57,Male,Fashion,3156,4.0,16
+2665,49,Male,Fashion,9813,2.3,14
+2666,50,Male,Sports,789,3.5,17
+2667,19,Female,Sports,7511,3.8,6
+2668,50,Female,Sports,6358,3.6,3
+2669,50,Male,Sports,7823,3.4,17
+2670,58,Female,Home Decor,3329,2.7,13
+2671,30,Female,Fashion,6462,2.5,6
+2672,47,Male,Books,5312,3.3,8
+2673,50,Male,Fashion,7764,1.3,6
+2674,30,Female,Fashion,9258,4.5,16
+2675,43,Female,Electronics,1973,4.3,6
+2676,39,Female,Sports,2487,2.4,17
+2677,56,Male,Sports,8173,3.3,3
+2678,19,Male,Sports,3760,4.7,12
+2679,55,Male,Electronics,7990,2.1,6
+2680,56,Male,Home Decor,7239,4.0,7
+2681,43,Female,Home Decor,3751,1.3,11
+2682,32,Male,Books,6405,3.1,9
+2683,51,Male,Home Decor,5800,4.5,16
+2684,59,Female,Home Decor,5554,3.2,5
+2685,57,Female,Sports,2216,3.5,15
+2686,28,Female,Fashion,9704,4.6,4
+2687,20,Male,Home Decor,1810,3.9,5
+2688,23,Female,Home Decor,1117,3.8,7
+2689,26,Female,Electronics,4757,3.3,3
+2690,23,Male,Books,6599,3.5,4
+2691,26,Male,Electronics,968,4.2,15
+2692,56,Female,Sports,6405,4.9,2
+2693,48,Male,Fashion,1639,4.2,5
+2694,49,Female,Books,9228,3.8,7
+2695,58,Female,Electronics,1451,1.5,17
+2696,29,Male,Home Decor,8512,4.3,8
+2697,25,Female,Home Decor,3506,3.9,9
+2698,25,Male,Books,6575,4.1,10
+2699,45,Male,Home Decor,8390,1.9,11
+2700,37,Male,Electronics,6452,4.6,1
+2701,24,Female,Electronics,7577,1.4,15
+2702,28,Male,Home Decor,9542,2.0,8
+2703,37,Male,Home Decor,2471,3.7,19
+2704,33,Female,Sports,1691,3.7,12
+2705,21,Female,Fashion,4420,2.3,6
+2706,23,Female,Books,8265,3.8,10
+2707,39,Female,Electronics,6693,2.6,5
+2708,43,Male,Books,3546,1.0,7
+2709,20,Male,Sports,804,1.7,7
+2710,58,Male,Electronics,6839,4.5,9
+2711,59,Female,Sports,8543,1.9,15
+2712,31,Female,Sports,5408,1.5,6
+2713,28,Male,Home Decor,3304,3.7,16
+2714,35,Female,Books,4436,2.8,7
+2715,29,Female,Books,1212,4.2,15
+2716,40,Male,Home Decor,7348,4.4,2
+2717,29,Male,Books,8866,4.4,8
+2718,30,Female,Home Decor,3705,2.3,12
+2719,42,Female,Electronics,5685,3.0,11
+2720,36,Female,Sports,7006,3.6,6
+2721,53,Male,Sports,2272,2.3,13
+2722,25,Male,Books,1574,1.2,16
+2723,46,Male,Fashion,5947,3.0,8
+2724,49,Male,Sports,9283,1.1,17
+2725,35,Male,Home Decor,5764,4.8,13
+2726,23,Female,Fashion,7822,4.2,4
+2727,35,Female,Fashion,7151,1.8,10
+2728,36,Female,Sports,2910,2.2,16
+2729,39,Male,Sports,9539,4.9,17
+2730,54,Male,Sports,6941,2.5,8
+2731,49,Male,Home Decor,9185,4.1,11
+2732,58,Female,Fashion,9237,2.8,5
+2733,20,Male,Books,9575,4.5,16
+2734,45,Male,Home Decor,4456,3.8,8
+2735,27,Female,Electronics,7053,1.1,16
+2736,52,Male,Sports,7369,2.2,4
+2737,46,Female,Fashion,8031,3.2,6
+2738,32,Male,Home Decor,3594,4.7,8
+2739,50,Male,Electronics,2865,1.4,9
+2740,24,Female,Home Decor,7168,3.4,13
+2741,29,Female,Home Decor,5500,2.2,17
+2742,47,Female,Books,8420,4.6,9
+2743,38,Female,Books,3847,4.1,13
+2744,48,Female,Home Decor,4175,2.5,9
+2745,41,Female,Electronics,1452,1.7,6
+2746,37,Male,Fashion,3800,1.0,10
+2747,54,Male,Fashion,3679,3.5,5
+2748,21,Female,Sports,3747,2.6,7
+2749,45,Male,Sports,4915,2.3,11
+2750,37,Female,Fashion,3857,4.9,9
+2751,41,Male,Home Decor,6972,2.9,10
+2752,49,Female,Home Decor,6496,4.0,11
+2753,58,Male,Books,5348,1.7,3
+2754,53,Male,Books,5975,1.1,8
+2755,51,Male,Sports,1537,2.7,17
+2756,53,Male,Fashion,8762,3.7,7
+2757,19,Male,Home Decor,7508,3.0,12
+2758,32,Female,Fashion,6431,4.6,16
+2759,51,Female,Electronics,6142,2.7,15
+2760,53,Female,Fashion,605,2.2,13
+2761,23,Male,Electronics,1269,4.7,18
+2762,56,Female,Books,3440,2.6,18
+2763,59,Male,Books,8399,2.1,5
+2764,29,Male,Sports,7114,1.4,14
+2765,20,Male,Fashion,6305,4.2,11
+2766,35,Female,Fashion,4855,4.3,3
+2767,57,Male,Electronics,1433,1.1,17
+2768,38,Female,Books,9266,2.4,12
+2769,32,Female,Electronics,6160,4.0,3
+2770,50,Male,Books,6406,4.8,2
+2771,52,Male,Electronics,6550,2.5,4
+2772,43,Female,Books,8761,4.5,18
+2773,25,Female,Electronics,4974,2.6,14
+2774,53,Female,Books,9994,1.7,8
+2775,47,Female,Electronics,754,1.0,2
+2776,40,Female,Fashion,7587,2.3,19
+2777,59,Female,Sports,5287,2.5,10
+2778,31,Male,Electronics,8362,4.8,5
+2779,31,Female,Sports,9525,1.8,11
+2780,19,Female,Fashion,6856,2.5,9
+2781,54,Female,Fashion,4242,1.1,16
+2782,22,Female,Books,2535,4.1,5
+2783,55,Male,Sports,2467,4.7,15
+2784,58,Male,Home Decor,8791,2.0,14
+2785,31,Female,Books,2352,2.7,9
+2786,56,Female,Sports,3683,1.5,5
+2787,42,Female,Electronics,7118,2.8,15
+2788,37,Male,Electronics,8803,1.5,9
+2789,19,Male,Fashion,682,3.1,4
+2790,56,Male,Home Decor,7240,3.9,4
+2791,23,Male,Electronics,664,3.2,7
+2792,34,Male,Sports,7458,2.0,15
+2793,42,Male,Sports,2637,2.4,17
+2794,45,Female,Electronics,954,3.6,18
+2795,19,Male,Sports,2785,3.4,7
+2796,52,Male,Sports,8346,1.5,19
+2797,54,Female,Fashion,5322,4.4,10
+2798,22,Male,Home Decor,1041,2.9,13
+2799,18,Female,Fashion,6533,1.6,2
+2800,57,Male,Home Decor,3165,1.5,11
+2801,29,Female,Sports,7649,4.9,5
+2802,53,Female,Home Decor,6298,2.1,6
+2803,40,Female,Sports,6285,4.6,3
+2804,48,Female,Sports,5114,2.6,1
+2805,28,Female,Fashion,4792,2.5,3
+2806,27,Male,Fashion,6689,3.8,3
+2807,20,Male,Books,7173,1.0,4
+2808,31,Female,Electronics,2188,2.4,7
+2809,33,Female,Books,5595,2.2,15
+2810,27,Female,Books,8083,4.5,11
+2811,46,Male,Home Decor,8324,3.1,18
+2812,27,Female,Sports,2137,2.5,12
+2813,29,Female,Sports,6466,2.1,4
+2814,47,Female,Sports,5170,3.4,11
+2815,58,Female,Electronics,5703,1.6,6
+2816,18,Male,Home Decor,5634,2.0,19
+2817,22,Female,Home Decor,2390,2.2,18
+2818,37,Female,Sports,3705,3.4,15
+2819,25,Male,Books,9169,2.5,3
+2820,29,Female,Electronics,2866,3.0,17
+2821,18,Female,Books,8059,3.6,1
+2822,37,Male,Fashion,3026,4.8,2
+2823,45,Male,Home Decor,8307,4.1,19
+2824,54,Male,Home Decor,866,2.6,9
+2825,54,Female,Books,7021,4.0,8
+2826,29,Female,Electronics,7106,4.8,12
+2827,54,Male,Home Decor,512,3.0,15
+2828,45,Male,Books,9227,2.6,7
+2829,32,Male,Electronics,3739,1.3,16
+2830,23,Female,Books,2817,4.6,7
+2831,37,Female,Electronics,4542,2.0,12
+2832,31,Male,Sports,7985,1.3,17
+2833,19,Female,Electronics,875,3.1,11
+2834,26,Male,Fashion,756,4.4,4
+2835,54,Female,Sports,949,2.6,19
+2836,37,Female,Books,9585,4.1,2
+2837,43,Female,Sports,3712,4.3,2
+2838,46,Female,Sports,9876,2.8,17
+2839,18,Male,Books,6675,3.4,9
+2840,52,Female,Books,6443,3.1,1
+2841,23,Female,Fashion,8526,4.8,10
+2842,54,Male,Books,7946,3.9,15
+2843,22,Female,Home Decor,1808,4.7,15
+2844,50,Male,Home Decor,9608,1.9,2
+2845,31,Male,Fashion,8839,2.2,14
+2846,29,Female,Electronics,4516,1.3,4
+2847,59,Female,Electronics,4440,3.0,18
+2848,37,Male,Home Decor,7213,4.5,9
+2849,41,Male,Books,4571,2.3,2
+2850,51,Male,Fashion,8607,1.5,2
+2851,42,Female,Electronics,6412,1.3,18
+2852,46,Male,Electronics,942,2.8,17
+2853,56,Male,Sports,3444,1.7,9
+2854,48,Male,Home Decor,4436,2.4,8
+2855,40,Female,Books,898,4.3,2
+2856,55,Male,Fashion,9843,2.5,2
+2857,37,Female,Electronics,3495,3.4,5
+2858,40,Female,Sports,6829,3.0,12
+2859,33,Male,Home Decor,2716,3.9,16
+2860,59,Female,Home Decor,2207,1.6,14
+2861,25,Male,Fashion,6266,4.7,2
+2862,38,Female,Electronics,6177,3.6,8
+2863,18,Female,Fashion,3068,2.1,4
+2864,25,Male,Fashion,8138,1.5,9
+2865,46,Male,Sports,660,1.6,19
+2866,49,Male,Home Decor,8567,4.1,2
+2867,55,Female,Books,4404,3.4,16
+2868,22,Female,Home Decor,4073,2.5,11
+2869,39,Male,Home Decor,2325,2.3,8
+2870,51,Male,Sports,6082,4.4,12
+2871,18,Female,Books,1676,4.5,3
+2872,43,Female,Electronics,5418,3.3,13
+2873,27,Female,Books,5380,3.1,2
+2874,47,Male,Electronics,3720,4.3,13
+2875,35,Female,Books,8320,4.0,8
+2876,34,Male,Fashion,630,2.6,15
+2877,43,Female,Books,7159,1.3,9
+2878,25,Female,Sports,4062,4.1,11
+2879,57,Male,Electronics,1999,1.7,3
+2880,29,Male,Home Decor,7930,1.1,7
+2881,44,Male,Sports,8205,4.4,14
+2882,25,Female,Electronics,8126,3.3,15
+2883,42,Female,Electronics,7179,4.6,9
+2884,21,Female,Home Decor,3288,2.9,11
+2885,50,Male,Fashion,5376,4.7,7
+2886,18,Female,Sports,4208,2.4,12
+2887,36,Male,Home Decor,2269,3.9,19
+2888,48,Male,Home Decor,7231,2.2,18
+2889,33,Male,Fashion,3544,1.0,13
+2890,31,Female,Sports,875,2.5,11
+2891,22,Female,Home Decor,6847,4.0,1
+2892,58,Male,Fashion,3536,1.6,6
+2893,43,Female,Sports,9352,3.0,2
+2894,45,Male,Books,6718,1.8,13
+2895,19,Male,Electronics,1240,1.3,13
+2896,23,Female,Fashion,8995,3.5,19
+2897,26,Male,Electronics,1585,4.8,9
+2898,50,Male,Books,1710,2.2,19
+2899,58,Female,Home Decor,8920,3.3,1
+2900,42,Male,Home Decor,3619,4.8,8
+2901,30,Male,Sports,767,3.6,14
+2902,26,Male,Fashion,3274,3.7,16
+2903,30,Male,Fashion,4849,1.7,4
+2904,48,Male,Sports,5465,3.0,18
+2905,58,Male,Electronics,8625,2.5,14
+2906,28,Male,Home Decor,3959,2.9,9
+2907,21,Female,Home Decor,1489,4.2,15
+2908,51,Female,Fashion,1437,2.8,3
+2909,55,Male,Fashion,7154,1.3,4
+2910,21,Male,Sports,7489,4.6,18
+2911,55,Female,Books,9131,3.2,14
+2912,36,Female,Electronics,7842,4.7,15
+2913,23,Female,Books,6523,3.3,8
+2914,51,Female,Books,2858,1.3,10
+2915,35,Female,Fashion,3845,3.2,12
+2916,30,Male,Fashion,6860,3.3,9
+2917,58,Female,Fashion,5316,1.9,8
+2918,40,Female,Books,4243,2.9,17
+2919,36,Female,Electronics,7659,2.8,9
+2920,28,Male,Fashion,1018,3.5,13
+2921,18,Male,Home Decor,768,2.0,14
+2922,41,Male,Electronics,5944,3.3,5
+2923,24,Male,Home Decor,5975,2.0,9
+2924,42,Male,Electronics,4685,2.8,16
+2925,38,Male,Fashion,5661,1.5,19
+2926,32,Female,Sports,4365,1.1,7
+2927,18,Male,Fashion,8511,2.3,12
+2928,29,Male,Books,2835,2.1,2
+2929,24,Female,Books,4174,2.6,18
+2930,32,Male,Electronics,5076,4.8,18
+2931,38,Female,Books,1000,3.1,16
+2932,36,Female,Fashion,8583,3.2,11
+2933,46,Male,Home Decor,8794,4.8,2
+2934,42,Female,Fashion,6043,4.7,14
+2935,50,Female,Electronics,3246,4.5,4
+2936,49,Female,Books,3776,1.4,7
+2937,52,Female,Home Decor,3585,3.5,2
+2938,55,Male,Sports,6235,4.2,14
+2939,43,Female,Home Decor,8296,4.3,7
+2940,28,Male,Home Decor,7113,3.3,9
+2941,52,Female,Fashion,1827,1.1,8
+2942,25,Female,Sports,8272,4.9,9
+2943,31,Female,Electronics,4246,2.9,7
+2944,27,Male,Electronics,6184,2.6,19
+2945,19,Male,Home Decor,3062,2.6,17
+2946,26,Male,Home Decor,4663,2.7,13
+2947,20,Female,Books,3817,2.0,11
+2948,38,Female,Sports,2936,2.3,18
+2949,43,Female,Home Decor,6269,4.9,17
+2950,25,Female,Books,8999,2.5,16
+2951,19,Male,Sports,6418,3.1,10
+2952,23,Female,Electronics,1589,4.4,4
+2953,45,Male,Books,5055,3.1,4
+2954,46,Female,Sports,2894,2.3,11
+2955,43,Male,Books,6968,3.1,8
+2956,42,Male,Home Decor,4504,1.5,9
+2957,29,Female,Fashion,1166,1.5,16
+2958,22,Female,Electronics,6218,3.8,10
+2959,51,Male,Home Decor,5652,4.7,9
+2960,54,Female,Home Decor,2734,3.9,3
+2961,32,Female,Sports,6835,1.3,2
+2962,53,Male,Books,1736,2.6,9
+2963,32,Male,Electronics,2123,1.0,13
+2964,40,Male,Home Decor,1874,3.0,6
+2965,23,Male,Sports,7775,1.8,4
+2966,38,Female,Electronics,6859,4.5,14
+2967,40,Male,Books,676,1.4,11
+2968,33,Male,Home Decor,7204,1.0,2
+2969,32,Male,Home Decor,3428,2.8,3
+2970,42,Female,Home Decor,9317,1.6,5
+2971,53,Male,Electronics,8117,4.0,7
+2972,28,Female,Electronics,8114,4.7,11
+2973,32,Male,Electronics,4215,1.2,12
+2974,21,Male,Electronics,4774,2.6,11
+2975,38,Female,Sports,9086,5.0,19
+2976,30,Male,Fashion,9860,3.9,13
+2977,39,Male,Sports,5471,4.8,4
+2978,36,Female,Home Decor,8889,1.7,14
+2979,51,Male,Sports,1468,1.9,12
+2980,31,Male,Books,3655,1.6,2
+2981,21,Male,Electronics,5264,2.2,8
+2982,44,Male,Books,3004,3.9,19
+2983,46,Female,Books,8143,1.7,13
+2984,45,Male,Home Decor,9968,3.1,1
+2985,52,Female,Electronics,6506,2.1,5
+2986,25,Male,Books,8462,4.3,11
+2987,33,Female,Home Decor,8443,1.0,11
+2988,59,Male,Electronics,1769,1.9,13
+2989,53,Female,Fashion,1864,3.4,2
+2990,47,Male,Home Decor,7216,1.4,19
+2991,35,Female,Sports,1423,2.9,16
+2992,19,Female,Electronics,970,2.7,5
+2993,30,Male,Books,7097,4.4,14
+2994,21,Female,Books,3454,3.5,19
+2995,43,Male,Sports,1648,3.6,5
+2996,42,Male,Sports,3586,4.8,9
+2997,47,Male,Books,9651,4.9,12
+2998,28,Male,Electronics,1129,3.6,16
+2999,24,Male,Home Decor,7907,3.1,19
+3000,48,Female,Sports,1274,3.4,15
+3001,27,Male,Sports,9051,2.5,17
+3002,56,Male,Sports,9209,4.9,15
+3003,30,Male,Fashion,1843,3.8,3
+3004,48,Male,Electronics,7898,2.2,17
+3005,24,Male,Electronics,7697,1.2,13
+3006,59,Male,Electronics,5516,1.2,9
+3007,59,Female,Electronics,8297,1.8,13
+3008,53,Female,Electronics,3399,1.9,16
+3009,37,Male,Books,1434,2.7,19
+3010,21,Female,Sports,2486,1.9,14
+3011,24,Male,Books,5496,3.5,8
+3012,18,Male,Fashion,7042,1.8,19
+3013,59,Male,Home Decor,5965,1.8,3
+3014,30,Male,Sports,6811,2.9,18
+3015,39,Male,Fashion,9068,4.6,16
+3016,38,Female,Books,2005,2.9,14
+3017,39,Female,Home Decor,5863,2.7,16
+3018,45,Female,Fashion,1510,3.3,17
+3019,26,Female,Home Decor,3977,2.0,11
+3020,43,Male,Fashion,8241,2.4,13
+3021,26,Female,Books,9922,1.9,11
+3022,32,Male,Home Decor,9869,3.3,4
+3023,27,Female,Fashion,4357,3.8,14
+3024,41,Female,Books,4339,3.7,5
+3025,59,Female,Sports,4768,2.0,4
+3026,25,Female,Books,3053,4.1,1
+3027,41,Male,Books,4889,2.0,14
+3028,33,Female,Sports,1051,1.6,7
+3029,43,Female,Books,6066,2.4,10
+3030,44,Male,Sports,9731,3.4,2
+3031,54,Male,Sports,6258,1.6,10
+3032,21,Female,Sports,9576,3.6,3
+3033,41,Male,Fashion,3551,4.5,8
+3034,36,Male,Home Decor,5822,2.2,10
+3035,53,Male,Fashion,3055,2.8,8
+3036,56,Female,Sports,1589,1.9,14
+3037,27,Male,Home Decor,958,2.4,18
+3038,42,Female,Home Decor,5221,1.1,9
+3039,35,Female,Sports,6804,4.8,9
+3040,36,Female,Home Decor,2420,2.7,4
+3041,53,Female,Home Decor,8194,4.2,3
+3042,27,Male,Fashion,6168,1.6,14
+3043,50,Female,Home Decor,6798,4.2,14
+3044,22,Male,Sports,7129,4.4,16
+3045,52,Female,Electronics,5646,3.9,5
+3046,51,Male,Electronics,1503,4.6,15
+3047,50,Female,Electronics,3583,1.7,9
+3048,38,Male,Sports,3089,2.9,7
+3049,34,Female,Electronics,4810,3.5,13
+3050,39,Female,Fashion,2741,3.4,8
+3051,54,Male,Sports,6266,4.4,12
+3052,32,Female,Sports,8211,1.9,4
+3053,52,Female,Sports,5480,1.7,16
+3054,45,Female,Home Decor,1438,2.0,6
+3055,24,Male,Home Decor,4801,4.6,5
+3056,49,Female,Home Decor,4470,4.8,1
+3057,28,Female,Books,4499,3.3,14
+3058,27,Male,Fashion,5150,3.0,9
+3059,26,Male,Sports,7127,3.4,18
+3060,31,Male,Sports,3908,3.5,6
+3061,30,Male,Home Decor,9462,1.7,15
+3062,42,Male,Sports,748,3.7,16
+3063,19,Female,Sports,9064,2.8,8
+3064,52,Female,Electronics,6450,3.1,19
+3065,24,Female,Sports,3426,1.1,5
+3066,38,Male,Books,8475,4.1,14
+3067,35,Female,Home Decor,4357,4.3,7
+3068,20,Male,Fashion,5430,3.5,4
+3069,59,Male,Fashion,7514,4.0,1
+3070,56,Female,Electronics,9393,3.1,4
+3071,58,Male,Fashion,7466,3.5,14
+3072,28,Male,Fashion,9633,2.6,16
+3073,56,Female,Home Decor,7087,4.2,7
+3074,41,Male,Home Decor,6996,2.9,10
+3075,36,Male,Books,5591,3.7,10
+3076,21,Female,Electronics,9485,3.5,4
+3077,43,Male,Fashion,1177,3.8,12
+3078,55,Male,Books,6409,4.1,6
+3079,59,Female,Electronics,2061,3.1,13
+3080,49,Female,Fashion,4553,4.3,1
+3081,56,Female,Fashion,9144,3.0,8
+3082,53,Female,Home Decor,4156,4.8,16
+3083,57,Male,Sports,5734,4.0,5
+3084,54,Male,Electronics,4646,1.7,7
+3085,50,Female,Fashion,5988,4.3,3
+3086,53,Male,Electronics,8581,3.2,2
+3087,20,Male,Books,709,4.9,2
+3088,26,Female,Books,5483,3.9,10
+3089,25,Female,Sports,7641,1.3,9
+3090,50,Male,Fashion,5445,2.6,18
+3091,23,Female,Home Decor,8480,3.1,6
+3092,58,Female,Fashion,4466,4.4,6
+3093,56,Female,Electronics,9318,3.9,10
+3094,21,Male,Books,3324,2.5,9
+3095,30,Female,Electronics,1750,3.6,9
+3096,19,Male,Sports,5258,3.3,3
+3097,22,Male,Books,4863,1.5,12
+3098,44,Male,Home Decor,2663,1.9,11
+3099,49,Female,Books,2353,2.4,14
+3100,38,Female,Fashion,1253,1.8,19
+3101,25,Female,Fashion,5948,1.6,10
+3102,55,Female,Books,2368,1.2,19
+3103,25,Female,Sports,681,4.5,5
+3104,20,Male,Fashion,2013,2.2,9
+3105,20,Male,Fashion,9594,2.2,1
+3106,39,Male,Home Decor,3844,1.8,15
+3107,23,Female,Books,5738,2.9,4
+3108,19,Male,Fashion,7589,3.1,7
+3109,40,Male,Sports,6901,1.8,6
+3110,19,Female,Electronics,3056,3.4,15
+3111,55,Female,Books,6598,3.9,6
+3112,34,Male,Home Decor,5780,2.5,7
+3113,52,Male,Fashion,4744,3.3,3
+3114,51,Female,Sports,2664,3.0,13
+3115,40,Female,Books,7101,1.8,2
+3116,47,Female,Sports,2521,3.9,3
+3117,25,Female,Sports,3321,4.2,13
+3118,39,Male,Home Decor,6438,3.6,9
+3119,53,Male,Books,6632,2.3,19
+3120,22,Female,Fashion,6469,4.7,18
+3121,30,Male,Home Decor,6668,2.8,5
+3122,46,Male,Fashion,1213,2.1,10
+3123,48,Female,Electronics,7703,2.6,14
+3124,33,Male,Sports,4045,3.8,17
+3125,59,Male,Electronics,8914,4.4,3
+3126,47,Male,Sports,1363,2.4,7
+3127,33,Female,Home Decor,5125,1.9,9
+3128,29,Female,Fashion,5807,3.5,5
+3129,34,Male,Fashion,1925,4.7,4
+3130,33,Female,Home Decor,2804,1.7,3
+3131,29,Female,Books,1153,4.2,13
+3132,25,Female,Electronics,9851,2.9,9
+3133,37,Male,Electronics,8629,4.2,7
+3134,20,Male,Fashion,7234,3.0,8
+3135,33,Female,Fashion,943,2.5,10
+3136,47,Male,Fashion,7959,3.8,1
+3137,40,Male,Home Decor,5169,4.6,1
+3138,45,Male,Books,5606,2.3,19
+3139,57,Male,Electronics,4936,2.8,2
+3140,22,Male,Sports,3357,1.9,12
+3141,37,Female,Home Decor,9972,1.7,13
+3142,57,Male,Electronics,3539,4.1,14
+3143,18,Male,Books,8791,1.8,5
+3144,47,Male,Home Decor,3237,4.2,3
+3145,38,Female,Electronics,7456,2.7,17
+3146,37,Female,Home Decor,5739,5.0,1
+3147,23,Female,Electronics,2107,1.8,14
+3148,39,Male,Electronics,3453,1.4,6
+3149,35,Female,Books,6433,1.3,17
+3150,25,Female,Sports,5182,4.3,4
+3151,56,Female,Books,6833,2.8,6
+3152,49,Female,Electronics,7892,1.0,1
+3153,50,Male,Home Decor,9547,4.5,9
+3154,33,Female,Books,7109,4.5,4
+3155,29,Female,Sports,5425,4.2,9
+3156,55,Male,Electronics,7750,2.0,9
+3157,51,Male,Books,6283,2.5,13
+3158,31,Female,Books,7223,4.0,17
+3159,53,Male,Books,684,3.0,3
+3160,50,Female,Books,1021,1.6,6
+3161,40,Male,Home Decor,1748,2.0,15
+3162,19,Male,Sports,1502,4.9,14
+3163,58,Female,Sports,6766,1.6,13
+3164,38,Male,Electronics,6944,3.9,9
+3165,19,Female,Fashion,7517,2.9,15
+3166,44,Male,Home Decor,9085,4.0,14
+3167,26,Female,Electronics,2117,3.6,4
+3168,18,Male,Electronics,1160,2.8,11
+3169,28,Male,Books,6024,2.4,2
+3170,20,Male,Fashion,8116,4.0,16
+3171,40,Male,Fashion,5750,2.3,19
+3172,43,Male,Home Decor,8012,4.2,16
+3173,21,Female,Fashion,7405,3.7,7
+3174,35,Male,Electronics,819,3.3,11
+3175,23,Female,Fashion,9275,2.5,12
+3176,52,Female,Fashion,4100,1.8,4
+3177,39,Female,Sports,6460,3.8,16
+3178,32,Male,Electronics,5779,1.4,16
+3179,39,Female,Fashion,9273,4.9,7
+3180,54,Male,Fashion,2267,4.9,13
+3181,59,Female,Books,2298,1.5,5
+3182,29,Female,Fashion,9690,1.4,1
+3183,59,Female,Fashion,9449,2.7,5
+3184,55,Female,Sports,782,4.9,14
+3185,35,Female,Electronics,6837,2.6,11
+3186,52,Male,Home Decor,5666,2.5,2
+3187,47,Female,Electronics,7621,3.8,18
+3188,41,Female,Books,7909,1.7,15
+3189,59,Male,Electronics,5989,2.5,14
+3190,47,Male,Fashion,5396,2.2,13
+3191,31,Male,Books,630,3.4,2
+3192,23,Female,Electronics,1793,1.7,19
+3193,20,Female,Books,6559,3.2,8
+3194,33,Female,Home Decor,7457,4.4,17
+3195,24,Female,Electronics,560,3.1,15
+3196,31,Female,Fashion,2711,3.7,14
+3197,26,Female,Books,6776,1.3,3
+3198,32,Male,Sports,5863,2.8,17
+3199,38,Male,Books,8652,1.4,3
+3200,52,Female,Sports,8473,3.4,13
+3201,19,Female,Fashion,537,2.1,18
+3202,44,Female,Home Decor,6490,2.1,1
+3203,19,Female,Sports,5938,1.3,7
+3204,52,Female,Home Decor,8177,2.2,5
+3205,35,Male,Books,973,3.0,2
+3206,31,Male,Fashion,558,3.3,17
+3207,37,Female,Sports,3136,1.3,10
+3208,35,Male,Books,3114,3.6,4
+3209,27,Female,Electronics,7796,3.0,9
+3210,42,Female,Books,5499,3.1,11
+3211,19,Female,Home Decor,8776,4.3,12
+3212,42,Male,Fashion,4297,2.4,12
+3213,50,Male,Fashion,3174,1.7,18
+3214,53,Female,Books,6936,3.2,4
+3215,48,Male,Electronics,3620,4.8,9
+3216,31,Male,Home Decor,9782,3.1,8
+3217,18,Female,Books,2576,4.3,19
+3218,33,Male,Books,3690,4.0,13
+3219,20,Male,Fashion,5287,3.1,2
+3220,52,Female,Home Decor,6556,3.6,19
+3221,58,Female,Electronics,7994,2.6,14
+3222,23,Male,Fashion,9900,3.1,5
+3223,42,Female,Books,4077,3.0,10
+3224,30,Male,Fashion,5241,3.8,17
+3225,51,Female,Fashion,7332,2.6,16
+3226,25,Female,Sports,3081,1.4,17
+3227,38,Female,Fashion,4287,4.2,1
+3228,51,Female,Fashion,9207,3.7,15
+3229,21,Male,Home Decor,7603,4.8,17
+3230,42,Female,Fashion,1432,2.7,11
+3231,32,Female,Electronics,2163,1.3,5
+3232,21,Female,Books,9248,1.5,4
+3233,29,Male,Home Decor,8414,4.1,9
+3234,49,Male,Fashion,9684,1.3,16
+3235,49,Female,Electronics,5352,4.6,12
+3236,45,Female,Books,1604,2.1,18
+3237,30,Female,Home Decor,1770,4.6,3
+3238,48,Female,Electronics,4146,4.1,15
+3239,31,Female,Fashion,5587,4.5,18
+3240,37,Female,Sports,5223,1.9,12
+3241,35,Male,Sports,2554,3.4,13
+3242,46,Female,Home Decor,9645,1.4,1
+3243,23,Female,Electronics,7158,1.8,4
+3244,49,Female,Books,2342,2.2,8
+3245,46,Female,Electronics,3302,4.0,19
+3246,19,Female,Sports,8235,1.1,5
+3247,40,Female,Home Decor,8701,4.6,11
+3248,36,Male,Fashion,8813,1.3,17
+3249,48,Male,Electronics,6605,2.5,17
+3250,22,Male,Sports,3060,1.3,2
+3251,36,Male,Books,3537,4.1,1
+3252,51,Male,Home Decor,9132,1.6,4
+3253,27,Male,Fashion,3249,4.5,9
+3254,42,Female,Electronics,1090,3.1,2
+3255,19,Female,Books,1868,4.8,3
+3256,28,Female,Fashion,1861,2.2,6
+3257,48,Female,Sports,8628,2.8,13
+3258,32,Female,Sports,4273,3.8,15
+3259,26,Female,Books,2564,4.3,11
+3260,40,Male,Sports,2915,2.7,10
+3261,36,Female,Home Decor,3451,4.6,3
+3262,26,Male,Books,6116,1.5,9
+3263,52,Male,Sports,8475,3.8,10
+3264,38,Female,Electronics,7601,2.4,12
+3265,26,Female,Sports,5503,1.4,8
+3266,45,Female,Home Decor,8806,2.5,17
+3267,24,Female,Fashion,6743,4.5,5
+3268,33,Female,Fashion,7081,4.9,8
+3269,33,Female,Sports,8830,2.6,18
+3270,50,Female,Fashion,5423,4.5,11
+3271,21,Male,Sports,6967,3.0,10
+3272,21,Female,Home Decor,5441,3.9,15
+3273,56,Female,Fashion,6937,1.2,6
+3274,57,Male,Electronics,6576,3.2,19
+3275,34,Female,Sports,6148,1.3,17
+3276,54,Female,Fashion,8501,2.1,10
+3277,56,Male,Home Decor,1815,3.3,5
+3278,46,Female,Home Decor,573,4.2,16
+3279,53,Female,Electronics,9175,3.2,12
+3280,55,Female,Home Decor,2049,4.7,5
+3281,56,Female,Home Decor,1859,4.2,1
+3282,54,Female,Fashion,2396,1.6,2
+3283,52,Female,Sports,7159,2.6,5
+3284,24,Male,Books,5746,3.7,19
+3285,44,Female,Home Decor,7467,4.8,15
+3286,45,Female,Home Decor,7161,5.0,1
+3287,39,Male,Books,1010,4.1,11
+3288,31,Male,Home Decor,9114,3.3,18
+3289,24,Female,Fashion,2932,4.0,3
+3290,54,Male,Fashion,2406,2.1,9
+3291,39,Female,Books,9650,2.1,4
+3292,22,Female,Home Decor,9516,3.6,13
+3293,19,Male,Home Decor,564,4.5,9
+3294,44,Female,Sports,5428,4.9,3
+3295,38,Female,Home Decor,5210,2.4,16
+3296,55,Male,Fashion,6624,4.2,8
+3297,32,Male,Electronics,8337,4.4,7
+3298,38,Male,Electronics,1300,3.5,17
+3299,27,Male,Electronics,6563,2.4,16
+3300,40,Female,Electronics,8969,3.5,18
+3301,56,Male,Home Decor,6609,3.3,16
+3302,22,Male,Home Decor,7159,3.4,15
+3303,18,Male,Sports,1738,3.5,2
+3304,30,Male,Home Decor,7082,4.4,4
+3305,38,Male,Electronics,5023,1.7,5
+3306,43,Female,Books,6120,2.5,7
+3307,38,Male,Books,1986,3.3,15
+3308,35,Female,Fashion,5181,2.1,17
+3309,54,Male,Fashion,4970,4.9,10
+3310,49,Male,Home Decor,6119,2.1,9
+3311,53,Male,Books,8784,2.9,16
+3312,34,Male,Electronics,7677,4.5,3
+3313,52,Male,Electronics,5941,1.3,9
+3314,28,Male,Electronics,2340,4.3,8
+3315,38,Male,Home Decor,5897,3.3,7
+3316,43,Male,Home Decor,2121,1.1,17
+3317,21,Female,Sports,2061,4.6,5
+3318,51,Male,Electronics,6349,1.2,7
+3319,35,Female,Electronics,1916,3.1,13
+3320,57,Male,Home Decor,4690,1.2,18
+3321,52,Female,Home Decor,5554,1.3,14
+3322,58,Male,Sports,1630,4.5,18
+3323,46,Male,Sports,4097,4.1,3
+3324,46,Male,Fashion,2618,1.8,17
+3325,55,Female,Books,1163,3.5,19
+3326,59,Female,Electronics,3134,4.2,7
+3327,38,Female,Electronics,3274,4.6,4
+3328,59,Female,Sports,6694,2.9,15
+3329,30,Male,Sports,4469,4.6,8
+3330,58,Male,Fashion,3990,3.0,16
+3331,34,Male,Books,2023,3.8,1
+3332,26,Female,Fashion,8553,4.9,16
+3333,58,Male,Books,1487,1.9,2
+3334,18,Female,Electronics,8415,1.7,2
+3335,19,Female,Fashion,6903,2.4,8
+3336,46,Female,Sports,5821,1.7,12
+3337,50,Female,Fashion,4345,2.1,11
+3338,27,Female,Fashion,6801,4.0,6
+3339,57,Male,Electronics,598,2.9,19
+3340,38,Female,Sports,2788,2.5,18
+3341,45,Female,Sports,4797,2.5,5
+3342,28,Male,Home Decor,9325,1.8,15
+3343,51,Female,Home Decor,8296,2.8,8
+3344,25,Female,Home Decor,7763,3.5,6
+3345,39,Male,Electronics,9270,1.6,12
+3346,25,Male,Fashion,4459,4.9,19
+3347,32,Male,Sports,7885,2.8,12
+3348,34,Female,Sports,8964,4.8,12
+3349,40,Male,Fashion,5838,1.5,9
+3350,41,Male,Sports,5381,4.1,10
+3351,36,Male,Fashion,4454,3.5,17
+3352,22,Female,Electronics,4427,4.3,18
+3353,49,Male,Electronics,9144,3.4,16
+3354,18,Female,Electronics,9867,4.9,4
+3355,40,Female,Fashion,5411,3.5,18
+3356,54,Male,Fashion,913,4.1,3
+3357,25,Female,Books,2050,4.5,16
+3358,30,Female,Sports,5026,3.9,14
+3359,25,Male,Sports,7641,3.1,9
+3360,40,Female,Books,7071,2.1,6
+3361,18,Male,Books,2446,4.4,4
+3362,41,Female,Electronics,5703,2.9,2
+3363,52,Female,Books,691,3.5,10
+3364,41,Male,Fashion,540,1.3,11
+3365,34,Male,Home Decor,6392,3.0,7
+3366,22,Female,Fashion,3949,3.8,5
+3367,37,Female,Books,8827,3.3,4
+3368,38,Male,Sports,6409,2.8,6
+3369,57,Female,Fashion,2441,1.9,2
+3370,48,Female,Sports,4721,2.2,2
+3371,53,Female,Fashion,8024,3.8,16
+3372,28,Female,Sports,7043,1.9,13
+3373,32,Male,Fashion,6722,3.5,7
+3374,36,Male,Sports,9080,3.4,5
+3375,24,Male,Home Decor,2058,4.9,17
+3376,45,Male,Electronics,2621,1.2,13
+3377,22,Male,Fashion,1528,1.4,15
+3378,22,Male,Home Decor,8773,3.0,3
+3379,47,Female,Electronics,6156,3.1,4
+3380,49,Male,Fashion,9467,1.2,15
+3381,25,Female,Home Decor,3538,4.3,18
+3382,27,Female,Home Decor,2378,3.0,3
+3383,55,Female,Home Decor,2771,2.4,7
+3384,49,Male,Books,2107,2.3,8
+3385,45,Female,Sports,3639,4.4,11
+3386,34,Male,Electronics,1105,1.8,9
+3387,48,Female,Sports,5235,1.6,12
+3388,25,Female,Sports,4165,1.9,5
+3389,57,Male,Sports,6352,3.5,1
+3390,42,Female,Home Decor,5962,4.2,14
+3391,26,Female,Sports,2644,2.3,3
+3392,19,Female,Books,4770,1.7,15
+3393,32,Female,Fashion,8607,1.8,10
+3394,20,Male,Home Decor,1876,3.5,10
+3395,53,Female,Electronics,3962,2.0,3
+3396,21,Female,Fashion,847,4.5,6
+3397,31,Male,Fashion,500,1.4,5
+3398,58,Female,Fashion,562,1.1,19
+3399,58,Female,Sports,2283,1.4,14
+3400,42,Female,Sports,8917,4.4,17
+3401,27,Female,Home Decor,7066,3.6,12
+3402,38,Male,Sports,1542,4.8,9
+3403,53,Female,Sports,9536,2.3,3
+3404,29,Male,Sports,1734,1.9,18
+3405,44,Female,Home Decor,2484,3.2,4
+3406,57,Female,Home Decor,9970,3.2,14
+3407,19,Female,Books,2094,3.4,6
+3408,30,Male,Books,6757,2.4,15
+3409,49,Female,Books,2452,1.0,17
+3410,48,Female,Books,2195,1.1,5
+3411,33,Male,Fashion,1454,3.7,6
+3412,49,Male,Fashion,3791,3.1,5
+3413,49,Male,Books,9048,4.3,19
+3414,51,Male,Books,1468,2.2,14
+3415,28,Female,Electronics,741,4.3,4
+3416,27,Female,Fashion,4734,2.7,5
+3417,32,Female,Electronics,8838,1.4,11
+3418,34,Female,Electronics,7849,4.9,2
+3419,57,Male,Sports,5661,3.0,2
+3420,35,Female,Home Decor,9234,3.5,12
+3421,26,Female,Fashion,9383,3.7,16
+3422,42,Female,Books,1525,2.4,17
+3423,57,Female,Books,3859,4.0,4
+3424,31,Male,Home Decor,5757,4.5,14
+3425,42,Female,Fashion,6236,2.5,7
+3426,39,Female,Books,8179,3.6,15
+3427,47,Female,Books,3451,4.0,16
+3428,37,Male,Sports,9421,1.8,8
+3429,38,Male,Electronics,7889,2.3,2
+3430,49,Female,Books,3055,1.4,19
+3431,38,Female,Fashion,1650,3.4,1
+3432,52,Female,Home Decor,2235,4.2,4
+3433,49,Male,Sports,8431,3.4,11
+3434,47,Female,Fashion,1538,1.7,10
+3435,56,Female,Sports,6869,3.2,18
+3436,29,Female,Electronics,7627,4.3,1
+3437,58,Male,Books,3412,2.2,17
+3438,35,Female,Fashion,5340,4.3,16
+3439,38,Female,Home Decor,1742,4.1,12
+3440,30,Male,Electronics,9464,1.1,16
+3441,38,Male,Electronics,8598,2.0,9
+3442,25,Female,Sports,3912,3.2,17
+3443,57,Male,Electronics,2999,3.9,3
+3444,24,Female,Fashion,7660,4.5,18
+3445,40,Male,Sports,6610,3.6,15
+3446,49,Male,Electronics,4045,2.5,15
+3447,28,Female,Home Decor,1713,1.7,16
+3448,39,Female,Fashion,918,4.0,1
+3449,39,Female,Home Decor,5460,1.8,1
+3450,42,Male,Home Decor,1288,3.8,4
+3451,39,Female,Sports,2371,1.7,13
+3452,45,Female,Books,2525,1.4,4
+3453,46,Female,Sports,6764,2.0,8
+3454,30,Female,Fashion,2946,2.1,13
+3455,35,Female,Fashion,7929,3.6,8
+3456,19,Male,Sports,5323,1.6,14
+3457,46,Female,Books,9252,4.7,1
+3458,38,Female,Sports,3151,3.2,9
+3459,32,Male,Fashion,1039,3.0,1
+3460,44,Female,Books,6999,2.7,7
+3461,48,Female,Fashion,5255,3.3,13
+3462,32,Female,Books,6459,1.1,15
+3463,40,Female,Books,3789,5.0,9
+3464,41,Female,Sports,6046,3.2,16
+3465,30,Male,Sports,3258,1.1,17
+3466,39,Male,Sports,5811,3.4,9
+3467,54,Male,Books,4607,2.7,6
+3468,50,Female,Books,2395,1.1,12
+3469,20,Male,Fashion,3000,4.7,16
+3470,36,Female,Home Decor,3329,1.0,15
+3471,40,Female,Sports,547,3.3,7
+3472,46,Female,Fashion,2864,4.8,10
+3473,47,Male,Fashion,6166,2.0,4
+3474,56,Male,Electronics,6958,2.0,3
+3475,42,Male,Sports,9445,1.0,18
+3476,54,Female,Fashion,8677,1.3,1
+3477,25,Male,Electronics,8130,1.2,13
+3478,59,Female,Sports,8431,4.3,18
+3479,33,Male,Books,7558,4.3,8
+3480,25,Male,Electronics,3302,3.9,11
+3481,18,Female,Books,9094,2.4,10
+3482,22,Female,Home Decor,2586,4.3,4
+3483,20,Male,Home Decor,7224,3.2,4
+3484,18,Male,Home Decor,6655,2.2,4
+3485,21,Male,Home Decor,1649,2.7,12
+3486,57,Female,Fashion,562,1.3,8
+3487,52,Female,Home Decor,3653,4.8,13
+3488,49,Male,Fashion,9700,3.5,8
+3489,59,Male,Fashion,6438,3.9,3
+3490,51,Female,Sports,1251,3.7,12
+3491,42,Male,Fashion,8276,3.7,18
+3492,27,Female,Fashion,9349,1.1,15
+3493,38,Female,Home Decor,1200,3.1,14
+3494,56,Female,Fashion,9772,4.3,9
+3495,44,Female,Books,2040,1.2,5
+3496,44,Female,Home Decor,3532,4.8,15
+3497,19,Female,Electronics,6667,2.7,8
+3498,58,Male,Home Decor,6864,2.2,3
+3499,30,Female,Fashion,2483,3.1,12
+3500,26,Female,Books,9006,4.2,5
+3501,53,Male,Home Decor,6296,2.9,9
+3502,39,Female,Books,8148,3.6,3
+3503,59,Male,Electronics,8394,3.0,8
+3504,43,Female,Electronics,2814,3.5,13
+3505,29,Male,Sports,8459,1.6,8
+3506,34,Male,Sports,2149,1.2,5
+3507,31,Female,Home Decor,8200,1.5,7
+3508,31,Female,Sports,7400,2.1,5
+3509,51,Female,Books,4300,2.0,9
+3510,37,Female,Sports,2978,3.5,5
+3511,28,Male,Books,7554,2.8,8
+3512,33,Male,Sports,6559,1.2,12
+3513,48,Male,Sports,8933,1.1,4
+3514,23,Female,Sports,6709,1.4,9
+3515,36,Male,Fashion,7615,2.4,14
+3516,54,Female,Fashion,2756,1.0,19
+3517,21,Female,Sports,3868,3.0,13
+3518,21,Male,Books,7887,2.4,3
+3519,37,Female,Home Decor,9058,3.2,4
+3520,27,Male,Electronics,3327,3.9,1
+3521,41,Female,Fashion,9944,2.0,1
+3522,52,Male,Sports,2987,1.6,11
+3523,43,Female,Electronics,4103,2.1,16
+3524,54,Male,Fashion,4021,1.0,4
+3525,55,Male,Home Decor,5017,1.5,7
+3526,38,Female,Books,2143,4.0,12
+3527,57,Female,Sports,1712,1.9,6
+3528,56,Male,Home Decor,7845,5.0,9
+3529,38,Female,Fashion,5203,1.7,8
+3530,27,Female,Sports,5934,4.2,14
+3531,55,Female,Electronics,519,3.8,15
+3532,21,Male,Books,1175,2.3,5
+3533,37,Male,Fashion,4977,2.3,15
+3534,34,Female,Books,1108,3.3,6
+3535,24,Female,Sports,6786,4.4,1
+3536,21,Male,Home Decor,561,2.5,9
+3537,46,Female,Books,9957,1.2,4
+3538,31,Male,Electronics,1654,2.5,2
+3539,20,Female,Fashion,4216,1.8,6
+3540,41,Female,Electronics,5742,4.8,2
+3541,54,Female,Books,6059,3.8,3
+3542,33,Male,Home Decor,5522,1.2,7
+3543,21,Male,Home Decor,6985,2.2,17
+3544,41,Male,Electronics,1942,1.2,9
+3545,51,Male,Sports,2153,4.3,9
+3546,47,Female,Sports,3002,4.6,19
+3547,35,Female,Home Decor,3769,1.4,5
+3548,36,Male,Electronics,781,2.8,6
+3549,48,Female,Electronics,9716,4.7,18
+3550,36,Female,Electronics,3903,1.6,1
+3551,36,Male,Books,1735,2.2,17
+3552,39,Female,Sports,5260,2.2,14
+3553,41,Female,Sports,7440,1.1,15
+3554,29,Male,Books,1285,1.1,5
+3555,47,Female,Fashion,3694,4.8,17
+3556,55,Female,Books,5289,3.3,11
+3557,48,Female,Electronics,4275,2.2,10
+3558,53,Male,Books,5850,2.5,17
+3559,36,Male,Electronics,1033,3.9,1
+3560,53,Female,Home Decor,9093,2.5,5
+3561,47,Female,Electronics,4163,1.9,16
+3562,50,Female,Sports,629,1.4,7
+3563,35,Male,Books,3459,3.9,12
+3564,45,Male,Electronics,2358,1.7,8
+3565,28,Male,Fashion,4149,1.3,18
+3566,50,Female,Home Decor,3597,2.7,1
+3567,34,Female,Fashion,4012,1.2,12
+3568,23,Female,Fashion,5360,4.9,4
+3569,21,Female,Fashion,9912,3.5,12
+3570,37,Female,Home Decor,9333,1.6,1
+3571,44,Male,Home Decor,1223,1.7,1
+3572,32,Female,Home Decor,1237,3.3,3
+3573,23,Female,Home Decor,1799,2.4,12
+3574,31,Female,Fashion,3980,4.1,13
+3575,28,Male,Sports,839,3.2,13
+3576,56,Female,Sports,652,2.7,9
+3577,26,Male,Home Decor,6184,4.9,18
+3578,43,Male,Books,3551,2.6,1
+3579,33,Male,Electronics,926,2.6,6
+3580,22,Male,Books,7646,3.7,5
+3581,27,Male,Books,8625,4.2,4
+3582,20,Female,Books,6847,3.5,6
+3583,30,Female,Sports,9827,3.8,3
+3584,47,Male,Electronics,2872,2.5,17
+3585,23,Male,Books,8626,2.9,11
+3586,34,Male,Home Decor,1449,1.8,4
+3587,36,Female,Sports,8195,3.7,1
+3588,59,Female,Home Decor,1873,1.9,4
+3589,52,Male,Home Decor,7582,1.0,3
+3590,43,Female,Books,9648,4.7,10
+3591,22,Female,Home Decor,2982,2.2,1
+3592,46,Male,Electronics,8093,1.8,4
+3593,54,Male,Home Decor,9995,2.1,19
+3594,37,Female,Books,870,2.3,1
+3595,38,Female,Home Decor,8337,2.9,16
+3596,27,Female,Sports,2796,1.3,19
+3597,22,Male,Sports,7534,1.2,18
+3598,53,Male,Sports,6824,2.2,2
+3599,23,Male,Fashion,7642,2.2,6
+3600,43,Female,Sports,7528,1.5,1
+3601,21,Female,Sports,6979,2.6,19
+3602,56,Male,Fashion,4645,2.1,5
+3603,56,Female,Sports,4521,1.1,2
+3604,52,Male,Books,2864,4.5,1
+3605,18,Female,Sports,5730,4.5,16
+3606,41,Male,Sports,6470,1.8,2
+3607,53,Female,Fashion,9454,1.7,4
+3608,23,Female,Books,7800,3.2,3
+3609,58,Male,Home Decor,7255,3.5,17
+3610,48,Male,Electronics,1504,4.8,15
+3611,37,Male,Books,7557,2.5,10
+3612,41,Male,Home Decor,4255,3.5,12
+3613,42,Male,Books,3346,4.5,12
+3614,53,Female,Home Decor,6762,2.8,7
+3615,38,Male,Home Decor,9041,1.5,10
+3616,47,Male,Books,3464,2.5,5
+3617,41,Male,Fashion,9378,1.5,11
+3618,59,Male,Books,5137,1.1,2
+3619,47,Male,Books,3255,4.0,16
+3620,39,Female,Home Decor,4124,2.0,12
+3621,45,Male,Electronics,3232,1.0,16
+3622,24,Male,Home Decor,6973,4.5,4
+3623,52,Male,Sports,6851,2.8,2
+3624,45,Female,Books,2193,2.0,10
+3625,31,Female,Books,1184,2.1,13
+3626,27,Male,Fashion,3419,2.0,19
+3627,33,Male,Home Decor,7666,1.8,15
+3628,33,Female,Fashion,4256,4.4,1
+3629,48,Female,Books,5954,1.7,17
+3630,59,Female,Home Decor,3783,3.2,4
+3631,42,Male,Home Decor,5191,1.3,9
+3632,30,Male,Sports,7328,4.8,6
+3633,23,Female,Sports,7850,3.4,3
+3634,26,Male,Electronics,1656,4.6,2
+3635,53,Female,Sports,3561,2.6,18
+3636,37,Female,Home Decor,7657,4.2,19
+3637,35,Female,Sports,6419,4.4,7
+3638,38,Male,Electronics,6393,3.8,3
+3639,21,Female,Books,4945,1.4,18
+3640,50,Female,Sports,6936,1.1,19
+3641,44,Male,Home Decor,1792,1.7,9
+3642,24,Female,Books,9675,1.5,16
+3643,23,Male,Home Decor,8402,3.9,6
+3644,32,Female,Books,2567,3.2,12
+3645,35,Male,Home Decor,2479,3.1,6
+3646,49,Female,Sports,2236,2.0,13
+3647,28,Female,Sports,2418,1.6,5
+3648,37,Female,Electronics,1200,1.8,13
+3649,41,Female,Books,4546,2.6,7
+3650,32,Female,Electronics,2573,4.0,12
+3651,24,Male,Fashion,5161,2.0,4
+3652,38,Male,Sports,894,3.8,5
+3653,59,Female,Books,3548,3.0,16
+3654,43,Female,Electronics,3952,4.5,4
+3655,31,Female,Electronics,1022,1.9,8
+3656,54,Male,Fashion,9241,2.8,16
+3657,38,Male,Electronics,1968,1.4,8
+3658,35,Female,Home Decor,6730,2.3,17
+3659,22,Male,Sports,8616,3.0,14
+3660,20,Female,Electronics,9524,3.9,12
+3661,40,Female,Electronics,7311,1.8,3
+3662,43,Female,Fashion,1921,1.9,2
+3663,54,Male,Home Decor,8487,3.5,13
+3664,41,Female,Electronics,785,2.5,11
+3665,36,Female,Sports,3245,2.9,12
+3666,42,Female,Sports,7608,4.3,18
+3667,38,Male,Electronics,4964,3.0,9
+3668,29,Male,Home Decor,1945,3.6,7
+3669,58,Male,Sports,6337,3.6,6
+3670,50,Female,Sports,1966,4.2,14
+3671,21,Male,Home Decor,7667,3.6,18
+3672,59,Female,Home Decor,9606,1.3,14
+3673,24,Male,Electronics,8979,2.4,5
+3674,39,Female,Books,4926,5.0,13
+3675,50,Male,Fashion,6432,1.8,1
+3676,34,Female,Books,1678,3.3,12
+3677,41,Male,Books,3051,4.4,19
+3678,51,Male,Sports,4870,3.3,10
+3679,45,Male,Home Decor,6822,2.5,5
+3680,58,Female,Sports,5362,1.3,6
+3681,56,Male,Fashion,9679,2.4,12
+3682,39,Male,Electronics,6355,1.7,3
+3683,34,Male,Fashion,1703,4.8,14
+3684,51,Male,Sports,7849,3.9,4
+3685,23,Female,Sports,6886,4.0,17
+3686,23,Male,Sports,1619,2.7,17
+3687,51,Female,Sports,8888,1.4,14
+3688,18,Female,Books,4475,2.1,15
+3689,27,Female,Electronics,9217,2.0,7
+3690,38,Female,Books,1792,2.9,4
+3691,22,Male,Sports,9886,2.8,17
+3692,19,Female,Home Decor,4155,2.7,6
+3693,39,Female,Books,5286,3.0,11
+3694,19,Female,Sports,2717,4.9,12
+3695,27,Female,Sports,7090,2.2,15
+3696,51,Male,Electronics,1517,3.5,12
+3697,33,Male,Fashion,5676,2.0,11
+3698,56,Female,Books,4090,2.9,17
+3699,39,Female,Books,8739,1.8,8
+3700,29,Female,Books,9519,3.2,12
+3701,41,Male,Sports,6676,2.1,9
+3702,57,Male,Electronics,7147,1.1,11
+3703,55,Male,Sports,5222,4.3,3
+3704,27,Male,Sports,6515,1.5,7
+3705,52,Male,Home Decor,5622,2.5,3
+3706,49,Female,Electronics,8183,2.9,16
+3707,24,Male,Books,2589,2.7,10
+3708,38,Male,Fashion,2556,3.9,7
+3709,37,Female,Books,9510,3.4,15
+3710,43,Male,Sports,4180,2.2,10
+3711,21,Male,Electronics,5385,1.2,12
+3712,39,Male,Electronics,3614,4.1,18
+3713,32,Female,Electronics,7883,2.4,9
+3714,57,Male,Home Decor,2129,4.6,9
+3715,38,Female,Books,2043,2.6,4
+3716,32,Female,Home Decor,8012,3.9,5
+3717,39,Male,Fashion,6269,4.8,7
+3718,45,Male,Sports,2404,3.6,7
+3719,31,Male,Home Decor,1936,2.7,11
+3720,44,Male,Home Decor,5531,3.3,10
+3721,58,Female,Sports,3817,3.2,11
+3722,57,Male,Electronics,4616,3.3,18
+3723,45,Female,Sports,9690,1.6,12
+3724,43,Female,Books,5052,3.8,16
+3725,19,Female,Sports,6063,1.6,4
+3726,42,Female,Electronics,6623,1.1,17
+3727,20,Female,Sports,3561,3.5,17
+3728,25,Male,Home Decor,8589,1.5,5
+3729,50,Female,Fashion,8956,4.1,13
+3730,59,Female,Home Decor,4231,4.5,3
+3731,52,Male,Fashion,6827,4.8,17
+3732,23,Male,Sports,3817,3.7,11
+3733,56,Female,Books,2546,2.9,1
+3734,40,Female,Sports,3644,2.4,18
+3735,42,Male,Electronics,3721,3.0,17
+3736,36,Female,Sports,5564,1.8,9
+3737,22,Male,Fashion,9945,2.4,7
+3738,28,Male,Home Decor,1222,3.9,5
+3739,29,Female,Books,8275,1.9,16
+3740,27,Male,Sports,8064,2.1,7
+3741,25,Female,Sports,8775,4.0,13
+3742,41,Female,Home Decor,5335,1.7,13
+3743,45,Female,Books,4319,2.0,15
+3744,58,Male,Sports,3864,1.1,17
+3745,53,Female,Sports,6589,3.9,17
+3746,54,Male,Fashion,4818,3.5,19
+3747,38,Female,Fashion,7436,3.8,10
+3748,25,Female,Electronics,3280,1.9,2
+3749,26,Male,Home Decor,7898,3.7,14
+3750,32,Female,Books,2952,3.4,3
+3751,57,Female,Sports,5788,2.5,7
+3752,35,Male,Sports,9020,2.8,11
+3753,59,Male,Electronics,925,3.3,17
+3754,37,Male,Sports,9461,3.0,15
+3755,23,Female,Home Decor,4475,3.6,19
+3756,29,Male,Electronics,9299,1.7,11
+3757,19,Male,Home Decor,7169,3.2,15
+3758,24,Female,Electronics,2624,2.8,15
+3759,33,Male,Sports,1800,2.8,6
+3760,20,Female,Electronics,5515,2.9,15
+3761,20,Female,Fashion,9157,4.5,9
+3762,44,Male,Books,2464,4.3,5
+3763,57,Female,Sports,6067,3.5,19
+3764,55,Male,Books,5779,3.9,5
+3765,50,Male,Sports,2860,1.2,13
+3766,45,Male,Books,2539,4.0,18
+3767,18,Male,Fashion,1684,2.9,17
+3768,25,Female,Books,4434,2.3,15
+3769,54,Female,Electronics,6294,1.6,14
+3770,49,Male,Books,8672,1.3,16
+3771,54,Male,Sports,1277,1.2,4
+3772,21,Female,Home Decor,3879,1.6,17
+3773,47,Male,Books,2918,1.1,14
+3774,23,Female,Books,4577,3.9,18
+3775,36,Male,Books,2939,2.0,6
+3776,49,Female,Sports,8304,2.5,8
+3777,26,Female,Books,5769,4.3,9
+3778,29,Female,Sports,6087,1.5,1
+3779,28,Male,Sports,2489,4.3,13
+3780,33,Male,Home Decor,8368,3.6,3
+3781,18,Male,Electronics,9758,2.4,6
+3782,38,Male,Sports,1444,1.5,17
+3783,47,Male,Fashion,8720,1.4,8
+3784,30,Female,Books,2397,2.3,6
+3785,51,Female,Fashion,6251,1.6,16
+3786,21,Female,Books,5650,2.1,1
+3787,45,Female,Home Decor,2197,1.2,10
+3788,55,Female,Sports,6385,3.4,18
+3789,48,Female,Electronics,2165,1.6,14
+3790,44,Female,Sports,9451,4.0,5
+3791,22,Male,Books,9960,1.9,17
+3792,42,Female,Electronics,2285,4.2,14
+3793,20,Male,Sports,6448,1.8,18
+3794,50,Female,Electronics,3107,3.9,4
+3795,21,Female,Books,9090,2.3,2
+3796,42,Male,Home Decor,3130,3.3,7
+3797,37,Female,Home Decor,8160,1.2,7
+3798,51,Male,Sports,738,3.0,7
+3799,43,Female,Fashion,4036,1.6,13
+3800,22,Male,Books,4361,2.9,19
+3801,52,Female,Sports,9838,1.6,6
+3802,45,Male,Sports,8991,2.7,17
+3803,46,Male,Home Decor,8399,1.4,18
+3804,26,Female,Electronics,7645,1.9,1
+3805,55,Female,Books,6361,3.4,13
+3806,23,Male,Electronics,748,4.9,19
+3807,36,Female,Books,4823,2.8,16
+3808,28,Male,Fashion,7601,3.7,10
+3809,19,Female,Home Decor,3360,3.2,13
+3810,26,Male,Fashion,1223,3.0,10
+3811,38,Female,Sports,1069,1.3,14
+3812,41,Male,Home Decor,8911,1.6,9
+3813,51,Female,Sports,3334,4.5,11
+3814,39,Male,Fashion,8428,2.6,3
+3815,20,Male,Books,7171,3.5,8
+3816,29,Female,Sports,2622,3.1,12
+3817,45,Female,Electronics,4500,2.5,3
+3818,47,Male,Books,3589,2.6,7
+3819,43,Male,Books,7665,3.2,14
+3820,38,Male,Fashion,7710,1.6,7
+3821,45,Male,Fashion,549,2.5,7
+3822,43,Female,Home Decor,1014,2.8,14
+3823,50,Male,Home Decor,5171,4.9,12
+3824,38,Male,Electronics,8249,2.4,1
+3825,52,Male,Books,1665,3.6,5
+3826,51,Female,Electronics,914,1.5,11
+3827,58,Male,Electronics,1604,1.3,1
+3828,35,Female,Fashion,5358,4.5,13
+3829,28,Female,Electronics,3856,3.9,17
+3830,40,Female,Electronics,2916,2.3,3
+3831,39,Female,Sports,6111,3.0,10
+3832,34,Female,Home Decor,5965,1.5,19
+3833,22,Female,Home Decor,8895,3.8,7
+3834,28,Female,Books,7692,1.3,3
+3835,47,Male,Home Decor,6172,4.0,12
+3836,32,Male,Books,8760,3.2,10
+3837,44,Female,Sports,9207,2.1,12
+3838,52,Male,Home Decor,4063,4.5,15
+3839,50,Male,Sports,6883,4.9,6
+3840,37,Female,Home Decor,9398,2.0,19
+3841,33,Male,Home Decor,7333,4.2,5
+3842,51,Female,Sports,5252,4.0,2
+3843,19,Male,Electronics,8623,4.0,19
+3844,52,Female,Electronics,4285,4.8,19
+3845,57,Female,Electronics,9035,2.9,4
+3846,45,Male,Electronics,9227,3.7,5
+3847,56,Male,Home Decor,9046,4.3,7
+3848,23,Female,Fashion,5523,2.9,4
+3849,26,Female,Sports,1482,2.9,11
+3850,37,Female,Fashion,1845,2.3,3
+3851,18,Male,Fashion,6191,4.1,5
+3852,25,Male,Books,6502,3.7,15
+3853,40,Male,Electronics,1026,2.8,18
+3854,20,Male,Home Decor,7147,2.7,16
+3855,21,Female,Electronics,7752,1.3,16
+3856,42,Female,Electronics,1430,1.0,10
+3857,55,Female,Fashion,2782,3.1,1
+3858,32,Female,Books,2446,2.7,11
+3859,38,Male,Electronics,3860,4.2,17
+3860,52,Female,Sports,8612,3.2,15
+3861,31,Female,Sports,3425,4.7,7
+3862,53,Male,Electronics,4125,1.8,6
+3863,29,Male,Fashion,5969,5.0,15
+3864,34,Female,Fashion,1723,2.2,15
+3865,56,Male,Home Decor,7610,3.6,7
+3866,26,Female,Books,9657,3.0,3
+3867,52,Male,Fashion,5492,2.4,14
+3868,30,Male,Home Decor,9314,1.6,9
+3869,32,Female,Sports,5287,1.5,3
+3870,35,Male,Sports,7318,3.8,6
+3871,50,Female,Sports,5226,2.5,9
+3872,23,Male,Electronics,2872,4.8,1
+3873,44,Male,Books,3799,2.3,9
+3874,40,Male,Home Decor,9860,4.9,12
+3875,44,Male,Books,6951,1.8,4
+3876,51,Male,Electronics,9083,1.4,16
+3877,55,Female,Home Decor,4309,2.3,5
+3878,31,Male,Home Decor,2907,4.5,17
+3879,53,Female,Fashion,5364,3.1,17
+3880,25,Male,Books,5527,1.5,6
+3881,52,Female,Books,4760,1.8,15
+3882,36,Male,Fashion,5328,2.2,1
+3883,47,Female,Sports,9272,3.4,13
+3884,31,Female,Electronics,9512,2.3,16
+3885,37,Male,Books,9939,4.0,2
+3886,42,Male,Fashion,8815,3.5,19
+3887,57,Male,Home Decor,2374,4.5,2
+3888,41,Female,Fashion,9215,3.0,12
+3889,31,Female,Sports,3623,2.3,12
+3890,43,Male,Electronics,4724,5.0,8
+3891,55,Male,Sports,5754,2.4,12
+3892,40,Female,Home Decor,3698,2.7,11
+3893,39,Female,Home Decor,7582,4.2,2
+3894,36,Male,Home Decor,1710,1.4,1
+3895,20,Female,Home Decor,9718,2.5,4
+3896,59,Male,Fashion,5904,1.3,9
+3897,36,Male,Home Decor,4617,1.6,7
+3898,26,Male,Home Decor,5929,1.0,10
+3899,45,Female,Fashion,9189,1.0,14
+3900,37,Female,Home Decor,5258,2.5,1
+3901,24,Female,Sports,8682,4.2,5
+3902,31,Female,Sports,9416,3.3,13
+3903,26,Male,Books,875,3.5,6
+3904,36,Female,Sports,7913,3.1,17
+3905,31,Male,Electronics,4898,4.3,15
+3906,55,Male,Electronics,4359,4.5,7
+3907,53,Male,Electronics,2186,4.4,8
+3908,57,Female,Fashion,5512,4.2,2
+3909,34,Male,Sports,756,1.7,18
+3910,47,Male,Electronics,4100,3.4,7
+3911,26,Female,Books,550,3.3,16
+3912,50,Male,Fashion,7090,3.1,19
+3913,42,Female,Books,7937,2.9,9
+3914,31,Female,Sports,1094,1.4,12
+3915,28,Female,Home Decor,5231,1.4,14
+3916,52,Male,Books,4373,4.6,7
+3917,58,Female,Home Decor,9764,3.5,2
+3918,31,Female,Fashion,6248,2.0,17
+3919,47,Female,Books,5737,2.1,11
+3920,58,Female,Books,1976,3.4,18
+3921,21,Male,Fashion,5370,2.6,12
+3922,21,Female,Fashion,8532,2.8,3
+3923,45,Male,Electronics,3520,1.2,14
+3924,25,Female,Sports,6566,1.6,15
+3925,19,Male,Books,8553,2.6,19
+3926,58,Female,Books,8566,3.8,10
+3927,39,Male,Fashion,8667,1.2,9
+3928,58,Female,Fashion,5280,2.3,10
+3929,33,Male,Sports,4545,3.8,4
+3930,46,Male,Fashion,2733,4.2,19
+3931,47,Male,Home Decor,8617,1.8,10
+3932,29,Female,Home Decor,6859,3.9,17
+3933,52,Male,Home Decor,4697,4.8,12
+3934,28,Male,Home Decor,9998,4.6,1
+3935,38,Male,Sports,9832,4.2,11
+3936,38,Male,Books,1115,3.8,13
+3937,22,Female,Home Decor,2066,1.9,1
+3938,37,Male,Fashion,9668,3.5,1
+3939,54,Male,Home Decor,2839,3.6,16
+3940,20,Male,Sports,8609,2.6,7
+3941,50,Female,Fashion,7874,3.0,10
+3942,26,Male,Home Decor,7207,3.8,16
+3943,26,Male,Books,878,4.8,1
+3944,21,Male,Fashion,3965,2.2,9
+3945,52,Male,Fashion,6505,2.0,6
+3946,34,Female,Books,2771,3.4,15
+3947,51,Male,Fashion,9738,1.5,4
+3948,41,Male,Home Decor,1507,3.3,15
+3949,49,Female,Fashion,7300,1.4,10
+3950,18,Female,Home Decor,609,3.0,16
+3951,25,Female,Books,3271,3.5,13
+3952,40,Male,Electronics,4383,1.3,19
+3953,57,Female,Books,3100,1.8,4
+3954,29,Male,Home Decor,6018,2.3,16
+3955,29,Female,Sports,3743,2.5,11
+3956,32,Male,Books,1505,3.7,15
+3957,58,Female,Sports,805,3.1,11
+3958,36,Male,Sports,6201,2.5,11
+3959,43,Female,Home Decor,1458,2.8,3
+3960,46,Male,Home Decor,9645,1.1,17
+3961,39,Male,Electronics,5770,4.1,5
+3962,57,Male,Fashion,8095,1.2,13
+3963,38,Male,Books,4038,4.3,10
+3964,55,Male,Home Decor,7520,3.2,5
+3965,37,Male,Books,2130,3.1,12
+3966,46,Male,Sports,3103,3.8,8
+3967,21,Male,Fashion,8758,4.4,12
+3968,24,Female,Electronics,9526,4.8,16
+3969,45,Male,Books,705,3.2,2
+3970,45,Male,Fashion,6191,1.6,3
+3971,21,Female,Electronics,6641,4.5,18
+3972,39,Male,Books,3645,1.2,17
+3973,29,Female,Fashion,3620,4.2,2
+3974,20,Male,Home Decor,7228,3.7,12
+3975,39,Female,Books,9399,4.6,17
+3976,19,Female,Fashion,6530,4.6,6
+3977,41,Male,Electronics,678,1.2,17
+3978,51,Female,Fashion,5667,3.4,2
+3979,44,Male,Home Decor,612,1.5,8
+3980,58,Male,Books,9448,1.3,14
+3981,18,Male,Books,9588,2.8,6
+3982,25,Male,Books,8850,1.4,9
+3983,40,Female,Home Decor,9477,3.9,1
+3984,55,Male,Electronics,2303,4.9,5
+3985,23,Female,Books,2798,3.3,7
+3986,39,Female,Electronics,2042,1.9,9
+3987,42,Male,Fashion,7759,4.4,14
+3988,35,Male,Electronics,2654,4.4,9
+3989,34,Male,Electronics,9266,3.9,4
+3990,29,Male,Books,1881,3.5,15
+3991,23,Female,Sports,6402,4.5,4
+3992,43,Male,Sports,1722,1.7,3
+3993,44,Female,Home Decor,2001,4.7,14
+3994,25,Male,Home Decor,9550,4.8,9
+3995,36,Male,Sports,4074,4.5,19
+3996,59,Male,Fashion,4229,2.0,6
+3997,18,Male,Books,8240,4.4,3
+3998,46,Female,Books,3691,3.0,18
+3999,52,Female,Fashion,7976,3.4,16
+4000,57,Male,Fashion,2061,4.4,3
+4001,31,Female,Sports,3022,1.1,2
+4002,52,Female,Home Decor,2891,2.5,2
+4003,37,Male,Fashion,3175,4.3,10
+4004,30,Male,Home Decor,2683,4.3,15
+4005,55,Female,Electronics,8968,4.4,3
+4006,25,Female,Books,8566,1.7,8
+4007,37,Female,Sports,2578,3.8,18
+4008,50,Female,Books,4842,1.6,11
+4009,43,Male,Sports,1620,4.1,7
+4010,56,Male,Electronics,5919,2.0,19
+4011,38,Female,Books,3870,4.0,7
+4012,59,Male,Electronics,2408,2.8,2
+4013,58,Female,Sports,4020,4.9,6
+4014,26,Female,Fashion,4807,3.3,5
+4015,41,Male,Books,4996,3.5,14
+4016,54,Female,Electronics,5250,2.5,18
+4017,58,Female,Books,997,3.9,4
+4018,34,Male,Books,7491,3.0,4
+4019,41,Male,Books,4087,1.1,13
+4020,38,Female,Home Decor,2913,3.4,1
+4021,56,Female,Electronics,4300,4.3,5
+4022,58,Male,Electronics,9154,1.9,3
+4023,56,Female,Books,6671,1.9,19
+4024,30,Female,Fashion,3957,3.4,13
+4025,28,Male,Books,8964,4.3,7
+4026,36,Male,Home Decor,7469,2.0,10
+4027,28,Male,Sports,1650,4.7,3
+4028,30,Male,Home Decor,7954,4.7,2
+4029,18,Male,Fashion,5707,1.8,7
+4030,57,Male,Books,518,2.1,9
+4031,36,Female,Electronics,3678,3.8,12
+4032,29,Female,Books,6077,4.8,10
+4033,25,Male,Fashion,4581,3.8,19
+4034,25,Male,Electronics,6954,2.8,13
+4035,29,Female,Home Decor,9103,1.7,10
+4036,50,Female,Sports,9433,2.8,5
+4037,43,Female,Sports,3171,3.4,15
+4038,56,Male,Books,6887,2.3,3
+4039,45,Male,Home Decor,7333,3.0,8
+4040,22,Female,Fashion,3124,1.5,6
+4041,25,Male,Sports,5999,2.8,19
+4042,42,Male,Home Decor,1014,1.4,17
+4043,44,Male,Books,706,1.2,10
+4044,40,Female,Electronics,1447,4.4,1
+4045,47,Female,Books,2328,1.8,13
+4046,40,Male,Books,7361,3.3,10
+4047,37,Male,Home Decor,6594,1.6,12
+4048,35,Male,Sports,6845,2.1,2
+4049,35,Male,Home Decor,2667,2.4,10
+4050,19,Male,Electronics,8479,1.6,1
+4051,21,Female,Home Decor,6426,1.2,1
+4052,47,Male,Fashion,7032,4.5,15
+4053,50,Male,Books,6156,1.0,1
+4054,53,Male,Sports,6443,1.2,9
+4055,35,Female,Electronics,9293,4.2,7
+4056,54,Female,Books,5939,2.1,16
+4057,36,Male,Home Decor,9403,3.9,16
+4058,45,Female,Fashion,1703,1.6,13
+4059,57,Female,Home Decor,7500,1.9,10
+4060,37,Female,Books,7139,3.3,18
+4061,50,Female,Electronics,8189,5.0,9
+4062,29,Female,Sports,8013,1.3,12
+4063,32,Female,Books,7126,2.6,13
+4064,58,Male,Electronics,7886,1.2,11
+4065,56,Female,Books,3631,1.8,15
+4066,19,Female,Fashion,7634,4.6,10
+4067,46,Male,Home Decor,4230,1.4,10
+4068,58,Male,Sports,3166,4.4,9
+4069,27,Male,Electronics,1049,1.7,3
+4070,19,Male,Sports,5241,4.4,16
+4071,28,Female,Sports,1744,3.2,12
+4072,30,Female,Sports,4512,4.5,17
+4073,27,Female,Electronics,9537,1.6,15
+4074,31,Female,Electronics,6696,4.0,3
+4075,35,Male,Sports,5045,3.7,5
+4076,26,Female,Home Decor,6705,3.2,13
+4077,56,Female,Books,7690,4.2,6
+4078,45,Male,Sports,8735,3.6,9
+4079,20,Female,Fashion,1158,4.5,19
+4080,37,Female,Sports,7495,2.5,7
+4081,23,Female,Electronics,6276,3.4,13
+4082,44,Female,Books,5793,4.5,5
+4083,19,Male,Fashion,2191,1.9,16
+4084,46,Male,Books,8235,2.9,4
+4085,55,Male,Books,3630,4.8,5
+4086,20,Male,Fashion,7544,2.9,19
+4087,33,Male,Sports,5033,2.0,6
+4088,47,Female,Sports,6047,2.4,4
+4089,57,Female,Sports,1467,4.5,1
+4090,19,Male,Home Decor,1904,4.8,17
+4091,34,Male,Sports,9177,4.8,9
+4092,58,Male,Fashion,4130,3.8,16
+4093,29,Female,Home Decor,3468,3.0,2
+4094,52,Male,Sports,7769,1.7,11
+4095,18,Female,Home Decor,2079,1.5,5
+4096,32,Female,Fashion,6492,1.2,13
+4097,43,Female,Sports,550,1.1,17
+4098,54,Female,Electronics,6952,4.5,15
+4099,38,Male,Fashion,5653,4.2,12
+4100,48,Female,Books,6523,3.3,6
+4101,42,Female,Books,4800,5.0,13
+4102,40,Male,Fashion,3287,4.8,18
+4103,41,Female,Books,2655,3.6,15
+4104,55,Female,Fashion,7519,2.9,15
+4105,45,Female,Electronics,5860,1.6,8
+4106,38,Male,Fashion,4730,3.1,19
+4107,35,Female,Sports,8107,1.6,14
+4108,53,Female,Sports,9098,2.6,7
+4109,52,Male,Home Decor,4697,4.8,14
+4110,26,Male,Books,5912,2.4,5
+4111,55,Female,Books,4999,1.6,15
+4112,47,Female,Fashion,5409,3.3,15
+4113,51,Male,Books,7669,3.4,4
+4114,49,Female,Sports,3762,1.8,1
+4115,20,Male,Electronics,9718,1.8,17
+4116,20,Female,Fashion,3489,5.0,1
+4117,45,Male,Books,8154,2.0,16
+4118,32,Female,Sports,2724,4.4,13
+4119,58,Male,Home Decor,5876,2.9,18
+4120,40,Male,Books,3420,2.7,10
+4121,57,Male,Electronics,8201,2.2,18
+4122,28,Male,Electronics,7041,4.1,17
+4123,49,Male,Books,6115,4.5,9
+4124,53,Female,Books,4815,2.0,14
+4125,50,Female,Sports,6600,1.4,13
+4126,41,Male,Books,3283,1.5,14
+4127,56,Female,Home Decor,3308,4.2,11
+4128,51,Female,Sports,3831,2.7,13
+4129,45,Female,Fashion,2678,1.5,17
+4130,54,Female,Home Decor,1297,2.4,3
+4131,24,Female,Sports,3346,3.1,1
+4132,21,Female,Sports,1429,4.4,5
+4133,54,Male,Electronics,5318,3.6,13
+4134,18,Female,Sports,3591,1.7,5
+4135,18,Female,Home Decor,2762,1.6,5
+4136,37,Female,Books,9966,2.6,12
+4137,36,Male,Home Decor,8049,1.3,2
+4138,46,Female,Fashion,3980,4.0,16
+4139,27,Female,Sports,3842,2.6,17
+4140,35,Female,Sports,6553,2.4,5
+4141,45,Male,Sports,8074,3.0,12
+4142,52,Female,Sports,8359,3.8,15
+4143,48,Male,Electronics,9909,3.3,6
+4144,44,Female,Electronics,4674,4.2,13
+4145,28,Male,Books,7647,3.5,11
+4146,55,Male,Sports,5270,4.2,17
+4147,22,Male,Fashion,6333,3.8,9
+4148,25,Female,Books,8705,1.8,16
+4149,51,Male,Sports,7502,1.2,17
+4150,29,Male,Electronics,2793,4.6,18
+4151,55,Male,Fashion,2545,4.8,13
+4152,18,Male,Books,1537,3.9,11
+4153,48,Female,Fashion,6742,3.9,13
+4154,21,Female,Sports,8948,2.1,13
+4155,22,Female,Home Decor,6662,3.2,12
+4156,47,Female,Fashion,4573,5.0,14
+4157,41,Male,Fashion,1783,4.4,13
+4158,20,Female,Electronics,7232,2.2,9
+4159,28,Male,Sports,6445,2.2,14
+4160,21,Female,Fashion,3987,2.9,1
+4161,43,Female,Sports,2684,2.6,9
+4162,44,Female,Electronics,9050,2.5,4
+4163,44,Male,Sports,3687,3.5,12
+4164,59,Female,Electronics,9917,1.0,14
+4165,23,Female,Electronics,5995,4.1,9
+4166,32,Female,Books,2797,4.0,3
+4167,47,Male,Sports,7597,4.3,6
+4168,59,Female,Home Decor,8969,4.4,3
+4169,54,Female,Books,4044,3.3,1
+4170,54,Male,Electronics,7331,4.1,3
+4171,59,Male,Home Decor,891,3.0,14
+4172,54,Female,Fashion,1468,4.8,2
+4173,52,Female,Fashion,5651,1.8,12
+4174,40,Female,Books,4864,4.7,10
+4175,23,Male,Home Decor,3807,2.0,13
+4176,21,Male,Sports,6625,1.4,4
+4177,35,Male,Home Decor,4870,2.8,19
+4178,26,Female,Books,5338,3.5,1
+4179,46,Male,Sports,8777,1.9,11
+4180,30,Female,Sports,3634,3.2,16
+4181,34,Male,Fashion,1554,4.2,19
+4182,49,Male,Home Decor,4229,2.0,19
+4183,39,Male,Sports,3169,3.3,12
+4184,21,Female,Books,775,2.4,3
+4185,22,Female,Fashion,6217,3.1,18
+4186,54,Female,Sports,9797,3.7,17
+4187,58,Female,Home Decor,8522,2.4,5
+4188,30,Male,Fashion,8500,5.0,16
+4189,51,Female,Home Decor,628,3.3,14
+4190,39,Male,Home Decor,7577,4.3,19
+4191,40,Female,Home Decor,4826,3.9,6
+4192,20,Female,Fashion,4068,4.4,3
+4193,59,Male,Sports,8122,1.7,6
+4194,51,Male,Electronics,8580,1.9,12
+4195,49,Female,Sports,2902,2.9,11
+4196,38,Female,Fashion,2147,4.4,7
+4197,38,Male,Electronics,4056,1.8,1
+4198,28,Male,Electronics,2693,4.9,16
+4199,56,Male,Electronics,3604,1.5,16
+4200,21,Male,Books,4855,1.7,17
+4201,18,Male,Fashion,2634,1.7,15
+4202,45,Female,Books,9534,3.3,9
+4203,41,Female,Electronics,4403,4.7,5
+4204,52,Female,Books,4113,2.0,8
+4205,30,Female,Books,9083,3.2,1
+4206,51,Male,Fashion,2779,1.7,7
+4207,28,Male,Home Decor,9592,3.5,11
+4208,53,Male,Books,1652,1.5,13
+4209,34,Female,Books,1794,3.0,13
+4210,52,Male,Electronics,9157,3.6,7
+4211,35,Male,Electronics,5789,3.3,11
+4212,57,Female,Electronics,3745,1.6,18
+4213,39,Female,Sports,6568,1.6,1
+4214,41,Female,Books,7216,3.7,12
+4215,36,Male,Electronics,7154,4.2,3
+4216,54,Male,Fashion,9179,4.6,1
+4217,56,Female,Sports,3438,4.3,4
+4218,38,Female,Home Decor,3126,4.9,6
+4219,25,Male,Books,1449,2.6,5
+4220,45,Female,Books,9741,2.3,11
+4221,22,Male,Fashion,4575,1.1,13
+4222,34,Female,Home Decor,9775,2.8,11
+4223,54,Female,Home Decor,2158,3.6,6
+4224,53,Female,Sports,7432,4.3,19
+4225,36,Male,Books,8553,2.1,15
+4226,44,Male,Electronics,7459,3.1,13
+4227,51,Female,Fashion,2317,3.6,10
+4228,28,Male,Fashion,8882,3.2,1
+4229,29,Female,Fashion,960,2.1,13
+4230,38,Female,Fashion,8471,4.2,6
+4231,28,Male,Electronics,6515,1.7,12
+4232,56,Male,Electronics,6876,4.6,17
+4233,45,Male,Sports,3021,4.8,18
+4234,22,Male,Books,3976,2.5,8
+4235,34,Female,Electronics,3205,2.5,14
+4236,37,Male,Sports,4866,4.0,5
+4237,58,Male,Home Decor,9849,2.8,2
+4238,29,Female,Books,527,1.1,11
+4239,23,Female,Electronics,4731,4.7,3
+4240,34,Female,Home Decor,7048,2.7,16
+4241,36,Female,Sports,3524,1.8,16
+4242,43,Male,Electronics,1764,3.2,9
+4243,49,Male,Electronics,9547,1.9,13
+4244,23,Female,Home Decor,7087,1.8,10
+4245,53,Female,Electronics,7077,3.2,17
+4246,55,Male,Fashion,1751,2.6,17
+4247,28,Male,Electronics,4370,3.3,10
+4248,50,Male,Books,1826,5.0,8
+4249,41,Male,Home Decor,6677,4.4,7
+4250,40,Male,Books,9717,1.0,14
+4251,32,Female,Sports,861,1.2,18
+4252,44,Female,Books,1718,3.4,19
+4253,28,Female,Fashion,1105,3.5,18
+4254,34,Female,Fashion,6459,4.5,14
+4255,31,Male,Books,2170,3.5,10
+4256,44,Female,Sports,4943,1.9,1
+4257,35,Male,Electronics,1777,2.9,9
+4258,45,Male,Fashion,898,4.2,18
+4259,21,Male,Books,2672,4.7,13
+4260,24,Male,Books,3310,1.9,17
+4261,52,Male,Books,6774,3.2,16
+4262,26,Male,Electronics,6181,1.6,11
+4263,25,Male,Home Decor,3439,3.0,9
+4264,34,Female,Sports,9513,1.4,7
+4265,34,Male,Home Decor,1444,4.8,1
+4266,50,Female,Sports,6465,3.6,9
+4267,49,Female,Sports,6848,4.4,10
+4268,25,Male,Books,8270,5.0,16
+4269,36,Male,Fashion,7599,1.7,18
+4270,55,Female,Books,1696,3.8,14
+4271,20,Female,Electronics,1712,4.5,11
+4272,22,Female,Sports,1323,3.3,4
+4273,30,Female,Fashion,7584,3.6,19
+4274,48,Male,Sports,1035,2.6,13
+4275,33,Male,Sports,3510,3.7,1
+4276,49,Male,Books,8037,2.6,19
+4277,39,Female,Fashion,1449,2.9,15
+4278,46,Male,Fashion,1043,1.4,15
+4279,39,Female,Sports,4400,1.0,11
+4280,20,Male,Fashion,4724,1.2,5
+4281,27,Female,Fashion,3366,1.8,10
+4282,59,Male,Books,2746,2.8,18
+4283,38,Male,Home Decor,2336,1.1,7
+4284,33,Female,Electronics,8768,1.6,1
+4285,29,Female,Home Decor,9060,4.1,3
+4286,19,Female,Fashion,7476,4.0,1
+4287,58,Female,Sports,848,4.2,17
+4288,41,Female,Electronics,5101,4.7,15
+4289,52,Male,Electronics,4833,1.5,5
+4290,47,Female,Sports,5899,1.7,16
+4291,47,Male,Electronics,6196,2.3,12
+4292,52,Male,Sports,1955,4.7,19
+4293,36,Male,Electronics,2685,4.1,14
+4294,25,Male,Home Decor,7936,2.3,3
+4295,43,Male,Electronics,4311,1.4,19
+4296,57,Female,Books,7809,3.5,1
+4297,24,Female,Sports,8586,2.0,1
+4298,47,Male,Electronics,4182,3.1,10
+4299,24,Male,Sports,2346,4.8,3
+4300,20,Female,Books,2354,3.3,13
+4301,18,Female,Electronics,3485,4.7,6
+4302,53,Male,Electronics,3394,2.6,11
+4303,42,Female,Books,7996,3.5,6
+4304,54,Female,Books,1058,4.6,3
+4305,18,Female,Books,3396,3.4,16
+4306,32,Male,Sports,1754,3.5,9
+4307,54,Female,Books,2181,3.9,8
+4308,30,Male,Sports,5771,4.5,3
+4309,57,Male,Home Decor,6783,1.4,5
+4310,25,Male,Electronics,9354,2.3,14
+4311,22,Male,Electronics,3825,2.6,5
+4312,26,Male,Fashion,1741,4.6,19
+4313,18,Female,Home Decor,3643,4.8,5
+4314,53,Male,Books,3537,1.5,2
+4315,52,Male,Books,8853,1.5,7
+4316,19,Male,Home Decor,2281,4.7,1
+4317,57,Female,Books,5175,2.2,18
+4318,40,Female,Fashion,1977,2.0,10
+4319,26,Female,Sports,7648,1.1,6
+4320,51,Female,Electronics,8051,2.1,7
+4321,31,Female,Home Decor,606,3.8,12
+4322,21,Female,Electronics,3168,2.7,18
+4323,47,Female,Sports,5435,3.1,11
+4324,48,Male,Home Decor,7770,4.7,19
+4325,55,Male,Sports,1664,1.5,4
+4326,28,Female,Books,1657,1.3,19
+4327,52,Male,Books,2746,4.4,13
+4328,25,Male,Books,7153,4.1,19
+4329,20,Female,Sports,9358,2.1,2
+4330,31,Male,Sports,8149,2.3,9
+4331,30,Male,Sports,1011,2.2,8
+4332,49,Female,Electronics,8941,3.6,14
+4333,51,Male,Sports,1388,1.2,9
+4334,36,Female,Books,9715,3.0,13
+4335,55,Female,Fashion,8483,1.5,18
+4336,33,Male,Sports,9291,4.3,6
+4337,19,Male,Fashion,3522,2.5,3
+4338,57,Male,Books,3030,3.1,10
+4339,34,Female,Sports,6815,1.1,10
+4340,51,Female,Electronics,2564,1.2,10
+4341,59,Female,Electronics,5913,3.7,9
+4342,33,Male,Fashion,7037,4.1,12
+4343,55,Male,Electronics,4069,3.8,8
+4344,19,Female,Electronics,1742,3.9,9
+4345,19,Male,Electronics,4829,1.4,17
+4346,43,Male,Books,2425,3.8,8
+4347,30,Female,Electronics,3895,1.7,18
+4348,48,Female,Home Decor,940,1.4,17
+4349,51,Male,Sports,5731,4.0,6
+4350,56,Female,Electronics,8681,4.6,10
+4351,20,Male,Electronics,3243,3.9,1
+4352,25,Female,Electronics,8539,4.2,1
+4353,40,Female,Home Decor,8698,5.0,9
+4354,31,Female,Electronics,2086,1.5,3
+4355,44,Male,Electronics,1325,4.9,6
+4356,46,Male,Sports,4324,3.4,7
+4357,56,Female,Home Decor,1768,4.3,9
+4358,56,Female,Home Decor,8115,3.6,5
+4359,18,Female,Electronics,3936,3.3,16
+4360,34,Male,Home Decor,8589,3.8,2
+4361,58,Female,Fashion,1810,2.3,3
+4362,47,Female,Home Decor,9728,4.7,3
+4363,30,Female,Home Decor,977,1.5,10
+4364,38,Female,Home Decor,9406,2.3,3
+4365,36,Male,Books,2662,1.1,15
+4366,36,Male,Books,1008,2.1,14
+4367,42,Female,Books,7819,1.9,4
+4368,39,Male,Home Decor,881,1.2,10
+4369,48,Male,Fashion,9872,3.0,11
+4370,34,Male,Home Decor,2345,2.9,11
+4371,40,Female,Electronics,7800,1.3,8
+4372,49,Male,Fashion,9792,2.0,9
+4373,27,Male,Books,9409,4.8,8
+4374,27,Male,Sports,8217,1.4,12
+4375,53,Female,Fashion,9009,2.2,17
+4376,25,Female,Books,5129,1.1,15
+4377,37,Male,Fashion,6204,1.6,19
+4378,49,Male,Fashion,2276,3.8,6
+4379,31,Female,Home Decor,8603,2.5,5
+4380,45,Female,Electronics,2784,2.8,8
+4381,41,Male,Sports,1744,1.6,18
+4382,32,Male,Books,1833,3.7,15
+4383,39,Female,Fashion,4169,4.0,3
+4384,47,Female,Sports,1700,1.7,14
+4385,21,Male,Fashion,2294,1.2,15
+4386,30,Female,Electronics,6681,1.3,13
+4387,40,Male,Sports,1954,3.6,9
+4388,25,Male,Books,2433,1.5,17
+4389,35,Male,Fashion,1246,3.0,19
+4390,29,Female,Electronics,7870,1.6,4
+4391,48,Male,Sports,9532,1.7,10
+4392,31,Male,Fashion,8473,1.0,3
+4393,51,Female,Fashion,7327,2.3,19
+4394,35,Female,Books,9780,1.4,9
+4395,51,Male,Electronics,1292,2.6,5
+4396,28,Male,Home Decor,7427,3.4,14
+4397,58,Female,Fashion,1767,2.5,7
+4398,29,Female,Sports,6869,3.8,6
+4399,32,Female,Books,3190,4.0,8
+4400,48,Male,Books,8374,3.8,2
+4401,46,Male,Fashion,792,4.7,14
+4402,43,Male,Fashion,7364,1.9,7
+4403,35,Female,Fashion,4522,1.8,3
+4404,49,Male,Home Decor,2148,3.4,6
+4405,39,Female,Fashion,5671,3.4,14
+4406,55,Male,Electronics,2193,3.0,12
+4407,34,Female,Sports,7210,1.0,18
+4408,40,Male,Fashion,1537,3.2,12
+4409,41,Male,Home Decor,4352,4.7,7
+4410,25,Female,Sports,5959,2.3,5
+4411,58,Female,Books,9804,4.9,12
+4412,23,Male,Fashion,7548,2.4,9
+4413,22,Female,Sports,6684,1.6,11
+4414,46,Female,Books,9983,2.6,4
+4415,45,Male,Home Decor,1661,3.0,14
+4416,28,Female,Electronics,1529,3.5,12
+4417,18,Male,Fashion,1478,3.0,18
+4418,36,Male,Electronics,9209,3.1,7
+4419,26,Female,Home Decor,9474,1.1,1
+4420,44,Female,Sports,5629,2.0,13
+4421,51,Male,Sports,637,2.2,16
+4422,21,Male,Home Decor,9445,4.9,5
+4423,53,Male,Home Decor,5308,2.2,19
+4424,35,Male,Fashion,2955,4.6,9
+4425,32,Male,Books,7892,2.2,9
+4426,30,Male,Electronics,9271,1.4,12
+4427,36,Female,Electronics,3766,2.0,18
+4428,23,Female,Sports,5149,2.1,10
+4429,29,Female,Sports,9087,4.9,17
+4430,54,Male,Fashion,5753,3.7,19
+4431,34,Female,Home Decor,5928,4.7,11
+4432,40,Male,Electronics,6485,4.3,16
+4433,43,Male,Fashion,3089,3.3,8
+4434,46,Female,Sports,7676,3.7,15
+4435,50,Male,Sports,3534,3.5,11
+4436,44,Male,Electronics,669,3.7,7
+4437,42,Male,Sports,3739,2.1,2
+4438,27,Male,Sports,3915,2.6,19
+4439,40,Male,Books,4068,3.4,9
+4440,38,Male,Home Decor,3984,1.1,18
+4441,38,Female,Sports,5335,2.9,13
+4442,30,Male,Books,2341,4.4,1
+4443,54,Male,Fashion,7378,3.0,19
+4444,50,Male,Sports,5052,3.2,13
+4445,41,Male,Fashion,7344,1.8,14
+4446,28,Female,Sports,3526,4.2,17
+4447,34,Female,Electronics,6689,2.4,1
+4448,21,Male,Books,4465,4.8,5
+4449,42,Male,Books,7684,5.0,14
+4450,47,Male,Electronics,5979,4.7,18
+4451,26,Female,Home Decor,5880,1.3,13
+4452,38,Female,Books,1646,2.3,12
+4453,37,Female,Fashion,4826,4.8,15
+4454,36,Female,Books,611,4.2,4
+4455,36,Male,Home Decor,1092,4.6,9
+4456,29,Female,Fashion,7913,3.3,3
+4457,54,Female,Fashion,8679,2.9,11
+4458,59,Male,Electronics,1738,1.4,15
+4459,34,Male,Sports,6483,4.4,16
+4460,54,Female,Electronics,3294,4.0,7
+4461,56,Female,Sports,4098,1.2,7
+4462,45,Female,Electronics,4303,1.8,9
+4463,58,Female,Sports,2026,3.2,17
+4464,52,Male,Books,8409,3.7,13
+4465,35,Male,Fashion,2469,1.6,9
+4466,31,Female,Sports,9643,2.0,9
+4467,52,Female,Books,2002,1.8,12
+4468,58,Female,Home Decor,4967,1.9,19
+4469,24,Female,Electronics,6907,4.7,15
+4470,58,Female,Home Decor,8801,3.9,18
+4471,30,Male,Books,2854,3.9,8
+4472,35,Male,Home Decor,5819,4.2,6
+4473,54,Male,Home Decor,725,2.4,6
+4474,30,Female,Books,3511,4.1,3
+4475,53,Female,Fashion,4626,4.9,3
+4476,48,Male,Sports,1113,3.8,2
+4477,19,Male,Electronics,598,2.7,5
+4478,33,Female,Sports,5958,3.9,12
+4479,26,Male,Electronics,9502,4.6,6
+4480,26,Female,Sports,6416,1.5,16
+4481,55,Female,Home Decor,3837,2.1,5
+4482,28,Male,Fashion,3199,4.7,6
+4483,39,Male,Home Decor,6417,4.8,4
+4484,50,Male,Fashion,8017,2.9,14
+4485,53,Female,Books,1519,2.5,3
+4486,40,Female,Electronics,3525,2.1,17
+4487,51,Male,Electronics,4028,3.0,5
+4488,26,Female,Books,4386,4.7,6
+4489,41,Female,Sports,6731,1.6,4
+4490,25,Female,Books,5682,2.7,13
+4491,24,Male,Books,6078,4.6,8
+4492,53,Female,Fashion,7229,2.4,11
+4493,35,Male,Books,7461,4.1,19
+4494,20,Male,Electronics,6513,2.6,5
+4495,45,Female,Home Decor,1296,4.2,5
+4496,23,Male,Fashion,2457,4.9,3
+4497,38,Female,Fashion,3566,2.6,2
+4498,45,Male,Sports,3180,4.4,3
+4499,57,Male,Home Decor,4941,5.0,15
+4500,18,Female,Fashion,3448,4.9,7
+4501,53,Male,Books,4231,2.7,3
+4502,38,Male,Fashion,1601,2.9,15
+4503,52,Male,Fashion,5984,2.2,11
+4504,30,Female,Fashion,9729,2.3,16
+4505,27,Female,Sports,4731,3.0,13
+4506,27,Male,Fashion,9483,1.8,2
+4507,30,Male,Fashion,1481,3.8,12
+4508,54,Male,Sports,9957,3.1,7
+4509,55,Female,Home Decor,5670,4.6,1
+4510,41,Female,Electronics,9435,4.2,14
+4511,19,Male,Sports,2931,2.3,10
+4512,39,Female,Sports,9066,3.0,3
+4513,34,Female,Fashion,6849,4.0,11
+4514,53,Female,Fashion,4397,1.8,15
+4515,31,Female,Electronics,8048,1.1,6
+4516,27,Male,Fashion,2491,4.4,18
+4517,52,Female,Books,3428,1.6,13
+4518,42,Female,Fashion,5930,4.6,15
+4519,20,Male,Fashion,3946,4.7,3
+4520,55,Male,Books,7275,2.8,15
+4521,34,Female,Electronics,9283,4.2,1
+4522,29,Female,Books,5661,2.5,10
+4523,41,Male,Sports,3069,4.4,18
+4524,46,Male,Books,3372,4.3,8
+4525,42,Male,Home Decor,9868,1.3,12
+4526,53,Female,Sports,1835,3.3,5
+4527,43,Female,Fashion,5913,3.6,1
+4528,55,Male,Sports,612,1.0,8
+4529,18,Female,Electronics,4272,4.9,5
+4530,37,Male,Electronics,5794,2.6,17
+4531,45,Female,Books,2487,3.1,15
+4532,33,Male,Sports,5329,1.8,4
+4533,34,Male,Fashion,2485,3.4,13
+4534,57,Female,Electronics,5591,4.2,17
+4535,45,Female,Fashion,752,3.3,13
+4536,29,Female,Home Decor,8815,4.2,2
+4537,44,Female,Electronics,9928,3.9,4
+4538,59,Female,Books,1123,2.0,2
+4539,47,Female,Home Decor,3656,2.7,12
+4540,58,Male,Sports,3889,1.6,19
+4541,51,Female,Fashion,3917,1.2,18
+4542,54,Male,Electronics,9958,1.3,10
+4543,23,Male,Home Decor,3445,4.8,5
+4544,24,Female,Home Decor,9852,4.9,11
+4545,49,Male,Electronics,9132,1.4,1
+4546,49,Male,Sports,2592,2.3,3
+4547,42,Female,Sports,3205,1.5,17
+4548,50,Female,Books,4259,4.3,15
+4549,24,Female,Sports,5612,3.0,14
+4550,29,Male,Books,1053,3.5,15
+4551,33,Female,Home Decor,5404,3.2,16
+4552,33,Female,Electronics,1612,3.8,4
+4553,53,Female,Sports,3277,2.3,19
+4554,30,Female,Books,7597,1.5,8
+4555,24,Male,Home Decor,1814,1.1,6
+4556,53,Female,Sports,3993,2.8,16
+4557,26,Male,Fashion,8790,4.6,3
+4558,49,Female,Home Decor,7973,2.2,8
+4559,28,Male,Sports,7515,1.8,5
+4560,25,Male,Home Decor,6210,4.7,5
+4561,50,Male,Electronics,1722,1.4,12
+4562,40,Female,Electronics,5083,1.2,1
+4563,42,Male,Electronics,6020,4.5,7
+4564,25,Female,Fashion,8372,3.8,11
+4565,39,Female,Electronics,9696,2.7,10
+4566,21,Female,Fashion,9168,4.0,3
+4567,57,Female,Electronics,5931,4.0,8
+4568,20,Female,Home Decor,9827,1.2,1
+4569,46,Male,Sports,2205,3.7,8
+4570,58,Female,Sports,1017,3.6,11
+4571,46,Male,Electronics,1720,4.9,7
+4572,51,Male,Sports,3006,4.9,16
+4573,51,Male,Electronics,4825,2.5,7
+4574,45,Male,Electronics,9883,3.4,13
+4575,30,Male,Books,5979,1.6,10
+4576,32,Male,Books,7936,1.3,17
+4577,40,Male,Books,3590,2.7,3
+4578,43,Female,Fashion,6997,3.8,7
+4579,21,Male,Books,5668,3.3,11
+4580,43,Female,Electronics,7493,2.7,13
+4581,57,Male,Home Decor,1473,4.3,5
+4582,26,Male,Books,5777,4.2,19
+4583,22,Male,Books,8757,3.9,15
+4584,49,Male,Home Decor,6592,1.3,1
+4585,37,Female,Electronics,3406,4.2,5
+4586,28,Female,Fashion,1070,4.7,13
+4587,32,Female,Books,807,1.2,10
+4588,49,Male,Home Decor,4242,2.6,5
+4589,45,Male,Electronics,9474,5.0,1
+4590,39,Male,Sports,1265,3.4,10
+4591,58,Female,Fashion,9464,3.1,18
+4592,34,Male,Home Decor,8314,1.7,8
+4593,43,Female,Home Decor,8235,3.3,3
+4594,24,Female,Home Decor,8536,2.8,19
+4595,59,Male,Books,8096,1.5,19
+4596,43,Male,Sports,1039,2.9,2
+4597,42,Female,Fashion,8485,1.7,17
+4598,27,Female,Electronics,2549,3.9,16
+4599,36,Female,Electronics,3783,4.9,10
+4600,28,Male,Sports,5175,2.9,16
+4601,30,Male,Home Decor,2163,3.5,5
+4602,25,Male,Home Decor,6976,2.7,3
+4603,57,Male,Home Decor,9739,1.6,3
+4604,21,Male,Home Decor,3939,4.9,2
+4605,48,Male,Home Decor,9197,1.5,4
+4606,45,Female,Sports,7643,1.4,18
+4607,28,Female,Books,3747,2.8,2
+4608,18,Female,Fashion,4000,3.6,6
+4609,55,Male,Home Decor,2410,2.4,3
+4610,41,Female,Books,1232,1.8,3
+4611,48,Male,Electronics,4013,4.3,2
+4612,58,Male,Sports,5109,2.5,3
+4613,43,Female,Books,4956,1.8,17
+4614,22,Male,Home Decor,3835,2.5,14
+4615,37,Female,Home Decor,8668,1.9,7
+4616,58,Female,Home Decor,7556,3.1,6
+4617,28,Male,Books,3253,3.7,8
+4618,50,Female,Home Decor,1872,4.2,19
+4619,55,Female,Books,3876,1.9,19
+4620,44,Female,Home Decor,8981,1.7,12
+4621,51,Female,Electronics,563,1.1,5
+4622,32,Male,Electronics,4445,1.9,5
+4623,49,Female,Fashion,829,1.1,14
+4624,38,Female,Home Decor,5358,2.4,17
+4625,22,Female,Home Decor,2463,1.6,16
+4626,23,Male,Books,3588,3.3,4
+4627,55,Female,Books,640,2.5,8
+4628,39,Male,Home Decor,5039,1.4,3
+4629,35,Female,Fashion,2973,2.6,5
+4630,31,Female,Home Decor,6094,1.8,7
+4631,27,Female,Books,4403,3.7,18
+4632,30,Male,Home Decor,5864,2.5,8
+4633,48,Male,Books,949,1.6,11
+4634,47,Male,Home Decor,4946,2.4,14
+4635,20,Male,Sports,5194,1.9,18
+4636,47,Male,Books,5306,4.2,13
+4637,23,Male,Fashion,1369,4.9,6
+4638,46,Female,Sports,6579,1.1,13
+4639,25,Male,Home Decor,7807,3.8,1
+4640,50,Female,Books,4159,2.1,11
+4641,34,Male,Sports,4102,1.3,7
+4642,28,Male,Fashion,9084,1.1,10
+4643,30,Male,Books,9533,4.5,2
+4644,28,Female,Sports,2948,2.4,16
+4645,48,Male,Sports,8092,5.0,5
+4646,45,Male,Sports,3453,2.8,16
+4647,23,Female,Electronics,5631,1.8,16
+4648,58,Female,Home Decor,1858,4.1,15
+4649,33,Female,Books,9682,4.7,9
+4650,21,Female,Books,9730,4.3,1
+4651,52,Male,Books,8719,4.0,9
+4652,43,Female,Sports,887,2.3,11
+4653,29,Male,Home Decor,1332,1.3,5
+4654,28,Male,Fashion,8941,1.8,6
+4655,54,Female,Books,4693,2.8,8
+4656,42,Male,Home Decor,2338,4.8,15
+4657,35,Female,Home Decor,1391,3.9,16
+4658,36,Male,Electronics,6088,4.3,18
+4659,40,Female,Books,1805,2.1,12
+4660,55,Female,Sports,5783,3.7,4
+4661,35,Female,Home Decor,5048,4.4,16
+4662,43,Female,Home Decor,4692,2.9,11
+4663,23,Female,Fashion,6952,2.7,7
+4664,21,Female,Electronics,8953,3.9,15
+4665,46,Male,Home Decor,2840,3.2,17
+4666,51,Male,Home Decor,2293,5.0,15
+4667,34,Male,Sports,6894,2.7,10
+4668,33,Female,Sports,824,1.7,4
+4669,19,Male,Fashion,9677,2.9,17
+4670,51,Female,Fashion,8348,1.9,4
+4671,25,Male,Fashion,8614,3.2,11
+4672,30,Male,Sports,7144,1.5,4
+4673,59,Female,Sports,5282,4.8,12
+4674,25,Male,Electronics,3637,4.4,10
+4675,47,Male,Books,4398,1.6,14
+4676,49,Male,Books,1335,1.7,18
+4677,53,Female,Electronics,4654,3.0,6
+4678,47,Male,Books,3278,4.1,5
+4679,18,Female,Sports,6909,1.9,2
+4680,56,Male,Books,4813,1.2,13
+4681,34,Male,Sports,6146,3.2,14
+4682,37,Male,Electronics,8108,3.8,3
+4683,41,Male,Fashion,4221,2.0,11
+4684,39,Female,Electronics,8411,4.0,4
+4685,46,Male,Books,2171,4.8,13
+4686,39,Female,Sports,1416,1.5,8
+4687,26,Female,Books,6088,3.0,8
+4688,54,Male,Books,9609,1.2,13
+4689,27,Male,Fashion,9825,1.8,10
+4690,53,Female,Books,6996,1.4,13
+4691,54,Female,Fashion,2336,2.6,13
+4692,45,Male,Sports,2638,4.3,17
+4693,45,Male,Sports,4507,3.3,6
+4694,59,Male,Fashion,2405,1.9,2
+4695,38,Male,Electronics,4489,1.2,17
+4696,41,Male,Sports,3985,3.2,12
+4697,59,Female,Electronics,5297,1.5,6
+4698,57,Male,Sports,3232,2.4,5
+4699,19,Male,Sports,8214,3.0,5
+4700,25,Female,Home Decor,1821,4.6,9
+4701,44,Male,Books,3854,1.3,3
+4702,39,Male,Books,7601,3.7,5
+4703,54,Female,Electronics,5243,1.1,7
+4704,44,Male,Books,9451,3.5,12
+4705,46,Female,Electronics,7514,3.2,7
+4706,20,Male,Sports,3912,4.2,10
+4707,30,Male,Home Decor,8325,3.1,8
+4708,27,Male,Home Decor,1857,2.4,17
+4709,53,Female,Sports,3981,2.0,5
+4710,26,Female,Fashion,9640,1.3,15
+4711,44,Female,Fashion,2266,3.1,9
+4712,51,Female,Books,8719,4.6,11
+4713,18,Male,Electronics,7663,3.1,13
+4714,49,Female,Home Decor,2970,4.0,18
+4715,42,Female,Books,659,2.2,17
+4716,46,Female,Sports,3392,2.8,9
+4717,24,Male,Home Decor,5826,2.3,10
+4718,20,Male,Electronics,4613,1.4,5
+4719,37,Female,Electronics,8249,2.7,11
+4720,37,Female,Fashion,8298,4.1,15
+4721,47,Male,Books,5499,2.6,2
+4722,52,Female,Sports,2070,3.6,14
+4723,52,Female,Home Decor,9528,4.0,5
+4724,56,Female,Electronics,3905,2.3,6
+4725,44,Female,Home Decor,6027,4.2,15
+4726,43,Male,Sports,6348,2.4,4
+4727,31,Male,Home Decor,7317,2.0,10
+4728,34,Male,Books,2127,1.9,19
+4729,35,Female,Fashion,6643,1.8,9
+4730,46,Female,Home Decor,8896,3.9,10
+4731,37,Male,Fashion,7058,4.6,4
+4732,44,Male,Sports,5772,1.9,4
+4733,35,Male,Fashion,8381,1.3,6
+4734,21,Female,Home Decor,9483,2.3,8
+4735,18,Male,Home Decor,4247,3.6,16
+4736,18,Female,Electronics,9797,2.5,8
+4737,43,Female,Home Decor,9782,3.2,16
+4738,37,Male,Fashion,2107,4.0,6
+4739,40,Male,Electronics,5574,2.6,17
+4740,27,Female,Home Decor,7653,5.0,1
+4741,28,Male,Home Decor,7233,2.2,19
+4742,58,Male,Sports,566,4.9,18
+4743,58,Female,Electronics,8500,1.8,17
+4744,22,Female,Sports,8145,1.4,17
+4745,18,Female,Sports,9970,4.0,12
+4746,34,Female,Sports,4658,3.8,12
+4747,39,Female,Books,9505,4.2,6
+4748,51,Male,Sports,902,2.4,7
+4749,58,Female,Fashion,8425,4.7,8
+4750,46,Female,Home Decor,4666,1.5,3
+4751,21,Female,Books,3425,1.1,17
+4752,22,Male,Sports,3493,2.2,8
+4753,28,Female,Home Decor,9778,4.2,11
+4754,38,Female,Electronics,1271,3.7,18
+4755,52,Female,Electronics,7871,2.7,16
+4756,29,Male,Home Decor,6213,2.0,13
+4757,43,Female,Fashion,8667,1.2,9
+4758,36,Female,Home Decor,2056,2.4,19
+4759,24,Female,Home Decor,1651,2.8,7
+4760,24,Male,Books,5814,3.7,17
+4761,43,Male,Electronics,1717,3.6,8
+4762,57,Male,Electronics,4444,4.8,8
+4763,22,Male,Sports,8539,1.4,3
+4764,38,Female,Home Decor,2542,2.3,16
+4765,31,Female,Home Decor,6803,2.9,12
+4766,21,Male,Fashion,9397,3.7,15
+4767,40,Male,Electronics,3169,3.0,4
+4768,59,Female,Fashion,2613,4.7,7
+4769,37,Female,Books,3477,3.4,11
+4770,32,Male,Sports,4878,1.2,5
+4771,46,Male,Fashion,7727,1.5,13
+4772,25,Male,Electronics,6761,4.0,11
+4773,58,Male,Books,922,3.9,5
+4774,36,Female,Home Decor,9222,1.6,8
+4775,56,Male,Books,590,1.2,17
+4776,45,Male,Fashion,3872,3.3,11
+4777,44,Female,Electronics,6536,3.5,19
+4778,21,Female,Fashion,2442,1.5,18
+4779,32,Female,Home Decor,4305,2.9,10
+4780,52,Female,Home Decor,9932,2.2,5
+4781,54,Female,Electronics,597,4.7,1
+4782,18,Male,Sports,1979,1.9,17
+4783,20,Male,Books,5126,3.9,17
+4784,41,Male,Books,5647,3.1,1
+4785,44,Female,Home Decor,4147,1.0,1
+4786,57,Male,Fashion,5943,3.1,9
+4787,53,Female,Fashion,579,1.4,4
+4788,51,Male,Sports,6077,3.6,9
+4789,46,Male,Fashion,2723,3.3,14
+4790,41,Female,Books,3069,1.0,15
+4791,41,Female,Fashion,5018,1.8,16
+4792,59,Male,Sports,1623,4.1,16
+4793,21,Male,Books,3123,2.1,13
+4794,20,Male,Fashion,1903,3.0,14
+4795,51,Male,Books,3078,2.2,9
+4796,40,Male,Home Decor,831,4.7,9
+4797,40,Female,Home Decor,7985,3.1,4
+4798,22,Female,Home Decor,1239,3.8,10
+4799,48,Female,Fashion,8733,1.3,3
+4800,58,Female,Sports,5480,1.2,9
+4801,23,Male,Books,4378,2.0,19
+4802,54,Male,Electronics,2449,2.2,16
+4803,27,Female,Home Decor,3960,3.8,16
+4804,57,Male,Home Decor,2628,3.3,17
+4805,24,Female,Electronics,4997,2.5,18
+4806,56,Male,Electronics,2654,3.6,10
+4807,55,Male,Fashion,5730,1.7,19
+4808,38,Male,Books,7944,1.3,15
+4809,37,Female,Home Decor,1737,4.4,15
+4810,20,Female,Sports,9197,3.3,11
+4811,39,Female,Fashion,5740,3.6,8
+4812,21,Female,Fashion,5315,2.2,16
+4813,45,Male,Sports,756,2.5,10
+4814,29,Male,Sports,2220,1.3,9
+4815,55,Male,Sports,7847,4.4,15
+4816,53,Male,Electronics,7576,3.4,5
+4817,58,Female,Home Decor,1571,1.3,2
+4818,22,Male,Electronics,2122,4.2,16
+4819,30,Male,Home Decor,2566,2.8,18
+4820,40,Male,Electronics,9761,4.1,16
+4821,47,Female,Books,9142,1.1,5
+4822,54,Female,Home Decor,1397,1.1,1
+4823,42,Female,Fashion,5675,1.7,19
+4824,44,Male,Home Decor,8773,1.8,10
+4825,31,Female,Home Decor,9428,4.1,13
+4826,53,Male,Home Decor,4674,3.8,11
+4827,56,Male,Books,6281,3.5,15
+4828,33,Male,Electronics,4444,4.5,2
+4829,39,Female,Fashion,6926,2.0,6
+4830,38,Female,Electronics,5935,4.6,11
+4831,38,Male,Electronics,9871,4.6,15
+4832,25,Male,Sports,3435,2.7,9
+4833,33,Female,Books,6333,1.4,12
+4834,48,Female,Sports,8588,3.9,4
+4835,59,Female,Books,961,2.3,14
+4836,27,Male,Electronics,616,4.2,3
+4837,49,Male,Electronics,6285,1.7,17
+4838,51,Male,Books,7007,3.2,13
+4839,26,Female,Electronics,6330,3.0,8
+4840,34,Female,Electronics,5061,1.4,12
+4841,28,Female,Fashion,8627,2.5,12
+4842,49,Male,Sports,1159,1.3,12
+4843,27,Male,Sports,2622,2.9,2
+4844,39,Female,Sports,2086,4.4,10
+4845,34,Male,Home Decor,5182,2.1,9
+4846,21,Female,Fashion,7299,4.1,1
+4847,42,Male,Sports,9326,1.7,4
+4848,38,Female,Sports,7487,3.7,14
+4849,54,Male,Fashion,8475,4.7,16
+4850,55,Male,Electronics,3382,2.3,18
+4851,18,Female,Sports,5749,4.6,2
+4852,42,Female,Electronics,3311,3.0,6
+4853,53,Female,Sports,6027,2.3,3
+4854,34,Female,Books,2384,4.6,19
+4855,58,Female,Home Decor,9313,1.1,13
+4856,41,Male,Sports,5573,1.1,17
+4857,19,Female,Books,5916,3.4,14
+4858,57,Female,Fashion,6300,4.2,11
+4859,32,Female,Books,7395,4.0,16
+4860,49,Male,Fashion,6815,1.3,11
+4861,56,Female,Sports,5430,4.8,18
+4862,23,Female,Fashion,2865,3.8,2
+4863,18,Female,Books,1354,4.8,8
+4864,40,Male,Home Decor,3228,2.3,14
+4865,56,Male,Electronics,1415,3.8,2
+4866,34,Female,Electronics,7673,4.4,13
+4867,51,Male,Home Decor,5438,2.5,10
+4868,58,Female,Electronics,631,4.9,8
+4869,46,Male,Sports,9808,2.1,7
+4870,26,Female,Sports,4093,2.3,13
+4871,30,Male,Books,9552,4.7,19
+4872,23,Female,Books,793,4.9,15
+4873,23,Female,Fashion,9691,2.1,2
+4874,37,Male,Books,4185,1.5,5
+4875,20,Female,Sports,8516,4.0,19
+4876,34,Female,Books,8262,4.7,1
+4877,29,Female,Electronics,7346,3.4,7
+4878,18,Female,Fashion,8084,3.5,18
+4879,34,Male,Fashion,7810,4.1,1
+4880,20,Female,Sports,5856,1.6,1
+4881,43,Male,Books,786,4.9,7
+4882,32,Male,Electronics,9141,2.5,17
+4883,53,Male,Books,7086,3.5,6
+4884,49,Male,Home Decor,5803,2.9,12
+4885,49,Female,Books,3616,2.9,15
+4886,21,Female,Sports,6374,3.8,13
+4887,35,Male,Books,7470,5.0,12
+4888,36,Female,Fashion,8648,3.6,2
+4889,52,Male,Electronics,8944,4.2,18
+4890,57,Female,Sports,1735,1.1,4
+4891,31,Female,Home Decor,1499,4.2,10
+4892,50,Female,Electronics,4260,2.2,11
+4893,31,Male,Electronics,4616,1.5,6
+4894,51,Male,Fashion,4911,1.5,6
+4895,21,Female,Fashion,6057,3.7,9
+4896,41,Male,Fashion,5852,5.0,13
+4897,46,Male,Sports,4183,3.7,5
+4898,36,Female,Books,2761,2.0,6
+4899,23,Male,Electronics,2353,1.8,4
+4900,50,Female,Books,9291,3.1,6
+4901,57,Female,Books,7395,1.3,18
+4902,36,Female,Fashion,3490,2.6,13
+4903,18,Male,Books,1362,3.7,3
+4904,22,Female,Electronics,5027,4.9,10
+4905,44,Female,Electronics,1719,2.7,4
+4906,33,Male,Home Decor,4295,1.8,15
+4907,23,Male,Sports,1027,4.3,12
+4908,57,Male,Books,7869,4.0,15
+4909,30,Male,Sports,3422,4.4,10
+4910,52,Female,Sports,6349,1.9,12
+4911,36,Male,Sports,1662,2.6,8
+4912,29,Male,Sports,1346,4.9,3
+4913,33,Male,Electronics,7459,1.6,7
+4914,27,Male,Books,3586,3.7,18
+4915,42,Female,Home Decor,3783,1.9,3
+4916,37,Male,Sports,3823,3.0,15
+4917,48,Female,Home Decor,945,4.2,2
+4918,21,Male,Electronics,1525,3.0,15
+4919,40,Female,Electronics,1859,4.2,13
+4920,19,Female,Fashion,8710,2.7,10
+4921,39,Male,Sports,6613,5.0,8
+4922,54,Female,Fashion,9252,2.7,16
+4923,25,Male,Home Decor,971,1.6,16
+4924,24,Female,Books,527,2.6,2
+4925,31,Female,Fashion,9251,4.0,9
+4926,20,Female,Electronics,3736,4.4,8
+4927,33,Male,Sports,9636,2.8,11
+4928,36,Female,Home Decor,4448,3.4,1
+4929,35,Male,Electronics,6672,4.4,11
+4930,33,Female,Books,2479,4.3,18
+4931,25,Female,Sports,5421,3.6,15
+4932,50,Female,Books,9507,4.3,9
+4933,29,Female,Books,2826,3.3,9
+4934,28,Female,Sports,2830,1.0,1
+4935,22,Female,Sports,8146,1.2,7
+4936,44,Male,Books,1502,4.9,12
+4937,29,Male,Home Decor,6948,1.6,10
+4938,34,Male,Sports,7337,2.6,19
+4939,23,Female,Electronics,6967,4.7,16
+4940,50,Male,Fashion,9921,1.8,6
+4941,22,Female,Home Decor,7854,4.4,11
+4942,45,Male,Sports,3029,4.3,19
+4943,31,Male,Sports,1930,4.9,19
+4944,22,Female,Home Decor,4412,2.1,18
+4945,50,Female,Fashion,2032,2.3,15
+4946,58,Male,Books,2392,4.6,16
+4947,36,Male,Electronics,1921,1.9,14
+4948,39,Male,Sports,9082,3.2,8
+4949,22,Male,Fashion,6268,3.8,8
+4950,19,Female,Electronics,3318,2.1,2
+4951,47,Male,Home Decor,6117,4.8,6
+4952,56,Female,Sports,1695,3.7,13
+4953,21,Female,Books,6729,1.2,13
+4954,50,Male,Home Decor,9549,1.5,12
+4955,30,Female,Sports,5805,1.8,2
+4956,37,Male,Fashion,8577,2.0,12
+4957,24,Female,Electronics,9845,3.9,17
+4958,32,Female,Electronics,1342,1.4,6
+4959,40,Male,Sports,5700,2.4,7
+4960,31,Female,Home Decor,6421,4.6,6
+4961,40,Female,Books,794,3.2,4
+4962,36,Male,Fashion,6597,2.1,9
+4963,46,Female,Sports,6912,4.8,5
+4964,37,Female,Fashion,9336,2.0,10
+4965,46,Male,Electronics,7178,4.6,15
+4966,41,Male,Books,5520,3.9,8
+4967,35,Female,Fashion,6243,4.0,4
+4968,27,Female,Sports,610,4.1,5
+4969,58,Female,Books,9275,3.0,7
+4970,25,Male,Home Decor,5364,4.3,6
+4971,43,Female,Sports,2148,4.3,13
+4972,46,Female,Fashion,6881,2.4,19
+4973,27,Female,Books,2881,2.6,10
+4974,34,Female,Sports,605,4.6,15
+4975,19,Female,Books,6318,3.1,3
+4976,23,Female,Books,881,4.5,18
+4977,22,Male,Books,4856,3.5,14
+4978,45,Male,Fashion,6418,3.4,3
+4979,58,Female,Sports,1816,1.1,11
+4980,22,Female,Electronics,5954,2.1,10
+4981,35,Male,Electronics,4574,3.0,17
+4982,43,Male,Fashion,5304,3.3,13
+4983,37,Male,Fashion,1406,3.5,2
+4984,58,Female,Books,8121,3.9,13
+4985,44,Female,Sports,1162,3.6,19
+4986,29,Female,Sports,7218,4.4,5
+4987,24,Female,Home Decor,9154,2.2,16
+4988,20,Male,Home Decor,1442,3.6,10
+4989,27,Male,Electronics,8849,1.2,12
+4990,51,Male,Home Decor,6915,2.9,13
+4991,42,Male,Home Decor,3809,2.1,16
+4992,52,Female,Electronics,1826,2.5,1
+4993,33,Female,Electronics,2606,2.4,9
+4994,19,Male,Home Decor,5299,1.2,16
+4995,41,Male,Sports,9339,2.9,19
+4996,27,Male,Home Decor,3438,5.0,15
+4997,55,Male,Books,2983,2.2,18
+4998,39,Male,Books,1875,3.9,12
+4999,43,Female,Books,8356,3.2,14
+5000,56,Female,Fashion,744,2.3,3
+5001,44,Male,Books,2848,1.4,4
+5002,46,Male,Sports,9559,1.9,6
+5003,55,Male,Fashion,979,4.1,16
+5004,37,Female,Fashion,2435,2.1,13
+5005,44,Female,Books,6257,1.6,12
+5006,58,Female,Home Decor,587,2.3,12
+5007,37,Male,Electronics,9932,3.3,2
+5008,36,Female,Home Decor,9264,3.8,13
+5009,37,Male,Home Decor,9505,2.5,3
+5010,52,Female,Fashion,678,3.0,13
+5011,19,Female,Fashion,662,2.8,2
+5012,47,Female,Fashion,3140,1.0,19
+5013,51,Male,Sports,9697,2.6,9
+5014,39,Male,Sports,2848,3.3,1
+5015,20,Female,Electronics,2921,3.3,13
+5016,23,Male,Fashion,4798,4.0,2
+5017,32,Male,Books,4642,3.7,15
+5018,44,Male,Fashion,5003,2.1,19
+5019,27,Male,Sports,1717,2.0,16
+5020,26,Male,Fashion,2974,2.9,11
+5021,50,Male,Sports,1429,3.9,15
+5022,49,Male,Fashion,8458,1.4,6
+5023,23,Female,Books,9008,4.8,14
+5024,58,Male,Electronics,2002,3.2,6
+5025,53,Male,Books,920,2.2,19
+5026,19,Female,Sports,6330,3.8,5
+5027,46,Female,Home Decor,4858,1.2,11
+5028,21,Female,Books,1949,2.9,4
+5029,18,Female,Fashion,6311,2.9,9
+5030,36,Male,Electronics,9119,1.6,9
+5031,43,Female,Fashion,8371,4.3,17
+5032,42,Female,Fashion,9088,4.2,8
+5033,27,Male,Books,9487,1.6,15
+5034,32,Male,Electronics,606,2.5,9
+5035,39,Male,Home Decor,4549,1.4,5
+5036,38,Female,Fashion,8789,4.4,4
+5037,39,Male,Electronics,2403,2.3,18
+5038,53,Female,Home Decor,8149,2.8,9
+5039,51,Male,Fashion,4070,2.3,3
+5040,47,Male,Electronics,5876,2.2,9
+5041,42,Female,Books,542,4.0,9
+5042,45,Male,Fashion,6885,4.0,4
+5043,18,Male,Fashion,2077,3.1,7
+5044,21,Male,Electronics,6565,3.6,7
+5045,24,Male,Fashion,6385,3.0,8
+5046,26,Male,Home Decor,9076,1.1,1
+5047,53,Female,Fashion,4077,1.3,9
+5048,36,Female,Sports,3738,2.5,12
+5049,18,Male,Home Decor,5744,4.0,6
+5050,27,Female,Electronics,2634,4.7,13
+5051,53,Female,Home Decor,4392,1.1,5
+5052,26,Female,Sports,4821,2.5,19
+5053,59,Male,Sports,6276,1.9,1
+5054,49,Male,Fashion,6328,4.3,18
+5055,49,Male,Fashion,4315,4.4,8
+5056,23,Female,Books,795,1.8,8
+5057,55,Female,Home Decor,913,3.8,15
+5058,34,Male,Books,6456,3.9,19
+5059,27,Male,Sports,6778,1.7,10
+5060,44,Female,Fashion,7168,2.7,16
+5061,52,Female,Fashion,8695,3.5,11
+5062,38,Male,Fashion,677,1.1,12
+5063,42,Female,Electronics,9437,2.6,16
+5064,45,Female,Sports,4854,1.6,16
+5065,32,Female,Fashion,9343,3.2,3
+5066,21,Female,Sports,6414,4.4,9
+5067,46,Female,Fashion,5982,3.1,8
+5068,26,Female,Home Decor,3771,1.1,10
+5069,44,Female,Sports,7187,1.1,13
+5070,43,Male,Books,5892,3.4,18
+5071,36,Male,Electronics,789,2.3,13
+5072,45,Female,Books,9494,3.3,13
+5073,34,Female,Sports,8925,1.7,15
+5074,58,Female,Fashion,907,4.1,13
+5075,59,Male,Sports,1193,4.4,16
+5076,37,Male,Electronics,1669,4.6,8
+5077,57,Female,Sports,9123,2.2,19
+5078,56,Male,Fashion,8282,3.6,10
+5079,40,Female,Books,9674,2.1,12
+5080,49,Female,Home Decor,3544,4.1,14
+5081,50,Female,Books,6030,1.5,6
+5082,22,Female,Fashion,5492,4.1,9
+5083,51,Female,Fashion,4424,2.8,7
+5084,57,Female,Electronics,7470,4.4,6
+5085,28,Female,Sports,3812,4.0,1
+5086,20,Male,Sports,4818,2.5,14
+5087,50,Female,Books,2188,4.6,6
+5088,28,Male,Home Decor,967,2.1,12
+5089,33,Female,Home Decor,2922,4.9,17
+5090,35,Female,Electronics,7779,4.1,5
+5091,47,Male,Fashion,5007,5.0,11
+5092,27,Male,Electronics,5221,1.2,5
+5093,35,Female,Sports,5871,2.1,12
+5094,55,Male,Fashion,9703,4.0,3
+5095,36,Female,Electronics,8041,4.7,9
+5096,53,Female,Books,1986,1.1,6
+5097,30,Male,Sports,4249,1.0,2
+5098,20,Male,Home Decor,8559,2.0,2
+5099,27,Male,Electronics,3003,4.4,12
+5100,55,Male,Sports,8355,4.1,8
+5101,18,Female,Sports,7555,2.4,2
+5102,44,Male,Home Decor,899,1.0,9
+5103,25,Male,Home Decor,4882,3.2,16
+5104,59,Male,Home Decor,2039,2.0,15
+5105,34,Male,Electronics,8928,4.0,14
+5106,26,Male,Home Decor,7685,2.8,4
+5107,23,Female,Books,5410,3.7,4
+5108,42,Female,Sports,9619,4.4,11
+5109,56,Male,Home Decor,5009,3.1,18
+5110,45,Male,Sports,6551,2.3,5
+5111,50,Female,Fashion,6652,4.1,2
+5112,54,Male,Fashion,9111,2.1,15
+5113,26,Female,Home Decor,4624,4.6,11
+5114,35,Female,Sports,2895,1.3,17
+5115,38,Male,Fashion,9352,4.3,16
+5116,19,Female,Home Decor,4450,1.4,15
+5117,55,Male,Sports,949,1.2,3
+5118,57,Male,Home Decor,879,2.5,15
+5119,53,Female,Sports,9942,4.8,19
+5120,54,Female,Fashion,7785,4.9,13
+5121,32,Male,Home Decor,2801,1.8,16
+5122,45,Female,Fashion,8210,1.6,12
+5123,35,Male,Home Decor,6292,2.4,17
+5124,51,Female,Electronics,9418,2.3,16
+5125,39,Female,Fashion,7716,4.0,9
+5126,28,Male,Fashion,5405,2.8,6
+5127,30,Male,Books,6499,4.1,19
+5128,21,Male,Fashion,9107,4.0,13
+5129,39,Female,Sports,7622,3.3,8
+5130,24,Male,Home Decor,1099,4.3,12
+5131,41,Male,Electronics,7788,1.8,9
+5132,21,Female,Sports,8421,1.6,4
+5133,45,Female,Sports,2067,4.0,13
+5134,32,Male,Sports,1594,2.0,2
+5135,18,Male,Sports,6691,1.0,3
+5136,20,Male,Electronics,1958,4.6,5
+5137,31,Male,Books,9900,3.5,18
+5138,55,Female,Fashion,8546,2.8,14
+5139,18,Female,Sports,5434,3.9,2
+5140,55,Male,Fashion,1854,2.3,15
+5141,55,Male,Fashion,6973,4.8,8
+5142,38,Male,Sports,8904,1.3,16
+5143,46,Female,Books,4394,3.6,3
+5144,22,Male,Fashion,8532,4.1,5
+5145,27,Male,Home Decor,3463,2.9,4
+5146,45,Female,Fashion,3542,4.0,12
+5147,38,Female,Sports,7473,4.7,19
+5148,24,Male,Electronics,7639,4.0,15
+5149,20,Male,Fashion,7430,2.2,13
+5150,37,Female,Books,2232,3.2,5
+5151,36,Male,Home Decor,8370,4.6,12
+5152,52,Male,Home Decor,5840,2.8,19
+5153,21,Female,Electronics,5611,3.7,2
+5154,22,Female,Electronics,3581,2.9,7
+5155,18,Female,Fashion,8302,1.5,5
+5156,21,Male,Sports,9962,1.2,11
+5157,29,Female,Books,8027,4.8,18
+5158,44,Female,Home Decor,5368,3.5,18
+5159,59,Male,Electronics,2029,1.4,7
+5160,40,Male,Books,1581,4.4,10
+5161,42,Female,Sports,8494,3.1,14
+5162,38,Female,Home Decor,4031,4.1,11
+5163,41,Male,Home Decor,9843,1.5,2
+5164,42,Male,Sports,1216,4.6,13
+5165,49,Female,Home Decor,6729,3.4,13
+5166,49,Female,Sports,704,4.0,9
+5167,22,Male,Home Decor,7284,1.1,17
+5168,53,Female,Fashion,4594,2.3,15
+5169,59,Male,Sports,5982,2.1,16
+5170,59,Female,Books,6240,4.8,10
+5171,56,Male,Fashion,7719,1.7,12
+5172,33,Male,Books,6654,3.8,5
+5173,50,Female,Home Decor,5342,1.2,17
+5174,38,Female,Books,8603,1.8,10
+5175,26,Male,Fashion,9929,2.4,6
+5176,23,Female,Sports,2518,4.2,6
+5177,52,Female,Electronics,5551,4.2,12
+5178,56,Female,Books,9209,4.8,19
+5179,39,Male,Electronics,8335,4.7,2
+5180,58,Female,Books,1938,1.3,13
+5181,22,Female,Books,4586,4.3,11
+5182,59,Male,Sports,5627,2.8,15
+5183,40,Female,Home Decor,2552,4.5,13
+5184,34,Female,Fashion,8029,1.4,3
+5185,29,Male,Fashion,7647,4.3,14
+5186,40,Male,Fashion,4868,1.6,8
+5187,33,Female,Home Decor,5017,2.3,9
+5188,20,Female,Electronics,2812,1.1,15
+5189,47,Male,Fashion,6077,1.5,18
+5190,39,Male,Electronics,9473,2.8,8
+5191,26,Female,Home Decor,1744,4.3,11
+5192,46,Female,Home Decor,2916,4.1,5
+5193,54,Female,Sports,6990,1.9,15
+5194,40,Male,Fashion,6668,1.6,15
+5195,30,Female,Sports,9667,2.6,7
+5196,49,Male,Fashion,6339,4.5,18
+5197,40,Male,Home Decor,9108,1.4,12
+5198,34,Male,Home Decor,8906,3.2,12
+5199,57,Female,Books,9827,1.4,4
+5200,38,Female,Books,7597,2.9,11
+5201,19,Female,Home Decor,5509,1.5,6
+5202,54,Male,Home Decor,2082,1.3,10
+5203,23,Female,Electronics,9424,1.8,15
+5204,35,Male,Electronics,8376,2.0,1
+5205,47,Male,Sports,2927,2.1,17
+5206,39,Male,Books,6221,3.6,3
+5207,50,Male,Books,8923,1.2,11
+5208,47,Male,Home Decor,5430,1.3,18
+5209,34,Male,Home Decor,4853,1.8,10
+5210,49,Female,Sports,8332,4.5,9
+5211,59,Male,Books,5875,3.5,7
+5212,31,Female,Electronics,902,3.9,11
+5213,27,Male,Fashion,7067,2.5,8
+5214,53,Female,Sports,5365,1.9,2
+5215,51,Female,Fashion,8646,1.2,5
+5216,26,Female,Electronics,564,3.0,9
+5217,59,Female,Electronics,2737,3.3,1
+5218,45,Male,Fashion,8270,4.6,17
+5219,28,Male,Sports,9641,4.5,10
+5220,31,Male,Fashion,672,2.7,8
+5221,56,Male,Sports,8435,2.7,18
+5222,36,Female,Sports,3175,1.6,10
+5223,32,Female,Home Decor,9942,2.0,9
+5224,45,Female,Books,4505,4.7,4
+5225,41,Male,Books,7044,1.6,2
+5226,25,Female,Electronics,9329,4.9,19
+5227,26,Male,Home Decor,1448,3.0,10
+5228,50,Female,Books,2194,2.8,17
+5229,50,Female,Sports,5257,1.7,3
+5230,36,Female,Sports,6782,3.6,19
+5231,20,Female,Fashion,642,2.8,19
+5232,27,Female,Fashion,6501,2.5,19
+5233,57,Male,Sports,7152,2.1,19
+5234,59,Female,Sports,5081,1.3,15
+5235,18,Male,Fashion,5587,3.1,18
+5236,46,Male,Books,1960,2.3,17
+5237,51,Male,Electronics,4387,3.8,10
+5238,30,Male,Fashion,8984,3.9,14
+5239,18,Male,Books,1337,2.3,19
+5240,51,Male,Books,9729,3.7,18
+5241,46,Male,Books,6346,2.0,11
+5242,30,Male,Home Decor,8963,3.9,11
+5243,46,Female,Home Decor,2869,1.1,12
+5244,56,Female,Books,9497,1.6,8
+5245,41,Male,Sports,3674,2.0,16
+5246,43,Male,Home Decor,6485,4.1,8
+5247,34,Male,Fashion,1382,1.3,14
+5248,24,Female,Home Decor,9523,1.8,18
+5249,30,Female,Sports,3671,2.4,4
+5250,22,Male,Electronics,2540,1.0,17
+5251,43,Male,Home Decor,7232,4.0,13
+5252,20,Female,Books,6872,3.2,5
+5253,24,Female,Books,6485,4.6,3
+5254,56,Male,Books,8062,1.1,9
+5255,18,Male,Electronics,6400,2.1,18
+5256,34,Male,Sports,8465,3.9,19
+5257,42,Male,Fashion,5816,3.7,19
+5258,20,Female,Sports,8965,2.0,16
+5259,32,Female,Electronics,1089,3.4,1
+5260,46,Male,Books,9274,4.2,5
+5261,49,Male,Sports,5563,1.1,15
+5262,43,Male,Fashion,4133,3.9,12
+5263,33,Female,Books,2490,2.0,1
+5264,42,Male,Fashion,7015,4.8,14
+5265,45,Male,Home Decor,1758,3.2,18
+5266,26,Male,Fashion,3366,1.1,18
+5267,18,Female,Books,4238,2.6,6
+5268,46,Male,Home Decor,1071,4.9,1
+5269,39,Female,Books,9236,3.9,17
+5270,33,Male,Books,4722,2.2,18
+5271,58,Male,Home Decor,1137,3.3,15
+5272,58,Male,Fashion,8732,3.4,12
+5273,24,Female,Electronics,5382,1.1,13
+5274,31,Male,Electronics,4892,1.7,2
+5275,46,Male,Electronics,4172,3.2,4
+5276,36,Female,Electronics,9991,2.6,3
+5277,36,Female,Sports,7757,1.8,19
+5278,19,Female,Electronics,5211,4.1,8
+5279,58,Male,Home Decor,6143,3.0,12
+5280,32,Female,Electronics,659,2.2,12
+5281,20,Male,Books,6438,1.6,10
+5282,28,Female,Electronics,1080,3.4,1
+5283,47,Female,Fashion,8911,3.7,5
+5284,57,Female,Home Decor,8086,3.7,11
+5285,35,Male,Home Decor,4974,1.9,9
+5286,19,Male,Sports,7573,3.4,14
+5287,49,Male,Books,5559,4.6,3
+5288,25,Male,Home Decor,4828,2.4,5
+5289,39,Male,Fashion,1894,1.8,9
+5290,23,Male,Electronics,1421,4.1,18
+5291,29,Male,Home Decor,3273,1.7,6
+5292,57,Male,Fashion,4962,2.0,7
+5293,53,Male,Electronics,5076,1.4,16
+5294,32,Female,Sports,3934,2.1,8
+5295,45,Female,Home Decor,7233,2.6,10
+5296,35,Male,Home Decor,9810,1.3,5
+5297,19,Male,Fashion,2365,4.5,11
+5298,30,Male,Books,1224,3.1,13
+5299,32,Male,Sports,1211,3.4,2
+5300,37,Female,Books,8210,2.5,14
+5301,46,Female,Home Decor,5580,3.7,9
+5302,59,Male,Books,890,2.7,10
+5303,46,Female,Electronics,9762,4.0,10
+5304,20,Female,Sports,4987,4.3,10
+5305,36,Male,Books,8616,3.7,19
+5306,20,Male,Electronics,7247,3.0,11
+5307,31,Male,Fashion,6566,4.1,11
+5308,57,Male,Books,4994,3.0,3
+5309,21,Female,Sports,4072,1.4,19
+5310,28,Male,Electronics,8269,1.5,1
+5311,48,Female,Books,2811,4.8,12
+5312,49,Male,Fashion,7273,1.9,15
+5313,44,Female,Books,7405,4.3,14
+5314,47,Male,Electronics,4142,2.0,3
+5315,19,Male,Books,6838,2.7,13
+5316,26,Female,Sports,3109,3.6,18
+5317,45,Female,Home Decor,6740,1.6,16
+5318,48,Female,Electronics,8306,3.9,6
+5319,51,Male,Electronics,1257,3.8,10
+5320,32,Female,Electronics,5586,3.2,17
+5321,42,Female,Electronics,6720,3.3,17
+5322,53,Female,Books,6102,1.4,8
+5323,25,Female,Sports,9826,2.7,4
+5324,26,Female,Fashion,6621,1.3,15
+5325,54,Female,Sports,9456,2.2,1
+5326,56,Female,Electronics,3225,4.6,7
+5327,49,Female,Books,3868,3.3,10
+5328,34,Female,Books,3997,4.0,7
+5329,52,Male,Electronics,8674,3.3,1
+5330,54,Male,Books,6142,1.8,17
+5331,36,Female,Electronics,9274,3.4,12
+5332,46,Male,Sports,5266,4.0,17
+5333,24,Male,Home Decor,5133,1.6,15
+5334,45,Female,Books,2321,4.3,16
+5335,26,Female,Electronics,1685,3.2,14
+5336,45,Female,Electronics,2137,1.0,3
+5337,23,Female,Books,7736,3.1,19
+5338,46,Female,Fashion,8880,2.6,12
+5339,34,Female,Electronics,2246,2.2,19
+5340,33,Male,Books,6297,4.1,18
+5341,40,Female,Electronics,8589,4.6,14
+5342,48,Male,Fashion,3120,4.1,9
+5343,20,Female,Home Decor,8097,4.4,3
+5344,38,Female,Fashion,8502,4.6,12
+5345,43,Male,Sports,6607,4.7,17
+5346,53,Female,Books,9876,1.5,5
+5347,59,Female,Fashion,3293,2.8,8
+5348,54,Male,Home Decor,3000,1.0,19
+5349,39,Female,Electronics,8861,3.0,4
+5350,59,Male,Books,5425,4.7,15
+5351,29,Female,Fashion,1580,1.8,19
+5352,59,Female,Home Decor,9955,3.6,15
+5353,30,Male,Fashion,5364,3.6,14
+5354,28,Female,Sports,4953,1.6,16
+5355,33,Male,Books,2748,2.0,10
+5356,25,Male,Electronics,1825,2.8,14
+5357,57,Male,Home Decor,4373,1.8,11
+5358,57,Female,Fashion,2188,3.3,2
+5359,19,Female,Books,3485,2.9,19
+5360,47,Male,Fashion,2576,3.1,3
+5361,47,Female,Books,1961,1.5,4
+5362,29,Female,Sports,572,3.1,11
+5363,27,Female,Fashion,6530,1.2,13
+5364,28,Male,Sports,5111,4.5,18
+5365,32,Female,Home Decor,3296,2.4,18
+5366,33,Male,Sports,8217,4.4,19
+5367,34,Female,Books,5016,3.8,12
+5368,43,Female,Home Decor,2993,4.1,1
+5369,19,Male,Fashion,4731,2.3,6
+5370,29,Female,Fashion,4076,1.9,3
+5371,43,Male,Books,8600,2.6,17
+5372,40,Female,Electronics,6228,1.1,3
+5373,35,Male,Electronics,532,4.7,1
+5374,49,Female,Fashion,4873,2.5,3
+5375,55,Female,Books,4098,5.0,4
+5376,20,Female,Electronics,2892,4.0,6
+5377,55,Male,Sports,7205,1.3,7
+5378,20,Male,Fashion,7290,3.6,8
+5379,47,Male,Sports,3177,2.1,13
+5380,18,Female,Books,1901,2.0,4
+5381,47,Male,Sports,1317,2.0,6
+5382,49,Male,Electronics,6703,4.7,11
+5383,45,Male,Electronics,5062,3.0,1
+5384,38,Male,Home Decor,5223,3.7,8
+5385,30,Male,Fashion,2938,2.1,2
+5386,44,Male,Books,7328,3.1,8
+5387,53,Male,Fashion,1710,2.4,9
+5388,24,Male,Sports,7141,2.3,4
+5389,39,Male,Books,1099,2.0,17
+5390,27,Male,Books,5980,2.6,7
+5391,56,Female,Electronics,2346,3.6,10
+5392,32,Female,Sports,7092,1.9,5
+5393,32,Male,Electronics,8361,4.9,10
+5394,21,Female,Electronics,2387,1.5,12
+5395,49,Female,Home Decor,1179,2.9,6
+5396,40,Male,Electronics,3752,1.3,1
+5397,23,Male,Fashion,2335,1.1,3
+5398,41,Male,Books,2677,4.7,7
+5399,37,Female,Electronics,8642,4.2,11
+5400,54,Male,Fashion,648,3.8,12
+5401,37,Female,Sports,1995,4.5,9
+5402,29,Male,Books,2244,4.2,1
+5403,50,Female,Sports,2146,3.6,4
+5404,45,Female,Fashion,3495,4.4,2
+5405,25,Male,Sports,7143,2.6,2
+5406,18,Male,Sports,7878,3.2,17
+5407,54,Female,Sports,9349,4.1,2
+5408,39,Female,Electronics,4167,1.3,4
+5409,23,Male,Electronics,9745,4.4,11
+5410,38,Male,Electronics,1076,1.6,19
+5411,49,Female,Books,5279,4.5,13
+5412,52,Male,Fashion,8687,2.2,18
+5413,32,Female,Electronics,3472,2.3,19
+5414,22,Male,Sports,8256,1.3,15
+5415,23,Male,Sports,4448,4.5,12
+5416,42,Male,Sports,7044,1.7,11
+5417,57,Female,Sports,2545,3.5,1
+5418,46,Male,Home Decor,2127,3.6,16
+5419,24,Female,Books,1988,2.1,13
+5420,57,Male,Fashion,9627,4.9,6
+5421,30,Female,Fashion,4063,1.3,6
+5422,55,Female,Electronics,2302,3.4,10
+5423,35,Male,Home Decor,4091,2.9,2
+5424,19,Female,Fashion,4020,2.0,3
+5425,25,Female,Books,6396,1.7,6
+5426,28,Female,Sports,8143,3.9,16
+5427,50,Female,Electronics,7541,4.7,6
+5428,55,Male,Books,3811,1.4,13
+5429,44,Male,Fashion,2805,1.8,4
+5430,37,Male,Home Decor,8375,4.9,15
+5431,29,Female,Electronics,2467,1.1,6
+5432,48,Female,Fashion,8509,3.0,1
+5433,44,Male,Electronics,5962,3.1,9
+5434,49,Male,Fashion,7397,2.1,12
+5435,27,Female,Sports,3958,3.7,11
+5436,20,Male,Home Decor,9085,4.8,13
+5437,44,Male,Sports,5278,2.8,1
+5438,52,Female,Fashion,4230,4.0,19
+5439,48,Male,Books,4865,3.6,4
+5440,32,Female,Sports,8047,2.9,5
+5441,33,Male,Books,527,1.2,17
+5442,30,Female,Fashion,3991,4.0,5
+5443,52,Female,Home Decor,6923,2.5,19
+5444,28,Female,Books,5801,1.9,3
+5445,38,Female,Fashion,6660,4.8,11
+5446,28,Female,Books,1673,4.1,2
+5447,47,Male,Sports,838,4.8,14
+5448,52,Male,Fashion,9760,2.0,6
+5449,39,Male,Sports,1341,4.3,19
+5450,55,Female,Electronics,793,3.4,1
+5451,48,Male,Fashion,7058,4.9,7
+5452,31,Female,Books,2147,4.8,2
+5453,41,Female,Electronics,5398,4.9,19
+5454,49,Male,Sports,5026,4.8,1
+5455,53,Female,Sports,6114,1.0,9
+5456,49,Male,Books,4301,4.0,17
+5457,32,Female,Electronics,8780,2.1,10
+5458,52,Female,Home Decor,7876,3.8,6
+5459,20,Male,Books,1399,4.9,3
+5460,33,Female,Sports,3977,1.2,15
+5461,22,Male,Fashion,2244,3.3,6
+5462,38,Female,Electronics,6596,3.9,3
+5463,27,Male,Home Decor,2753,2.0,10
+5464,36,Female,Fashion,2133,1.9,12
+5465,42,Male,Electronics,7501,1.2,1
+5466,21,Male,Books,7520,1.4,16
+5467,46,Female,Books,9553,3.6,17
+5468,36,Male,Electronics,8649,3.0,10
+5469,19,Female,Home Decor,5201,1.1,12
+5470,27,Female,Electronics,7235,4.9,19
+5471,42,Male,Fashion,1513,3.6,8
+5472,37,Male,Fashion,3799,3.1,8
+5473,36,Male,Books,2006,2.1,10
+5474,40,Male,Electronics,5303,3.6,10
+5475,41,Male,Books,1477,2.5,18
+5476,28,Female,Home Decor,2317,3.8,10
+5477,51,Male,Fashion,5401,3.7,7
+5478,45,Female,Sports,9640,1.4,4
+5479,22,Male,Sports,7298,4.6,1
+5480,22,Male,Electronics,973,2.9,11
+5481,38,Male,Electronics,1067,2.6,19
+5482,29,Female,Sports,8466,4.8,5
+5483,21,Male,Electronics,2758,2.8,8
+5484,59,Female,Fashion,8620,3.9,2
+5485,37,Female,Home Decor,4810,3.6,2
+5486,55,Female,Home Decor,2482,1.7,14
+5487,42,Male,Books,1596,5.0,9
+5488,31,Female,Fashion,7110,2.9,10
+5489,28,Male,Electronics,4070,2.6,13
+5490,49,Female,Electronics,6997,4.7,1
+5491,28,Male,Books,4146,3.1,14
+5492,35,Female,Books,2919,3.8,2
+5493,44,Male,Electronics,4779,4.4,4
+5494,35,Male,Electronics,1173,1.9,19
+5495,40,Male,Fashion,3302,1.7,1
+5496,28,Female,Books,7812,1.3,4
+5497,38,Female,Fashion,2869,4.6,11
+5498,22,Male,Electronics,5030,1.8,13
+5499,40,Female,Sports,1566,2.2,18
+5500,58,Female,Sports,5932,2.1,10
+5501,42,Female,Electronics,8573,2.2,5
+5502,58,Female,Books,1187,3.7,1
+5503,27,Female,Sports,568,4.8,14
+5504,39,Female,Books,7274,2.3,16
+5505,36,Female,Sports,919,2.6,18
+5506,18,Male,Books,7391,4.1,3
+5507,24,Male,Sports,6093,2.7,3
+5508,21,Female,Books,6604,4.7,4
+5509,18,Male,Fashion,4392,3.0,7
+5510,32,Male,Books,939,2.4,13
+5511,57,Male,Fashion,9978,4.9,9
+5512,29,Female,Fashion,1708,2.7,3
+5513,39,Female,Electronics,9770,1.9,17
+5514,39,Female,Fashion,3063,1.7,15
+5515,34,Female,Home Decor,7966,5.0,10
+5516,46,Female,Fashion,1753,4.0,15
+5517,31,Male,Books,3709,2.6,1
+5518,37,Female,Fashion,4049,4.3,10
+5519,50,Male,Books,1114,3.2,7
+5520,32,Female,Books,3578,2.3,7
+5521,29,Male,Home Decor,3990,4.0,3
+5522,57,Female,Fashion,4043,4.0,7
+5523,37,Female,Fashion,8602,3.0,9
+5524,47,Female,Sports,2400,1.2,8
+5525,55,Female,Sports,6180,1.3,3
+5526,20,Female,Electronics,7251,4.2,5
+5527,45,Female,Books,6362,4.3,13
+5528,43,Male,Home Decor,2212,3.7,13
+5529,47,Female,Sports,2829,4.4,8
+5530,30,Male,Fashion,1694,3.9,18
+5531,30,Female,Electronics,7281,4.6,7
+5532,19,Male,Home Decor,8662,1.6,10
+5533,54,Male,Fashion,5406,2.6,10
+5534,55,Male,Fashion,1878,2.9,11
+5535,19,Male,Books,1249,2.2,12
+5536,53,Male,Books,5792,3.9,13
+5537,43,Male,Sports,800,4.6,8
+5538,28,Female,Sports,5195,2.6,17
+5539,25,Male,Fashion,5124,4.8,14
+5540,57,Female,Fashion,4337,3.1,17
+5541,39,Female,Sports,777,3.1,19
+5542,37,Male,Sports,4417,3.4,16
+5543,25,Male,Fashion,7807,2.1,9
+5544,46,Female,Home Decor,2661,2.5,10
+5545,57,Male,Fashion,1889,3.2,9
+5546,43,Male,Home Decor,9382,4.8,1
+5547,47,Male,Home Decor,5232,3.6,3
+5548,34,Male,Fashion,3968,2.3,11
+5549,37,Male,Electronics,6641,1.0,7
+5550,33,Male,Sports,6469,4.9,18
+5551,24,Male,Books,4316,3.0,13
+5552,33,Female,Fashion,9631,4.8,18
+5553,44,Male,Home Decor,5537,3.2,16
+5554,40,Female,Fashion,6494,3.4,16
+5555,41,Female,Sports,2951,3.8,10
+5556,26,Female,Home Decor,524,2.3,9
+5557,52,Female,Books,6462,3.8,8
+5558,37,Male,Books,3056,3.1,19
+5559,54,Female,Books,8132,3.7,3
+5560,59,Female,Electronics,560,4.3,9
+5561,34,Female,Home Decor,8175,1.7,2
+5562,48,Female,Home Decor,622,3.5,19
+5563,25,Female,Electronics,6116,1.2,8
+5564,32,Male,Home Decor,1686,1.4,18
+5565,48,Male,Electronics,5658,3.7,8
+5566,47,Female,Fashion,8364,1.3,5
+5567,37,Male,Sports,4589,3.4,6
+5568,56,Male,Books,2972,1.9,10
+5569,29,Female,Electronics,7950,2.2,15
+5570,34,Female,Electronics,3464,1.5,4
+5571,59,Female,Electronics,8604,2.0,3
+5572,47,Male,Fashion,1810,4.3,9
+5573,46,Female,Electronics,8846,3.6,16
+5574,36,Male,Sports,2712,4.8,16
+5575,28,Male,Sports,9954,1.2,15
+5576,51,Male,Books,7292,4.2,9
+5577,24,Female,Fashion,9629,3.8,17
+5578,51,Male,Sports,9203,2.0,12
+5579,37,Female,Home Decor,8878,3.9,8
+5580,55,Female,Home Decor,2345,3.9,14
+5581,41,Female,Home Decor,8160,2.8,18
+5582,27,Female,Electronics,2202,3.8,12
+5583,49,Female,Electronics,890,2.8,14
+5584,32,Male,Home Decor,1154,2.3,5
+5585,54,Male,Books,6335,2.9,1
+5586,37,Male,Books,4771,4.6,13
+5587,20,Male,Electronics,9455,2.5,14
+5588,54,Male,Home Decor,3900,2.6,2
+5589,57,Female,Books,5819,3.4,16
+5590,25,Female,Electronics,7232,4.0,5
+5591,57,Male,Home Decor,7174,3.9,1
+5592,40,Male,Fashion,1585,1.1,12
+5593,57,Male,Home Decor,5946,3.7,19
+5594,28,Female,Home Decor,4876,2.8,10
+5595,25,Female,Sports,2463,3.1,12
+5596,46,Female,Sports,5677,3.2,19
+5597,47,Male,Fashion,5072,3.9,16
+5598,27,Male,Fashion,8043,4.3,17
+5599,56,Male,Home Decor,9407,3.6,13
+5600,45,Male,Books,742,3.3,7
+5601,53,Female,Fashion,7010,2.5,3
+5602,30,Male,Home Decor,4415,1.6,5
+5603,49,Male,Electronics,1337,4.8,4
+5604,53,Male,Sports,3823,2.8,15
+5605,54,Female,Books,3453,3.3,17
+5606,43,Female,Home Decor,1932,4.0,12
+5607,39,Male,Electronics,7354,1.3,14
+5608,21,Female,Sports,8155,4.4,4
+5609,48,Female,Electronics,8931,4.2,17
+5610,35,Female,Home Decor,8830,4.1,11
+5611,55,Female,Fashion,9111,1.1,6
+5612,41,Female,Sports,803,3.1,4
+5613,40,Male,Electronics,2662,1.2,13
+5614,39,Male,Fashion,6986,3.2,15
+5615,19,Male,Books,4602,3.9,18
+5616,48,Female,Home Decor,7374,1.5,17
+5617,28,Female,Home Decor,1668,3.8,19
+5618,45,Female,Sports,915,2.8,10
+5619,49,Female,Electronics,5743,4.2,5
+5620,22,Male,Books,649,3.1,12
+5621,55,Male,Sports,7024,2.3,15
+5622,27,Male,Sports,6399,2.3,4
+5623,57,Male,Electronics,1338,4.6,8
+5624,41,Male,Books,6644,2.8,17
+5625,52,Male,Electronics,7966,2.6,6
+5626,40,Female,Home Decor,1820,1.2,16
+5627,34,Female,Fashion,2023,2.5,5
+5628,18,Male,Home Decor,5734,4.4,14
+5629,48,Female,Home Decor,6644,4.0,2
+5630,48,Male,Sports,1052,1.9,17
+5631,59,Male,Home Decor,4256,2.7,6
+5632,59,Female,Books,4171,1.8,11
+5633,51,Male,Home Decor,981,4.8,2
+5634,26,Male,Books,1099,3.4,1
+5635,39,Male,Electronics,8177,4.0,5
+5636,30,Female,Sports,9856,3.9,8
+5637,42,Female,Books,9695,4.5,4
+5638,35,Female,Home Decor,2482,4.8,19
+5639,29,Female,Sports,2134,1.1,5
+5640,57,Male,Sports,8330,4.9,5
+5641,34,Female,Books,3497,4.5,16
+5642,32,Female,Books,1186,2.5,18
+5643,59,Female,Fashion,6029,4.3,11
+5644,32,Male,Fashion,2259,3.9,17
+5645,32,Female,Sports,7523,4.2,3
+5646,56,Female,Fashion,6708,1.9,18
+5647,30,Male,Home Decor,7734,3.6,4
+5648,34,Male,Electronics,2980,1.1,19
+5649,49,Male,Sports,7976,4.4,9
+5650,26,Male,Electronics,8270,4.8,5
+5651,57,Female,Fashion,614,3.6,4
+5652,37,Male,Books,1068,3.1,16
+5653,43,Female,Sports,8451,3.9,10
+5654,44,Female,Fashion,3189,2.3,9
+5655,38,Female,Home Decor,5090,3.5,16
+5656,35,Female,Sports,3840,3.9,17
+5657,30,Female,Sports,3488,1.6,18
+5658,33,Male,Books,3651,1.6,15
+5659,26,Female,Sports,3515,3.9,9
+5660,29,Female,Books,9513,2.7,6
+5661,55,Female,Fashion,6845,4.6,6
+5662,36,Male,Home Decor,4074,2.2,11
+5663,24,Female,Home Decor,8338,1.2,3
+5664,52,Female,Sports,2108,3.6,12
+5665,35,Male,Sports,1059,3.7,15
+5666,33,Female,Fashion,7121,3.2,7
+5667,56,Female,Books,7626,3.7,18
+5668,21,Male,Home Decor,6065,3.1,15
+5669,42,Female,Books,4935,3.8,8
+5670,49,Female,Fashion,6150,1.2,9
+5671,57,Female,Home Decor,9303,2.5,15
+5672,30,Female,Home Decor,2381,1.8,16
+5673,34,Female,Electronics,4669,1.4,3
+5674,54,Male,Fashion,4363,1.9,5
+5675,23,Male,Fashion,7936,1.8,3
+5676,36,Male,Electronics,4208,4.9,2
+5677,30,Female,Books,2209,2.1,2
+5678,43,Female,Electronics,8360,1.9,4
+5679,31,Female,Fashion,2192,4.3,3
+5680,48,Male,Books,9937,2.7,9
+5681,21,Female,Home Decor,625,2.7,12
+5682,56,Female,Electronics,1699,2.8,9
+5683,25,Female,Books,6592,2.7,19
+5684,42,Male,Books,3211,2.3,12
+5685,30,Male,Books,9682,2.1,16
+5686,49,Female,Electronics,6728,4.5,1
+5687,55,Female,Home Decor,6495,1.6,10
+5688,55,Female,Books,8682,1.7,10
+5689,45,Male,Electronics,6002,3.3,4
+5690,47,Male,Fashion,6260,2.4,11
+5691,20,Male,Electronics,6082,2.7,11
+5692,45,Female,Electronics,2998,4.2,11
+5693,20,Male,Electronics,3065,4.6,6
+5694,51,Female,Books,7489,4.2,15
+5695,33,Female,Electronics,5290,1.9,2
+5696,39,Male,Fashion,5524,4.9,3
+5697,49,Female,Books,8807,2.5,5
+5698,55,Male,Fashion,1531,1.7,11
+5699,25,Female,Sports,1741,3.0,12
+5700,25,Female,Electronics,2242,3.9,3
+5701,23,Male,Books,6209,1.3,9
+5702,31,Female,Books,6499,3.5,3
+5703,49,Female,Electronics,4590,4.4,2
+5704,52,Female,Home Decor,8660,2.0,6
+5705,27,Female,Home Decor,7383,3.8,6
+5706,20,Female,Fashion,5629,2.6,17
+5707,29,Female,Electronics,4903,2.7,8
+5708,48,Female,Electronics,7077,2.1,1
+5709,46,Female,Sports,5397,3.5,8
+5710,22,Male,Home Decor,663,2.4,15
+5711,42,Male,Home Decor,3810,4.3,18
+5712,58,Female,Electronics,3888,4.9,13
+5713,48,Female,Fashion,1495,4.7,8
+5714,38,Male,Electronics,6661,1.7,18
+5715,37,Female,Fashion,2377,1.1,13
+5716,56,Male,Home Decor,8603,2.8,14
+5717,39,Male,Sports,3764,3.9,15
+5718,21,Male,Books,1848,4.9,6
+5719,30,Female,Home Decor,2751,4.1,1
+5720,59,Female,Fashion,7790,3.3,7
+5721,37,Female,Electronics,8518,1.1,1
+5722,30,Male,Home Decor,7090,4.3,15
+5723,34,Male,Sports,8158,1.7,6
+5724,53,Male,Fashion,932,1.2,5
+5725,50,Female,Electronics,6243,4.4,12
+5726,18,Male,Books,5747,3.3,3
+5727,32,Male,Fashion,8215,1.5,14
+5728,30,Female,Electronics,4317,2.5,6
+5729,34,Male,Books,1570,1.3,4
+5730,41,Male,Electronics,5100,3.6,15
+5731,25,Female,Books,8806,2.1,17
+5732,44,Female,Books,1494,4.5,5
+5733,40,Male,Books,4818,2.4,6
+5734,25,Female,Electronics,5231,3.0,10
+5735,25,Male,Books,6568,1.3,9
+5736,43,Female,Fashion,8170,2.1,4
+5737,30,Male,Sports,5267,3.7,9
+5738,56,Female,Sports,1457,3.9,8
+5739,54,Male,Books,8787,2.0,3
+5740,45,Female,Sports,2654,3.0,1
+5741,42,Female,Sports,1131,4.3,5
+5742,33,Female,Books,6545,2.5,3
+5743,19,Female,Books,1197,1.5,4
+5744,35,Female,Fashion,531,2.7,19
+5745,34,Female,Home Decor,6709,3.4,15
+5746,47,Female,Electronics,5374,1.0,19
+5747,56,Male,Books,6062,2.4,16
+5748,30,Male,Books,9240,3.4,8
+5749,49,Female,Sports,2748,4.8,14
+5750,46,Female,Fashion,6692,2.6,5
+5751,47,Male,Sports,6906,1.7,1
+5752,35,Male,Books,1656,3.1,19
+5753,30,Female,Books,9035,2.1,5
+5754,38,Male,Sports,5795,1.9,3
+5755,47,Male,Books,6654,3.4,17
+5756,38,Female,Home Decor,2748,4.7,7
+5757,34,Female,Electronics,9636,4.3,17
+5758,57,Female,Electronics,3785,1.7,13
+5759,36,Male,Electronics,2503,4.1,14
+5760,32,Female,Home Decor,4115,1.9,12
+5761,26,Female,Books,4172,2.2,11
+5762,27,Male,Sports,7958,4.7,1
+5763,48,Female,Fashion,2655,4.6,3
+5764,40,Male,Books,3979,1.7,12
+5765,47,Male,Home Decor,551,1.3,9
+5766,50,Male,Home Decor,2659,2.2,2
+5767,26,Male,Electronics,4890,3.3,14
+5768,18,Male,Books,4151,4.5,5
+5769,52,Male,Electronics,7856,1.5,3
+5770,28,Female,Fashion,2612,2.7,12
+5771,51,Female,Electronics,6265,2.1,12
+5772,33,Female,Fashion,1854,1.1,7
+5773,26,Male,Home Decor,6120,4.2,1
+5774,49,Female,Electronics,4254,4.3,3
+5775,32,Male,Electronics,709,1.9,11
+5776,29,Female,Sports,6732,1.6,13
+5777,50,Male,Home Decor,8346,1.6,10
+5778,31,Female,Sports,6671,2.9,19
+5779,25,Male,Fashion,737,2.0,4
+5780,25,Female,Fashion,9027,3.0,5
+5781,44,Male,Home Decor,8575,2.5,11
+5782,29,Female,Fashion,2076,1.8,9
+5783,18,Male,Home Decor,9191,4.0,13
+5784,57,Female,Fashion,9482,1.6,17
+5785,59,Female,Books,4040,4.2,15
+5786,28,Female,Electronics,9827,3.2,13
+5787,56,Male,Books,7757,4.3,11
+5788,48,Male,Home Decor,649,1.0,1
+5789,34,Male,Home Decor,2124,4.0,8
+5790,50,Male,Books,8161,1.2,5
+5791,49,Male,Electronics,3074,4.8,16
+5792,46,Female,Electronics,4928,3.8,4
+5793,38,Male,Sports,8029,2.3,19
+5794,38,Female,Fashion,4769,2.3,18
+5795,57,Female,Sports,8269,4.4,2
+5796,40,Male,Electronics,2608,4.6,13
+5797,23,Female,Books,4447,4.6,16
+5798,39,Male,Fashion,8399,4.2,8
+5799,55,Male,Books,5414,4.3,19
+5800,54,Male,Sports,7167,3.3,3
+5801,25,Female,Home Decor,2763,1.1,19
+5802,58,Male,Books,4315,1.3,17
+5803,52,Male,Sports,1077,3.6,9
+5804,28,Male,Sports,922,2.6,17
+5805,41,Female,Sports,3263,3.3,1
+5806,38,Male,Home Decor,1729,1.9,4
+5807,19,Female,Home Decor,3676,3.6,15
+5808,57,Female,Home Decor,9445,2.0,12
+5809,36,Male,Fashion,1187,2.8,17
+5810,56,Female,Home Decor,1222,2.9,12
+5811,45,Female,Home Decor,1246,1.7,16
+5812,34,Male,Home Decor,4837,4.5,13
+5813,23,Male,Books,3212,3.1,11
+5814,36,Male,Home Decor,1207,4.5,15
+5815,55,Female,Fashion,9126,2.1,16
+5816,45,Male,Sports,983,1.7,6
+5817,19,Female,Books,2033,1.1,11
+5818,55,Female,Electronics,669,1.4,15
+5819,54,Female,Home Decor,1520,1.6,5
+5820,21,Female,Sports,7593,1.3,3
+5821,39,Female,Sports,6966,4.6,2
+5822,43,Male,Books,1347,4.6,1
+5823,53,Male,Electronics,9387,4.7,15
+5824,30,Female,Fashion,3846,4.8,2
+5825,49,Female,Sports,4513,3.0,6
+5826,34,Male,Sports,8578,3.1,12
+5827,58,Male,Sports,531,1.5,16
+5828,53,Female,Sports,8868,1.5,14
+5829,36,Female,Books,8377,4.1,4
+5830,52,Male,Electronics,6670,4.4,8
+5831,57,Male,Sports,8330,4.1,12
+5832,45,Female,Fashion,2815,4.3,14
+5833,18,Male,Fashion,565,2.1,13
+5834,59,Male,Home Decor,2428,2.9,5
+5835,35,Female,Sports,5511,2.8,12
+5836,57,Female,Sports,8033,5.0,10
+5837,50,Female,Sports,6725,4.8,19
+5838,29,Male,Sports,5947,3.4,13
+5839,25,Female,Sports,1084,1.6,9
+5840,41,Male,Fashion,6970,2.0,11
+5841,33,Female,Electronics,7185,2.5,5
+5842,21,Female,Electronics,5744,4.5,13
+5843,55,Male,Home Decor,8654,1.7,10
+5844,44,Male,Fashion,8451,1.9,18
+5845,26,Female,Sports,2248,2.4,15
+5846,33,Female,Electronics,8170,4.7,12
+5847,29,Male,Books,2704,3.0,4
+5848,48,Female,Books,2392,3.6,5
+5849,41,Male,Books,7518,2.5,8
+5850,31,Male,Sports,3593,1.8,5
+5851,42,Female,Sports,1473,1.9,1
+5852,51,Male,Home Decor,4524,4.2,18
+5853,20,Male,Home Decor,7115,4.6,19
+5854,41,Male,Home Decor,4829,3.0,19
+5855,59,Female,Books,7215,2.4,10
+5856,26,Male,Sports,1977,4.2,9
+5857,43,Female,Books,6189,3.7,1
+5858,37,Female,Home Decor,9462,1.2,3
+5859,57,Female,Sports,7829,2.4,13
+5860,27,Male,Fashion,6944,3.7,6
+5861,36,Male,Electronics,8997,3.3,6
+5862,20,Female,Electronics,501,4.9,18
+5863,41,Female,Home Decor,8962,4.5,5
+5864,22,Male,Books,7343,1.2,17
+5865,20,Female,Fashion,9555,3.9,3
+5866,44,Female,Sports,6472,2.3,5
+5867,33,Male,Books,8403,3.7,3
+5868,32,Female,Home Decor,5605,3.5,13
+5869,52,Male,Books,8202,3.0,15
+5870,29,Male,Home Decor,3414,4.4,17
+5871,58,Female,Electronics,5656,3.8,15
+5872,43,Male,Electronics,8798,4.6,5
+5873,51,Male,Books,3668,2.1,14
+5874,40,Male,Fashion,3099,2.4,11
+5875,48,Female,Sports,6216,3.5,14
+5876,37,Female,Home Decor,2735,4.9,7
+5877,29,Female,Sports,3299,2.5,3
+5878,40,Male,Electronics,7513,1.1,10
+5879,21,Male,Fashion,5973,2.8,11
+5880,40,Female,Fashion,518,3.2,6
+5881,18,Female,Sports,1358,4.2,5
+5882,42,Male,Electronics,5880,3.9,13
+5883,19,Female,Sports,3532,4.9,12
+5884,47,Female,Books,5005,4.1,19
+5885,20,Female,Fashion,6289,2.2,19
+5886,38,Female,Fashion,3031,3.6,5
+5887,42,Female,Books,7971,3.7,9
+5888,37,Male,Electronics,5219,5.0,4
+5889,39,Female,Fashion,5363,1.6,15
+5890,38,Female,Home Decor,4538,1.8,3
+5891,50,Male,Home Decor,2952,1.6,7
+5892,55,Male,Electronics,3346,3.4,14
+5893,32,Male,Books,8564,1.5,14
+5894,32,Male,Sports,7122,3.6,9
+5895,42,Female,Electronics,9396,4.2,3
+5896,38,Female,Sports,3962,2.7,9
+5897,41,Female,Electronics,1659,3.2,4
+5898,22,Female,Home Decor,5126,4.7,17
+5899,23,Male,Books,7556,3.3,6
+5900,40,Male,Home Decor,4222,1.8,16
+5901,21,Female,Books,4060,2.4,18
+5902,44,Female,Sports,6617,3.1,13
+5903,35,Female,Electronics,7089,1.6,7
+5904,38,Female,Fashion,7349,3.5,3
+5905,45,Male,Fashion,2743,5.0,6
+5906,52,Female,Books,8677,3.6,3
+5907,39,Male,Books,2260,2.5,12
+5908,57,Male,Home Decor,5942,2.3,5
+5909,40,Male,Fashion,8179,4.7,17
+5910,20,Male,Home Decor,3175,4.5,10
+5911,57,Female,Sports,7624,2.9,7
+5912,27,Female,Fashion,6281,2.4,4
+5913,42,Female,Sports,3736,3.8,10
+5914,25,Female,Electronics,6398,2.3,7
+5915,28,Male,Home Decor,8735,1.5,11
+5916,22,Male,Books,9180,2.2,8
+5917,54,Male,Fashion,4776,2.7,8
+5918,55,Female,Home Decor,5223,2.0,5
+5919,46,Male,Books,9648,1.9,5
+5920,22,Male,Electronics,6144,1.0,7
+5921,26,Male,Fashion,1615,3.5,4
+5922,19,Male,Sports,2281,3.5,2
+5923,18,Female,Electronics,9342,1.8,19
+5924,57,Male,Books,2376,4.8,2
+5925,47,Male,Fashion,5863,2.6,16
+5926,28,Female,Fashion,9032,1.1,12
+5927,45,Female,Electronics,3875,1.9,15
+5928,29,Female,Fashion,3250,3.8,10
+5929,56,Male,Books,3776,1.8,6
+5930,43,Male,Electronics,948,1.2,13
+5931,30,Male,Sports,6037,3.5,6
+5932,25,Male,Electronics,4672,3.1,2
+5933,45,Female,Electronics,9489,4.0,14
+5934,47,Male,Sports,3996,4.1,18
+5935,26,Male,Books,2682,4.8,6
+5936,56,Female,Home Decor,3826,1.2,19
+5937,48,Female,Home Decor,9337,1.2,14
+5938,38,Female,Sports,1219,4.9,13
+5939,51,Male,Books,2022,3.6,8
+5940,48,Male,Fashion,7256,3.9,5
+5941,42,Male,Sports,7127,1.4,13
+5942,29,Male,Home Decor,1569,1.3,6
+5943,18,Male,Books,6062,1.6,19
+5944,39,Female,Electronics,8249,2.7,11
+5945,57,Female,Books,5387,1.4,16
+5946,54,Male,Books,5174,2.8,5
+5947,18,Male,Home Decor,2656,3.2,12
+5948,18,Male,Home Decor,8444,1.0,17
+5949,59,Male,Fashion,4639,1.5,2
+5950,59,Male,Fashion,6129,2.5,10
+5951,38,Female,Sports,7587,1.2,15
+5952,32,Female,Electronics,5578,1.5,19
+5953,34,Female,Fashion,6905,1.9,17
+5954,39,Male,Home Decor,7371,2.7,19
+5955,55,Male,Books,1132,3.9,19
+5956,52,Female,Sports,2699,1.5,13
+5957,33,Female,Fashion,5853,4.0,13
+5958,25,Male,Books,3410,4.4,16
+5959,34,Female,Books,1122,3.6,3
+5960,34,Female,Fashion,6573,1.2,4
+5961,43,Male,Electronics,860,2.8,7
+5962,30,Female,Electronics,6865,3.6,3
+5963,34,Female,Sports,8901,4.9,9
+5964,55,Female,Electronics,9622,4.8,8
+5965,34,Male,Sports,4443,2.6,18
+5966,31,Female,Home Decor,5369,3.5,14
+5967,23,Female,Fashion,8628,4.6,5
+5968,52,Female,Books,1377,4.3,3
+5969,31,Male,Sports,5295,2.9,10
+5970,25,Male,Electronics,8291,2.0,11
+5971,32,Female,Sports,3023,1.5,17
+5972,44,Male,Sports,6770,3.0,8
+5973,30,Female,Electronics,9083,3.9,9
+5974,48,Male,Electronics,7123,4.9,8
+5975,52,Male,Fashion,5588,4.4,2
+5976,23,Female,Books,8064,1.8,4
+5977,22,Female,Fashion,7566,3.9,16
+5978,39,Female,Fashion,7045,2.2,9
+5979,40,Male,Electronics,2821,3.7,9
+5980,42,Female,Electronics,8649,3.7,5
+5981,51,Male,Books,8625,2.1,3
+5982,43,Male,Sports,8830,1.9,14
+5983,22,Female,Fashion,8794,1.4,15
+5984,43,Male,Books,5833,1.2,6
+5985,37,Female,Fashion,9175,4.4,16
+5986,23,Male,Sports,8358,1.2,10
+5987,23,Female,Fashion,4819,1.4,14
+5988,35,Male,Home Decor,5889,2.0,12
+5989,21,Male,Books,2348,4.6,9
+5990,34,Female,Electronics,3705,2.3,19
+5991,31,Male,Fashion,2661,1.8,12
+5992,31,Female,Books,1964,3.9,13
+5993,30,Male,Books,1143,2.3,13
+5994,24,Male,Fashion,5851,2.3,17
+5995,32,Male,Electronics,5053,4.0,2
+5996,36,Female,Electronics,7018,2.0,9
+5997,52,Female,Fashion,6223,4.6,8
+5998,34,Female,Books,8446,3.2,7
+5999,52,Female,Electronics,1110,3.2,5
